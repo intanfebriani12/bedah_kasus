@@ -1,0 +1,1001 @@
+ID Mahasiswa,Jurusan,Semester,IPK,Usia,Kelas
+MHS-0001,Sistem Informasi,3,3.85,20,Reguler
+MHS-0002,Manajemen,1,3.5,19,Reguler
+MHS-0003,Akuntansi,4,3.38,38,Karyawan
+MHS-0004,Sistem Informasi,4,3.08,20,Reguler
+MHS-0005,Sistem Informasi,1,2.91,18,Reguler
+MHS-0006,Teknik Industri,5,3.3,21,Reguler
+MHS-0007,Manajemen,4,3.65,20,Reguler
+MHS-0008,Teknik Informatika,3,2.73,39,Karyawan
+MHS-0009,Akuntansi,7,3.75,21,Reguler
+MHS-0010,Teknik Informatika,6,3.26,20,Reguler
+MHS-0011,Teknik Informatika,7,3.05,33,Karyawan
+MHS-0012,Manajemen,2,3.07,17,Reguler
+MHS-0013,Ilmu Komunikasi,7,3.7,22,Reguler
+MHS-0014,Ilmu Komunikasi,3,3.81,19,Reguler
+MHS-0015,Teknik Informatika,2,2.78,30,Karyawan
+MHS-0016,Teknik Informatika,1,3.67,17,Reguler
+MHS-0017,Manajemen,1,2.86,17,Reguler
+MHS-0018,Sistem Informasi,6,3.31,20,Reguler
+MHS-0019,Teknik Informatika,7,3.81,21,Reguler
+MHS-0020,Ilmu Komunikasi,3,3.23,20,Reguler
+MHS-0021,Teknik Industri,7,2.9,39,Karyawan
+MHS-0022,Manajemen,5,3.28,20,Reguler
+MHS-0023,Manajemen,5,2.86,20,Reguler
+MHS-0024,Ilmu Komunikasi,3,3.6,20,Reguler
+MHS-0025,Manajemen,6,3.48,21,Reguler
+MHS-0026,Ilmu Komunikasi,2,3.72,18,Reguler
+MHS-0027,Ilmu Komunikasi,5,3.91,20,Reguler
+MHS-0028,Sistem Informasi,1,2.68,18,Reguler
+MHS-0029,Sistem Informasi,3,3.2,27,Karyawan
+MHS-0030,Akuntansi,2,3.39,19,Reguler
+MHS-0031,Sistem Informasi,7,2.83,21,Reguler
+MHS-0032,Teknik Informatika,7,2.84,21,Reguler
+MHS-0033,Teknik Informatika,4,3.39,21,Reguler
+MHS-0034,Manajemen,4,3.03,21,Reguler
+MHS-0035,Sistem Informasi,8,3.6,21,Reguler
+MHS-0036,Manajemen,1,3.33,19,Reguler
+MHS-0037,Manajemen,3,3.72,20,Reguler
+MHS-0038,Sistem Informasi,7,3.37,23,Reguler
+MHS-0039,Teknik Informatika,7,3.32,20,Reguler
+MHS-0040,Manajemen,2,3.19,19,Reguler
+MHS-0041,Teknik Informatika,5,3.39,20,Reguler
+MHS-0042,Teknik Informatika,5,3.07,20,Reguler
+MHS-0043,Teknik Informatika,4,3.2,19,Reguler
+MHS-0044,Sistem Informasi,3,3.1,19,Reguler
+MHS-0045,Manajemen,2,3.66,19,Reguler
+MHS-0046,Sistem Informasi,5,3.63,20,Reguler
+MHS-0047,Manajemen,4,3.35,20,Reguler
+MHS-0048,Sistem Informasi,1,3.04,17,Reguler
+MHS-0049,Manajemen,5,3.35,21,Reguler
+MHS-0050,Teknik Industri,2,2.77,18,Reguler
+MHS-0051,Teknik Informatika,3,3.73,34,Karyawan
+MHS-0052,Sistem Informasi,1,3.48,18,Reguler
+MHS-0053,Teknik Informatika,6,4.0,21,Reguler
+MHS-0054,Manajemen,2,3.65,19,Reguler
+MHS-0055,Manajemen,2,3.13,38,Karyawan
+MHS-0056,Sistem Informasi,1,3.21,18,Reguler
+MHS-0057,Sistem Informasi,3,2.85,18,Reguler
+MHS-0058,Teknik Industri,2,3.63,18,Reguler
+MHS-0059,Manajemen,5,3.25,19,Reguler
+MHS-0060,Manajemen,3,3.77,19,Reguler
+MHS-0061,Teknik Industri,4,3.13,20,Reguler
+MHS-0062,Akuntansi,8,4.0,35,Karyawan
+MHS-0063,Teknik Industri,5,2.67,20,Reguler
+MHS-0064,Teknik Informatika,4,3.52,20,Reguler
+MHS-0065,Sistem Informasi,6,2.75,21,Reguler
+MHS-0066,Sistem Informasi,1,3.18,18,Reguler
+MHS-0067,Teknik Informatika,2,3.14,19,Reguler
+MHS-0068,Manajemen,8,3.25,21,Reguler
+MHS-0069,Manajemen,2,3.57,19,Reguler
+MHS-0070,Teknik Industri,2,3.28,18,Reguler
+MHS-0071,Teknik Industri,1,2.16,19,Reguler
+MHS-0072,Manajemen,1,3.25,18,Reguler
+MHS-0073,Sistem Informasi,1,3.41,18,Reguler
+MHS-0074,Manajemen,7,3.44,21,Reguler
+MHS-0075,Ilmu Komunikasi,4,3.57,19,Reguler
+MHS-0076,Teknik Industri,8,2.96,22,Reguler
+MHS-0077,Akuntansi,3,4.0,18,Reguler
+MHS-0078,Akuntansi,7,2.65,22,Reguler
+MHS-0079,Teknik Industri,3,3.0,19,Reguler
+MHS-0080,Akuntansi,2,3.39,19,Reguler
+MHS-0081,Akuntansi,6,3.11,35,Karyawan
+MHS-0082,Teknik Informatika,4,2.75,37,Karyawan
+MHS-0083,Teknik Informatika,8,2.99,21,Reguler
+MHS-0084,Manajemen,3,3.31,19,Reguler
+MHS-0085,Teknik Industri,1,3.14,17,Reguler
+MHS-0086,Akuntansi,1,3.36,17,Reguler
+MHS-0087,Teknik Industri,1,3.4,19,Reguler
+MHS-0088,Manajemen,5,4.0,21,Reguler
+MHS-0089,Manajemen,5,3.85,21,Reguler
+MHS-0090,Akuntansi,7,3.66,22,Reguler
+MHS-0091,Akuntansi,5,3.15,20,Reguler
+MHS-0092,Teknik Informatika,4,2.75,19,Reguler
+MHS-0093,Ilmu Komunikasi,6,3.68,22,Reguler
+MHS-0094,Teknik Informatika,2,3.5,19,Reguler
+MHS-0095,Akuntansi,5,3.42,21,Reguler
+MHS-0096,Teknik Informatika,1,3.19,18,Reguler
+MHS-0097,Teknik Informatika,3,3.16,18,Reguler
+MHS-0098,Ilmu Komunikasi,6,3.48,21,Reguler
+MHS-0099,Akuntansi,1,3.36,18,Reguler
+MHS-0100,Teknik Informatika,6,3.18,21,Reguler
+MHS-0101,Akuntansi,6,3.52,20,Reguler
+MHS-0102,Akuntansi,8,3.12,33,Karyawan
+MHS-0103,Teknik Informatika,7,3.72,21,Reguler
+MHS-0104,Ilmu Komunikasi,1,3.71,24,Karyawan
+MHS-0105,Ilmu Komunikasi,4,3.74,21,Reguler
+MHS-0106,Teknik Informatika,2,3.1,18,Reguler
+MHS-0107,Akuntansi,6,3.44,20,Reguler
+MHS-0108,Teknik Informatika,8,2.77,22,Reguler
+MHS-0109,Teknik Informatika,2,3.21,19,Reguler
+MHS-0110,Teknik Industri,3,2.78,18,Reguler
+MHS-0111,Ilmu Komunikasi,6,3.75,21,Reguler
+MHS-0112,Manajemen,3,3.11,19,Reguler
+MHS-0113,Teknik Informatika,1,3.5,19,Reguler
+MHS-0114,Teknik Informatika,1,3.16,18,Reguler
+MHS-0115,Manajemen,4,3.08,33,Karyawan
+MHS-0116,Akuntansi,3,3.44,30,Karyawan
+MHS-0117,Ilmu Komunikasi,3,3.5,36,Karyawan
+MHS-0118,Akuntansi,7,3.28,34,Karyawan
+MHS-0119,Teknik Industri,1,2.81,33,Karyawan
+MHS-0120,Akuntansi,2,3.41,18,Reguler
+MHS-0121,Manajemen,6,3.7,20,Reguler
+MHS-0122,Ilmu Komunikasi,6,3.42,21,Reguler
+MHS-0123,Manajemen,5,3.77,27,Karyawan
+MHS-0124,Manajemen,5,3.56,20,Reguler
+MHS-0125,Akuntansi,1,3.61,18,Reguler
+MHS-0126,Akuntansi,8,3.84,21,Reguler
+MHS-0127,Manajemen,5,3.14,37,Karyawan
+MHS-0128,Manajemen,1,3.53,34,Karyawan
+MHS-0129,Ilmu Komunikasi,8,3.44,22,Reguler
+MHS-0130,Manajemen,3,3.16,18,Reguler
+MHS-0131,Manajemen,4,3.04,20,Reguler
+MHS-0132,Ilmu Komunikasi,3,3.26,19,Reguler
+MHS-0133,Ilmu Komunikasi,1,3.2,26,Karyawan
+MHS-0134,Akuntansi,2,3.24,19,Reguler
+MHS-0135,Manajemen,4,3.85,26,Karyawan
+MHS-0136,Sistem Informasi,5,3.0,21,Reguler
+MHS-0137,Sistem Informasi,6,3.52,22,Reguler
+MHS-0138,Teknik Informatika,3,2.76,18,Reguler
+MHS-0139,Sistem Informasi,6,3.76,21,Reguler
+MHS-0140,Teknik Industri,3,3.23,19,Reguler
+MHS-0141,Teknik Informatika,1,3.0,32,Karyawan
+MHS-0142,Sistem Informasi,3,3.44,19,Reguler
+MHS-0143,Manajemen,6,3.78,20,Reguler
+MHS-0144,Akuntansi,2,3.33,19,Reguler
+MHS-0145,Sistem Informasi,1,3.13,31,Karyawan
+MHS-0146,Sistem Informasi,5,3.72,22,Reguler
+MHS-0147,Ilmu Komunikasi,8,4.0,33,Karyawan
+MHS-0148,Manajemen,8,3.62,22,Reguler
+MHS-0149,Ilmu Komunikasi,7,3.36,22,Reguler
+MHS-0150,Teknik Informatika,1,3.74,18,Reguler
+MHS-0151,Teknik Industri,1,3.23,18,Reguler
+MHS-0152,Sistem Informasi,5,3.73,20,Reguler
+MHS-0153,Akuntansi,8,3.07,22,Reguler
+MHS-0154,Teknik Industri,2,3.21,19,Reguler
+MHS-0155,Sistem Informasi,2,3.22,19,Reguler
+MHS-0156,Sistem Informasi,3,3.33,19,Reguler
+MHS-0157,Akuntansi,7,3.11,21,Reguler
+MHS-0158,Manajemen,7,3.34,21,Reguler
+MHS-0159,Manajemen,4,3.56,19,Reguler
+MHS-0160,Akuntansi,2,3.44,18,Reguler
+MHS-0161,Teknik Industri,4,4.0,20,Reguler
+MHS-0162,Akuntansi,4,3.59,20,Reguler
+MHS-0163,Teknik Industri,5,2.9,20,Reguler
+MHS-0164,Ilmu Komunikasi,3,3.51,28,Karyawan
+MHS-0165,Ilmu Komunikasi,5,3.53,20,Reguler
+MHS-0166,Teknik Informatika,1,3.04,18,Reguler
+MHS-0167,Teknik Informatika,1,2.84,18,Reguler
+MHS-0168,Teknik Industri,5,3.68,20,Reguler
+MHS-0169,Teknik Informatika,1,3.41,18,Reguler
+MHS-0170,Teknik Industri,2,3.85,18,Reguler
+MHS-0171,Teknik Informatika,7,3.27,21,Reguler
+MHS-0172,Sistem Informasi,6,3.04,22,Reguler
+MHS-0173,Manajemen,6,3.09,22,Reguler
+MHS-0174,Teknik Informatika,1,3.06,18,Reguler
+MHS-0175,Sistem Informasi,5,3.84,20,Reguler
+MHS-0176,Ilmu Komunikasi,4,3.04,20,Reguler
+MHS-0177,Teknik Informatika,1,3.41,18,Reguler
+MHS-0178,Sistem Informasi,5,3.13,20,Reguler
+MHS-0179,Teknik Informatika,7,2.94,20,Reguler
+MHS-0180,Sistem Informasi,2,3.62,18,Reguler
+MHS-0181,Manajemen,4,3.91,20,Reguler
+MHS-0182,Teknik Industri,8,3.46,21,Reguler
+MHS-0183,Akuntansi,1,2.94,17,Reguler
+MHS-0184,Teknik Informatika,5,3.14,21,Reguler
+MHS-0185,Teknik Industri,7,3.43,38,Karyawan
+MHS-0186,Teknik Informatika,3,3.3,19,Reguler
+MHS-0187,Sistem Informasi,8,3.57,22,Reguler
+MHS-0188,Teknik Informatika,7,3.28,21,Reguler
+MHS-0189,Sistem Informasi,4,3.64,30,Karyawan
+MHS-0190,Sistem Informasi,1,2.82,18,Reguler
+MHS-0191,Sistem Informasi,1,2.68,19,Reguler
+MHS-0192,Teknik Informatika,6,4.0,20,Reguler
+MHS-0193,Teknik Informatika,3,3.38,19,Reguler
+MHS-0194,Manajemen,1,3.05,18,Reguler
+MHS-0195,Ilmu Komunikasi,6,3.35,20,Reguler
+MHS-0196,Manajemen,1,2.92,18,Reguler
+MHS-0197,Teknik Industri,1,3.11,29,Karyawan
+MHS-0198,Ilmu Komunikasi,4,3.8,20,Reguler
+MHS-0199,Manajemen,4,3.02,20,Reguler
+MHS-0200,Sistem Informasi,6,3.82,41,Karyawan
+MHS-0201,Sistem Informasi,5,3.6,20,Reguler
+MHS-0202,Teknik Industri,3,2.48,20,Reguler
+MHS-0203,Akuntansi,1,3.34,17,Reguler
+MHS-0204,Manajemen,6,3.13,27,Karyawan
+MHS-0205,Akuntansi,7,3.54,35,Karyawan
+MHS-0206,Sistem Informasi,7,3.45,40,Karyawan
+MHS-0207,Teknik Industri,1,3.22,18,Reguler
+MHS-0208,Akuntansi,5,3.2,21,Reguler
+MHS-0209,Manajemen,3,3.13,19,Reguler
+MHS-0210,Akuntansi,5,3.03,21,Reguler
+MHS-0211,Manajemen,7,3.13,22,Reguler
+MHS-0212,Manajemen,4,3.69,20,Reguler
+MHS-0213,Manajemen,7,3.5,27,Karyawan
+MHS-0214,Sistem Informasi,5,3.18,19,Reguler
+MHS-0215,Akuntansi,5,3.58,21,Reguler
+MHS-0216,Ilmu Komunikasi,5,3.53,20,Reguler
+MHS-0217,Manajemen,7,2.92,22,Reguler
+MHS-0218,Sistem Informasi,1,2.96,18,Reguler
+MHS-0219,Akuntansi,3,3.1,19,Reguler
+MHS-0220,Manajemen,5,3.79,20,Reguler
+MHS-0221,Sistem Informasi,2,3.38,19,Reguler
+MHS-0222,Manajemen,1,2.94,18,Reguler
+MHS-0223,Sistem Informasi,6,3.44,20,Reguler
+MHS-0224,Teknik Industri,7,3.02,35,Karyawan
+MHS-0225,Manajemen,2,3.24,18,Reguler
+MHS-0226,Akuntansi,6,3.5,21,Reguler
+MHS-0227,Sistem Informasi,6,3.88,23,Reguler
+MHS-0228,Sistem Informasi,3,3.81,19,Reguler
+MHS-0229,Teknik Industri,4,3.71,21,Reguler
+MHS-0230,Manajemen,1,3.52,18,Reguler
+MHS-0231,Teknik Industri,2,3.47,19,Reguler
+MHS-0232,Sistem Informasi,8,2.57,22,Reguler
+MHS-0233,Teknik Informatika,2,3.41,19,Reguler
+MHS-0234,Ilmu Komunikasi,1,3.41,18,Reguler
+MHS-0235,Sistem Informasi,2,3.29,20,Reguler
+MHS-0236,Manajemen,1,2.87,18,Reguler
+MHS-0237,Teknik Informatika,5,3.42,20,Reguler
+MHS-0238,Teknik Informatika,1,3.44,19,Reguler
+MHS-0239,Sistem Informasi,4,3.11,19,Reguler
+MHS-0240,Akuntansi,4,3.3,19,Reguler
+MHS-0241,Sistem Informasi,5,3.64,34,Karyawan
+MHS-0242,Teknik Informatika,6,3.21,21,Reguler
+MHS-0243,Manajemen,2,3.35,19,Reguler
+MHS-0244,Ilmu Komunikasi,2,3.02,18,Reguler
+MHS-0245,Teknik Industri,5,2.76,21,Reguler
+MHS-0246,Manajemen,4,3.18,20,Reguler
+MHS-0247,Teknik Industri,2,3.1,19,Reguler
+MHS-0248,Teknik Informatika,1,3.18,19,Reguler
+MHS-0249,Sistem Informasi,8,3.63,21,Reguler
+MHS-0250,Teknik Informatika,1,3.17,18,Reguler
+MHS-0251,Sistem Informasi,2,3.73,39,Karyawan
+MHS-0252,Teknik Informatika,4,3.5,20,Reguler
+MHS-0253,Manajemen,3,3.18,35,Karyawan
+MHS-0254,Teknik Informatika,5,3.33,21,Reguler
+MHS-0255,Manajemen,8,2.97,22,Reguler
+MHS-0256,Manajemen,1,3.55,18,Reguler
+MHS-0257,Teknik Informatika,4,3.15,19,Reguler
+MHS-0258,Teknik Industri,5,2.98,18,Reguler
+MHS-0259,Teknik Informatika,5,3.4,21,Reguler
+MHS-0260,Teknik Informatika,2,3.34,18,Reguler
+MHS-0261,Manajemen,1,3.32,19,Reguler
+MHS-0262,Manajemen,1,3.01,18,Reguler
+MHS-0263,Manajemen,5,3.55,21,Reguler
+MHS-0264,Akuntansi,5,3.41,19,Reguler
+MHS-0265,Teknik Informatika,6,3.14,38,Karyawan
+MHS-0266,Sistem Informasi,2,2.89,29,Karyawan
+MHS-0267,Ilmu Komunikasi,4,3.32,26,Karyawan
+MHS-0268,Akuntansi,6,3.21,20,Reguler
+MHS-0269,Sistem Informasi,4,3.38,20,Reguler
+MHS-0270,Teknik Informatika,5,2.92,20,Reguler
+MHS-0271,Teknik Informatika,1,2.98,19,Reguler
+MHS-0272,Manajemen,2,3.44,19,Reguler
+MHS-0273,Ilmu Komunikasi,7,3.76,31,Karyawan
+MHS-0274,Teknik Informatika,6,3.49,19,Reguler
+MHS-0275,Akuntansi,4,3.33,20,Reguler
+MHS-0276,Ilmu Komunikasi,2,3.16,19,Reguler
+MHS-0277,Teknik Informatika,7,3.26,27,Karyawan
+MHS-0278,Akuntansi,5,4.0,35,Karyawan
+MHS-0279,Sistem Informasi,2,3.49,20,Reguler
+MHS-0280,Teknik Informatika,6,3.68,20,Reguler
+MHS-0281,Teknik Informatika,2,2.63,17,Reguler
+MHS-0282,Teknik Informatika,1,3.35,18,Reguler
+MHS-0283,Teknik Informatika,5,3.17,20,Reguler
+MHS-0284,Teknik Industri,5,3.15,20,Reguler
+MHS-0285,Manajemen,6,3.87,20,Reguler
+MHS-0286,Teknik Industri,6,2.84,21,Reguler
+MHS-0287,Teknik Informatika,4,4.0,39,Karyawan
+MHS-0288,Teknik Informatika,1,3.13,18,Reguler
+MHS-0289,Teknik Informatika,8,3.5,22,Reguler
+MHS-0290,Teknik Informatika,3,3.38,19,Reguler
+MHS-0291,Akuntansi,8,3.35,20,Reguler
+MHS-0292,Teknik Industri,3,2.36,25,Karyawan
+MHS-0293,Sistem Informasi,2,3.36,18,Reguler
+MHS-0294,Sistem Informasi,1,3.66,18,Reguler
+MHS-0295,Sistem Informasi,8,3.25,35,Karyawan
+MHS-0296,Sistem Informasi,2,3.36,34,Karyawan
+MHS-0297,Manajemen,8,3.14,42,Karyawan
+MHS-0298,Akuntansi,1,3.57,18,Reguler
+MHS-0299,Teknik Informatika,2,3.48,19,Reguler
+MHS-0300,Teknik Informatika,5,3.97,20,Reguler
+MHS-0301,Ilmu Komunikasi,4,3.54,21,Reguler
+MHS-0302,Ilmu Komunikasi,1,3.01,19,Reguler
+MHS-0303,Sistem Informasi,3,2.82,20,Reguler
+MHS-0304,Teknik Informatika,3,2.59,19,Reguler
+MHS-0305,Ilmu Komunikasi,1,3.33,18,Reguler
+MHS-0306,Teknik Industri,4,3.22,19,Reguler
+MHS-0307,Ilmu Komunikasi,1,2.82,19,Reguler
+MHS-0308,Teknik Industri,1,2.98,18,Reguler
+MHS-0309,Teknik Informatika,3,2.88,20,Reguler
+MHS-0310,Manajemen,2,2.99,18,Reguler
+MHS-0311,Akuntansi,6,3.09,21,Reguler
+MHS-0312,Akuntansi,2,3.22,19,Reguler
+MHS-0313,Manajemen,8,3.42,21,Reguler
+MHS-0314,Sistem Informasi,7,3.93,39,Karyawan
+MHS-0315,Ilmu Komunikasi,3,3.51,19,Reguler
+MHS-0316,Teknik Informatika,8,2.97,41,Karyawan
+MHS-0317,Sistem Informasi,5,3.17,21,Reguler
+MHS-0318,Akuntansi,1,3.28,18,Reguler
+MHS-0319,Manajemen,6,3.27,19,Reguler
+MHS-0320,Manajemen,6,3.54,20,Reguler
+MHS-0321,Teknik Industri,7,2.84,21,Reguler
+MHS-0322,Sistem Informasi,7,3.99,22,Reguler
+MHS-0323,Ilmu Komunikasi,2,3.51,19,Reguler
+MHS-0324,Akuntansi,1,3.18,37,Karyawan
+MHS-0325,Teknik Informatika,2,3.22,18,Reguler
+MHS-0326,Manajemen,4,3.51,20,Reguler
+MHS-0327,Ilmu Komunikasi,7,3.49,21,Reguler
+MHS-0328,Manajemen,1,3.65,19,Reguler
+MHS-0329,Akuntansi,7,3.67,21,Reguler
+MHS-0330,Akuntansi,2,3.15,18,Reguler
+MHS-0331,Teknik Industri,6,3.49,21,Reguler
+MHS-0332,Manajemen,8,3.41,21,Reguler
+MHS-0333,Akuntansi,7,3.53,27,Karyawan
+MHS-0334,Manajemen,8,3.5,21,Reguler
+MHS-0335,Manajemen,4,3.38,35,Karyawan
+MHS-0336,Teknik Informatika,3,3.1,19,Reguler
+MHS-0337,Manajemen,8,3.4,22,Reguler
+MHS-0338,Teknik Informatika,6,2.99,36,Karyawan
+MHS-0339,Teknik Informatika,2,3.18,33,Karyawan
+MHS-0340,Sistem Informasi,3,3.71,19,Reguler
+MHS-0341,Manajemen,6,3.09,20,Reguler
+MHS-0342,Manajemen,5,3.35,19,Reguler
+MHS-0343,Ilmu Komunikasi,1,3.48,19,Reguler
+MHS-0344,Manajemen,6,3.61,20,Reguler
+MHS-0345,Teknik Informatika,4,3.16,21,Reguler
+MHS-0346,Sistem Informasi,1,3.58,18,Reguler
+MHS-0347,Sistem Informasi,2,3.36,18,Reguler
+MHS-0348,Teknik Informatika,2,3.11,17,Reguler
+MHS-0349,Manajemen,5,3.12,34,Karyawan
+MHS-0350,Sistem Informasi,8,2.87,22,Reguler
+MHS-0351,Teknik Industri,3,4.0,20,Reguler
+MHS-0352,Sistem Informasi,2,3.36,33,Karyawan
+MHS-0353,Manajemen,1,2.97,19,Reguler
+MHS-0354,Akuntansi,5,3.18,20,Reguler
+MHS-0355,Teknik Informatika,4,3.11,19,Reguler
+MHS-0356,Manajemen,1,2.87,18,Reguler
+MHS-0357,Akuntansi,1,3.27,18,Reguler
+MHS-0358,Teknik Industri,2,2.87,19,Reguler
+MHS-0359,Sistem Informasi,6,2.97,20,Reguler
+MHS-0360,Akuntansi,5,3.75,20,Reguler
+MHS-0361,Ilmu Komunikasi,5,3.95,36,Karyawan
+MHS-0362,Sistem Informasi,2,2.63,19,Reguler
+MHS-0363,Teknik Informatika,4,3.38,38,Karyawan
+MHS-0364,Teknik Industri,4,2.48,19,Reguler
+MHS-0365,Teknik Informatika,4,3.2,21,Reguler
+MHS-0366,Sistem Informasi,3,3.63,28,Karyawan
+MHS-0367,Ilmu Komunikasi,1,3.81,18,Reguler
+MHS-0368,Akuntansi,4,3.48,20,Reguler
+MHS-0369,Teknik Informatika,2,3.03,18,Reguler
+MHS-0370,Ilmu Komunikasi,8,3.46,21,Reguler
+MHS-0371,Teknik Industri,6,3.06,22,Reguler
+MHS-0372,Manajemen,1,3.13,18,Reguler
+MHS-0373,Teknik Industri,7,3.62,21,Reguler
+MHS-0374,Manajemen,2,3.59,19,Reguler
+MHS-0375,Manajemen,4,3.34,34,Karyawan
+MHS-0376,Teknik Informatika,5,3.68,39,Karyawan
+MHS-0377,Manajemen,3,3.65,36,Karyawan
+MHS-0378,Sistem Informasi,1,3.6,19,Reguler
+MHS-0379,Akuntansi,3,3.2,20,Reguler
+MHS-0380,Teknik Industri,1,3.19,17,Reguler
+MHS-0381,Sistem Informasi,1,3.75,17,Reguler
+MHS-0382,Teknik Informatika,2,4.0,17,Reguler
+MHS-0383,Teknik Informatika,1,3.24,19,Reguler
+MHS-0384,Sistem Informasi,2,3.46,19,Reguler
+MHS-0385,Teknik Informatika,6,3.64,21,Reguler
+MHS-0386,Manajemen,2,2.98,17,Reguler
+MHS-0387,Teknik Industri,2,3.28,18,Reguler
+MHS-0388,Teknik Industri,8,3.19,22,Reguler
+MHS-0389,Manajemen,7,3.91,22,Reguler
+MHS-0390,Teknik Informatika,2,2.79,19,Reguler
+MHS-0391,Akuntansi,3,3.42,30,Karyawan
+MHS-0392,Sistem Informasi,3,2.97,20,Reguler
+MHS-0393,Akuntansi,4,3.16,19,Reguler
+MHS-0394,Teknik Informatika,6,3.49,21,Reguler
+MHS-0395,Ilmu Komunikasi,3,3.3,19,Reguler
+MHS-0396,Teknik Informatika,5,3.36,21,Reguler
+MHS-0397,Teknik Informatika,6,2.97,20,Reguler
+MHS-0398,Teknik Industri,3,2.86,19,Reguler
+MHS-0399,Teknik Informatika,3,3.19,18,Reguler
+MHS-0400,Ilmu Komunikasi,2,3.65,28,Karyawan
+MHS-0401,Sistem Informasi,1,2.81,17,Reguler
+MHS-0402,Ilmu Komunikasi,2,3.59,18,Reguler
+MHS-0403,Teknik Industri,5,3.14,19,Reguler
+MHS-0404,Teknik Informatika,2,3.24,18,Reguler
+MHS-0405,Teknik Industri,5,3.64,21,Reguler
+MHS-0406,Ilmu Komunikasi,2,3.85,18,Reguler
+MHS-0407,Teknik Industri,6,2.87,20,Reguler
+MHS-0408,Sistem Informasi,5,3.98,21,Reguler
+MHS-0409,Sistem Informasi,7,3.09,34,Karyawan
+MHS-0410,Manajemen,5,3.54,20,Reguler
+MHS-0411,Ilmu Komunikasi,8,3.87,23,Reguler
+MHS-0412,Manajemen,6,3.0,22,Reguler
+MHS-0413,Teknik Informatika,2,3.49,29,Karyawan
+MHS-0414,Teknik Informatika,3,3.14,18,Reguler
+MHS-0415,Manajemen,6,3.45,20,Reguler
+MHS-0416,Teknik Industri,4,2.96,28,Karyawan
+MHS-0417,Teknik Industri,8,2.96,22,Reguler
+MHS-0418,Sistem Informasi,3,2.75,20,Reguler
+MHS-0419,Teknik Informatika,2,3.26,18,Reguler
+MHS-0420,Sistem Informasi,5,2.95,18,Reguler
+MHS-0421,Teknik Informatika,6,3.81,20,Reguler
+MHS-0422,Sistem Informasi,1,3.43,17,Reguler
+MHS-0423,Sistem Informasi,2,3.37,18,Reguler
+MHS-0424,Akuntansi,2,3.4,18,Reguler
+MHS-0425,Teknik Informatika,2,3.48,19,Reguler
+MHS-0426,Teknik Informatika,5,2.2,36,Karyawan
+MHS-0427,Manajemen,5,4.0,21,Reguler
+MHS-0428,Manajemen,2,3.76,18,Reguler
+MHS-0429,Teknik Informatika,5,2.83,19,Reguler
+MHS-0430,Sistem Informasi,8,3.28,21,Reguler
+MHS-0431,Sistem Informasi,2,3.33,18,Reguler
+MHS-0432,Ilmu Komunikasi,7,3.62,20,Reguler
+MHS-0433,Manajemen,2,3.07,19,Reguler
+MHS-0434,Manajemen,7,3.81,22,Reguler
+MHS-0435,Manajemen,7,3.52,33,Karyawan
+MHS-0436,Akuntansi,7,2.94,22,Reguler
+MHS-0437,Ilmu Komunikasi,3,3.55,19,Reguler
+MHS-0438,Teknik Informatika,1,3.52,37,Karyawan
+MHS-0439,Sistem Informasi,4,3.35,19,Reguler
+MHS-0440,Manajemen,7,3.43,21,Reguler
+MHS-0441,Akuntansi,3,2.64,20,Reguler
+MHS-0442,Manajemen,1,3.66,29,Karyawan
+MHS-0443,Teknik Informatika,1,2.77,18,Reguler
+MHS-0444,Manajemen,7,3.85,21,Reguler
+MHS-0445,Akuntansi,5,3.19,19,Reguler
+MHS-0446,Manajemen,3,4.0,20,Reguler
+MHS-0447,Ilmu Komunikasi,2,3.27,20,Reguler
+MHS-0448,Manajemen,1,3.4,17,Reguler
+MHS-0449,Manajemen,3,3.1,19,Reguler
+MHS-0450,Sistem Informasi,2,2.73,18,Reguler
+MHS-0451,Manajemen,4,3.35,20,Reguler
+MHS-0452,Sistem Informasi,1,3.15,19,Reguler
+MHS-0453,Sistem Informasi,3,3.15,19,Reguler
+MHS-0454,Teknik Industri,3,3.08,18,Reguler
+MHS-0455,Teknik Industri,4,3.31,19,Reguler
+MHS-0456,Manajemen,1,3.6,17,Reguler
+MHS-0457,Teknik Informatika,5,3.14,19,Reguler
+MHS-0458,Teknik Informatika,5,2.82,20,Reguler
+MHS-0459,Akuntansi,1,2.97,19,Reguler
+MHS-0460,Sistem Informasi,3,3.73,19,Reguler
+MHS-0461,Akuntansi,6,3.33,21,Reguler
+MHS-0462,Manajemen,4,3.44,19,Reguler
+MHS-0463,Ilmu Komunikasi,8,3.92,21,Reguler
+MHS-0464,Akuntansi,3,3.48,19,Reguler
+MHS-0465,Teknik Informatika,3,3.36,20,Reguler
+MHS-0466,Akuntansi,5,3.3,40,Karyawan
+MHS-0467,Sistem Informasi,6,3.32,28,Karyawan
+MHS-0468,Sistem Informasi,3,3.35,39,Karyawan
+MHS-0469,Akuntansi,3,2.99,19,Reguler
+MHS-0470,Manajemen,4,3.16,19,Reguler
+MHS-0471,Teknik Informatika,7,3.06,20,Reguler
+MHS-0472,Akuntansi,1,3.12,19,Reguler
+MHS-0473,Teknik Industri,6,3.34,22,Reguler
+MHS-0474,Teknik Informatika,3,2.96,18,Reguler
+MHS-0475,Manajemen,1,3.06,18,Reguler
+MHS-0476,Sistem Informasi,1,3.19,18,Reguler
+MHS-0477,Teknik Informatika,2,2.95,37,Karyawan
+MHS-0478,Teknik Informatika,8,3.8,21,Reguler
+MHS-0479,Manajemen,7,3.22,29,Karyawan
+MHS-0480,Teknik Industri,3,3.47,19,Reguler
+MHS-0481,Sistem Informasi,1,2.92,18,Reguler
+MHS-0482,Teknik Informatika,5,2.93,20,Reguler
+MHS-0483,Sistem Informasi,3,3.83,20,Reguler
+MHS-0484,Sistem Informasi,4,3.19,39,Karyawan
+MHS-0485,Teknik Informatika,6,2.99,21,Reguler
+MHS-0486,Teknik Informatika,1,3.4,17,Reguler
+MHS-0487,Teknik Industri,1,2.94,18,Reguler
+MHS-0488,Manajemen,3,3.14,18,Reguler
+MHS-0489,Teknik Informatika,6,4.0,21,Reguler
+MHS-0490,Manajemen,6,3.32,20,Reguler
+MHS-0491,Teknik Informatika,8,3.17,21,Reguler
+MHS-0492,Teknik Industri,2,3.12,18,Reguler
+MHS-0493,Sistem Informasi,7,3.25,22,Reguler
+MHS-0494,Manajemen,5,3.66,40,Karyawan
+MHS-0495,Sistem Informasi,4,3.55,19,Reguler
+MHS-0496,Teknik Informatika,8,3.74,21,Reguler
+MHS-0497,Manajemen,5,3.34,20,Reguler
+MHS-0498,Sistem Informasi,4,3.61,20,Reguler
+MHS-0499,Teknik Industri,6,2.93,41,Karyawan
+MHS-0500,Manajemen,2,3.65,18,Reguler
+MHS-0501,Teknik Industri,5,3.87,21,Reguler
+MHS-0502,Teknik Informatika,8,2.93,22,Reguler
+MHS-0503,Manajemen,4,3.49,19,Reguler
+MHS-0504,Sistem Informasi,2,3.16,19,Reguler
+MHS-0505,Akuntansi,5,3.11,20,Reguler
+MHS-0506,Sistem Informasi,7,3.21,21,Reguler
+MHS-0507,Manajemen,7,3.52,21,Reguler
+MHS-0508,Akuntansi,7,3.61,23,Reguler
+MHS-0509,Manajemen,3,3.57,19,Reguler
+MHS-0510,Teknik Industri,8,3.31,22,Reguler
+MHS-0511,Ilmu Komunikasi,5,3.15,37,Karyawan
+MHS-0512,Akuntansi,5,3.01,20,Reguler
+MHS-0513,Sistem Informasi,2,3.19,18,Reguler
+MHS-0514,Sistem Informasi,1,3.5,18,Reguler
+MHS-0515,Teknik Informatika,4,3.66,19,Reguler
+MHS-0516,Teknik Informatika,1,3.14,18,Reguler
+MHS-0517,Akuntansi,6,4.0,21,Reguler
+MHS-0518,Ilmu Komunikasi,1,3.24,18,Reguler
+MHS-0519,Akuntansi,2,3.68,19,Reguler
+MHS-0520,Ilmu Komunikasi,2,3.32,19,Reguler
+MHS-0521,Teknik Industri,5,3.81,21,Reguler
+MHS-0522,Manajemen,4,3.21,19,Reguler
+MHS-0523,Sistem Informasi,3,3.4,20,Reguler
+MHS-0524,Ilmu Komunikasi,2,2.97,19,Reguler
+MHS-0525,Akuntansi,2,3.29,20,Reguler
+MHS-0526,Sistem Informasi,6,3.65,21,Reguler
+MHS-0527,Sistem Informasi,4,3.33,20,Reguler
+MHS-0528,Teknik Informatika,2,3.38,19,Reguler
+MHS-0529,Teknik Informatika,3,2.91,19,Reguler
+MHS-0530,Manajemen,2,3.45,19,Reguler
+MHS-0531,Akuntansi,2,3.15,17,Reguler
+MHS-0532,Teknik Informatika,2,2.91,18,Reguler
+MHS-0533,Teknik Informatika,4,3.12,20,Reguler
+MHS-0534,Sistem Informasi,6,3.27,20,Reguler
+MHS-0535,Manajemen,8,3.69,22,Reguler
+MHS-0536,Teknik Informatika,6,2.88,21,Reguler
+MHS-0537,Sistem Informasi,3,3.59,19,Reguler
+MHS-0538,Teknik Informatika,1,2.74,19,Reguler
+MHS-0539,Sistem Informasi,6,3.34,29,Karyawan
+MHS-0540,Akuntansi,1,3.14,17,Reguler
+MHS-0541,Manajemen,1,3.38,19,Reguler
+MHS-0542,Teknik Informatika,3,3.33,19,Reguler
+MHS-0543,Ilmu Komunikasi,5,3.38,20,Reguler
+MHS-0544,Teknik Industri,5,3.58,29,Karyawan
+MHS-0545,Manajemen,4,3.04,20,Reguler
+MHS-0546,Teknik Industri,2,3.03,18,Reguler
+MHS-0547,Teknik Industri,5,3.55,20,Reguler
+MHS-0548,Teknik Informatika,2,3.03,28,Karyawan
+MHS-0549,Teknik Industri,4,2.82,18,Reguler
+MHS-0550,Manajemen,6,3.1,20,Reguler
+MHS-0551,Sistem Informasi,2,3.33,19,Reguler
+MHS-0552,Sistem Informasi,3,3.11,20,Reguler
+MHS-0553,Akuntansi,3,3.45,19,Reguler
+MHS-0554,Teknik Informatika,7,3.97,22,Reguler
+MHS-0555,Teknik Industri,1,3.04,36,Karyawan
+MHS-0556,Akuntansi,1,3.15,18,Reguler
+MHS-0557,Ilmu Komunikasi,2,3.27,19,Reguler
+MHS-0558,Manajemen,5,3.07,20,Reguler
+MHS-0559,Ilmu Komunikasi,7,3.53,22,Reguler
+MHS-0560,Sistem Informasi,2,3.64,38,Karyawan
+MHS-0561,Akuntansi,4,3.42,19,Reguler
+MHS-0562,Teknik Informatika,3,2.73,19,Reguler
+MHS-0563,Manajemen,4,3.7,20,Reguler
+MHS-0564,Manajemen,2,3.27,18,Reguler
+MHS-0565,Akuntansi,1,3.21,18,Reguler
+MHS-0566,Sistem Informasi,3,3.23,20,Reguler
+MHS-0567,Manajemen,1,3.44,17,Reguler
+MHS-0568,Akuntansi,3,3.07,19,Reguler
+MHS-0569,Sistem Informasi,3,3.93,19,Reguler
+MHS-0570,Sistem Informasi,2,3.62,36,Karyawan
+MHS-0571,Teknik Industri,1,2.68,18,Reguler
+MHS-0572,Teknik Informatika,1,3.34,26,Karyawan
+MHS-0573,Teknik Informatika,3,3.18,20,Reguler
+MHS-0574,Teknik Informatika,2,3.41,18,Reguler
+MHS-0575,Ilmu Komunikasi,3,4.0,20,Reguler
+MHS-0576,Akuntansi,1,3.19,18,Reguler
+MHS-0577,Ilmu Komunikasi,4,3.48,18,Reguler
+MHS-0578,Teknik Industri,5,3.0,21,Reguler
+MHS-0579,Teknik Industri,8,3.38,22,Reguler
+MHS-0580,Sistem Informasi,3,3.41,21,Reguler
+MHS-0581,Sistem Informasi,5,3.3,20,Reguler
+MHS-0582,Ilmu Komunikasi,1,3.29,37,Karyawan
+MHS-0583,Akuntansi,6,4.0,20,Reguler
+MHS-0584,Teknik Industri,2,3.12,20,Reguler
+MHS-0585,Manajemen,7,3.34,22,Reguler
+MHS-0586,Teknik Informatika,1,3.34,18,Reguler
+MHS-0587,Manajemen,1,3.46,18,Reguler
+MHS-0588,Ilmu Komunikasi,4,3.64,19,Reguler
+MHS-0589,Teknik Industri,1,2.96,20,Reguler
+MHS-0590,Teknik Informatika,7,3.51,21,Reguler
+MHS-0591,Manajemen,6,3.39,21,Reguler
+MHS-0592,Akuntansi,1,3.02,19,Reguler
+MHS-0593,Manajemen,4,3.5,18,Reguler
+MHS-0594,Teknik Informatika,7,3.07,21,Reguler
+MHS-0595,Manajemen,8,3.37,22,Reguler
+MHS-0596,Manajemen,8,3.15,21,Reguler
+MHS-0597,Manajemen,4,3.67,19,Reguler
+MHS-0598,Sistem Informasi,1,2.92,18,Reguler
+MHS-0599,Akuntansi,3,3.3,19,Reguler
+MHS-0600,Teknik Industri,1,3.05,18,Reguler
+MHS-0601,Sistem Informasi,3,3.5,19,Reguler
+MHS-0602,Akuntansi,6,2.98,22,Reguler
+MHS-0603,Teknik Informatika,6,3.72,28,Karyawan
+MHS-0604,Manajemen,1,3.4,18,Reguler
+MHS-0605,Akuntansi,5,3.72,20,Reguler
+MHS-0606,Teknik Informatika,1,2.99,18,Reguler
+MHS-0607,Teknik Informatika,7,2.81,40,Karyawan
+MHS-0608,Manajemen,8,3.45,22,Reguler
+MHS-0609,Akuntansi,1,2.66,17,Reguler
+MHS-0610,Teknik Informatika,6,3.08,30,Karyawan
+MHS-0611,Manajemen,6,3.75,21,Reguler
+MHS-0612,Teknik Informatika,1,3.13,18,Reguler
+MHS-0613,Teknik Informatika,5,3.62,20,Reguler
+MHS-0614,Teknik Informatika,1,3.01,27,Karyawan
+MHS-0615,Manajemen,2,3.87,17,Reguler
+MHS-0616,Sistem Informasi,7,3.96,38,Karyawan
+MHS-0617,Teknik Informatika,7,3.57,21,Reguler
+MHS-0618,Teknik Industri,7,3.37,21,Reguler
+MHS-0619,Teknik Informatika,6,3.08,21,Reguler
+MHS-0620,Teknik Industri,3,2.49,20,Reguler
+MHS-0621,Teknik Informatika,6,2.71,20,Reguler
+MHS-0622,Akuntansi,3,3.48,20,Reguler
+MHS-0623,Teknik Industri,5,3.43,19,Reguler
+MHS-0624,Teknik Industri,8,3.34,21,Reguler
+MHS-0625,Ilmu Komunikasi,3,3.44,20,Reguler
+MHS-0626,Akuntansi,5,3.49,20,Reguler
+MHS-0627,Teknik Industri,6,2.65,20,Reguler
+MHS-0628,Sistem Informasi,3,3.27,19,Reguler
+MHS-0629,Ilmu Komunikasi,6,3.54,20,Reguler
+MHS-0630,Teknik Industri,6,3.55,20,Reguler
+MHS-0631,Sistem Informasi,6,3.35,22,Reguler
+MHS-0632,Manajemen,3,3.12,19,Reguler
+MHS-0633,Akuntansi,3,3.42,18,Reguler
+MHS-0634,Akuntansi,6,3.43,21,Reguler
+MHS-0635,Sistem Informasi,6,2.84,21,Reguler
+MHS-0636,Manajemen,2,2.86,20,Reguler
+MHS-0637,Teknik Informatika,4,3.32,32,Karyawan
+MHS-0638,Sistem Informasi,2,2.65,20,Reguler
+MHS-0639,Manajemen,4,3.43,21,Reguler
+MHS-0640,Teknik Industri,5,2.58,28,Karyawan
+MHS-0641,Teknik Industri,4,3.38,19,Reguler
+MHS-0642,Ilmu Komunikasi,2,3.05,19,Reguler
+MHS-0643,Teknik Informatika,2,3.11,19,Reguler
+MHS-0644,Sistem Informasi,2,3.16,19,Reguler
+MHS-0645,Akuntansi,2,3.31,20,Reguler
+MHS-0646,Manajemen,3,3.56,26,Karyawan
+MHS-0647,Sistem Informasi,4,2.94,21,Reguler
+MHS-0648,Akuntansi,7,2.98,21,Reguler
+MHS-0649,Manajemen,4,3.03,30,Karyawan
+MHS-0650,Manajemen,1,3.08,17,Reguler
+MHS-0651,Teknik Informatika,7,3.2,31,Karyawan
+MHS-0652,Akuntansi,3,3.48,18,Reguler
+MHS-0653,Teknik Informatika,8,2.73,22,Reguler
+MHS-0654,Sistem Informasi,5,3.84,21,Reguler
+MHS-0655,Teknik Industri,1,2.59,17,Reguler
+MHS-0656,Sistem Informasi,1,3.05,17,Reguler
+MHS-0657,Ilmu Komunikasi,5,3.74,20,Reguler
+MHS-0658,Teknik Informatika,2,2.64,18,Reguler
+MHS-0659,Akuntansi,6,3.24,20,Reguler
+MHS-0660,Akuntansi,4,3.67,20,Reguler
+MHS-0661,Sistem Informasi,2,3.63,18,Reguler
+MHS-0662,Teknik Informatika,4,3.8,40,Karyawan
+MHS-0663,Akuntansi,3,2.9,19,Reguler
+MHS-0664,Teknik Industri,2,2.86,18,Reguler
+MHS-0665,Sistem Informasi,7,3.56,21,Reguler
+MHS-0666,Ilmu Komunikasi,2,3.62,18,Reguler
+MHS-0667,Teknik Informatika,3,3.04,18,Reguler
+MHS-0668,Akuntansi,2,3.49,32,Karyawan
+MHS-0669,Sistem Informasi,8,3.67,21,Reguler
+MHS-0670,Teknik Informatika,3,3.36,19,Reguler
+MHS-0671,Teknik Industri,3,3.4,19,Reguler
+MHS-0672,Manajemen,5,3.78,21,Reguler
+MHS-0673,Akuntansi,8,3.44,21,Reguler
+MHS-0674,Sistem Informasi,4,2.43,20,Reguler
+MHS-0675,Sistem Informasi,5,3.36,20,Reguler
+MHS-0676,Sistem Informasi,8,3.57,22,Reguler
+MHS-0677,Akuntansi,6,3.47,20,Reguler
+MHS-0678,Teknik Industri,8,3.76,23,Reguler
+MHS-0679,Akuntansi,1,3.49,18,Reguler
+MHS-0680,Teknik Informatika,3,2.52,20,Reguler
+MHS-0681,Manajemen,1,3.22,17,Reguler
+MHS-0682,Teknik Informatika,6,3.4,21,Reguler
+MHS-0683,Teknik Industri,4,3.36,20,Reguler
+MHS-0684,Manajemen,1,3.86,18,Reguler
+MHS-0685,Ilmu Komunikasi,8,3.49,22,Reguler
+MHS-0686,Teknik Informatika,3,3.09,19,Reguler
+MHS-0687,Teknik Informatika,5,4.0,20,Reguler
+MHS-0688,Ilmu Komunikasi,8,3.62,21,Reguler
+MHS-0689,Akuntansi,4,2.94,20,Reguler
+MHS-0690,Teknik Informatika,7,2.69,31,Karyawan
+MHS-0691,Manajemen,7,3.55,35,Karyawan
+MHS-0692,Sistem Informasi,3,2.68,20,Reguler
+MHS-0693,Teknik Informatika,4,3.77,19,Reguler
+MHS-0694,Teknik Informatika,2,3.08,18,Reguler
+MHS-0695,Sistem Informasi,1,3.55,20,Reguler
+MHS-0696,Sistem Informasi,6,3.39,21,Reguler
+MHS-0697,Akuntansi,7,3.32,20,Reguler
+MHS-0698,Akuntansi,6,3.37,20,Reguler
+MHS-0699,Manajemen,8,3.32,21,Reguler
+MHS-0700,Sistem Informasi,5,3.54,21,Reguler
+MHS-0701,Akuntansi,5,3.28,22,Reguler
+MHS-0702,Sistem Informasi,6,3.13,19,Reguler
+MHS-0703,Sistem Informasi,4,3.24,19,Reguler
+MHS-0704,Akuntansi,1,2.89,19,Reguler
+MHS-0705,Akuntansi,7,3.51,22,Reguler
+MHS-0706,Teknik Informatika,4,2.67,21,Reguler
+MHS-0707,Akuntansi,4,2.86,20,Reguler
+MHS-0708,Teknik Informatika,5,2.97,20,Reguler
+MHS-0709,Manajemen,1,3.36,19,Reguler
+MHS-0710,Sistem Informasi,2,3.23,18,Reguler
+MHS-0711,Manajemen,2,3.28,18,Reguler
+MHS-0712,Teknik Informatika,3,3.6,36,Karyawan
+MHS-0713,Manajemen,6,3.66,21,Reguler
+MHS-0714,Ilmu Komunikasi,1,3.02,19,Reguler
+MHS-0715,Teknik Informatika,5,3.07,20,Reguler
+MHS-0716,Ilmu Komunikasi,1,3.37,17,Reguler
+MHS-0717,Ilmu Komunikasi,8,3.11,21,Reguler
+MHS-0718,Teknik Informatika,2,3.19,19,Reguler
+MHS-0719,Ilmu Komunikasi,4,3.33,35,Karyawan
+MHS-0720,Manajemen,1,3.31,17,Reguler
+MHS-0721,Akuntansi,2,3.65,18,Reguler
+MHS-0722,Akuntansi,4,3.49,19,Reguler
+MHS-0723,Sistem Informasi,5,3.45,20,Reguler
+MHS-0724,Teknik Industri,1,3.09,26,Karyawan
+MHS-0725,Teknik Informatika,5,3.35,26,Karyawan
+MHS-0726,Sistem Informasi,1,3.38,17,Reguler
+MHS-0727,Teknik Informatika,8,3.7,21,Reguler
+MHS-0728,Sistem Informasi,3,3.43,20,Reguler
+MHS-0729,Manajemen,1,3.71,18,Reguler
+MHS-0730,Teknik Informatika,3,3.59,19,Reguler
+MHS-0731,Ilmu Komunikasi,8,3.57,37,Karyawan
+MHS-0732,Akuntansi,4,3.72,20,Reguler
+MHS-0733,Teknik Industri,5,3.75,20,Reguler
+MHS-0734,Ilmu Komunikasi,3,2.77,18,Reguler
+MHS-0735,Teknik Industri,1,2.69,35,Karyawan
+MHS-0736,Ilmu Komunikasi,2,2.92,19,Reguler
+MHS-0737,Sistem Informasi,2,3.77,18,Reguler
+MHS-0738,Teknik Industri,1,2.8,18,Reguler
+MHS-0739,Sistem Informasi,4,3.24,20,Reguler
+MHS-0740,Manajemen,3,3.73,18,Reguler
+MHS-0741,Manajemen,3,3.72,37,Karyawan
+MHS-0742,Teknik Industri,4,3.17,21,Reguler
+MHS-0743,Teknik Informatika,1,2.66,18,Reguler
+MHS-0744,Manajemen,6,3.09,20,Reguler
+MHS-0745,Akuntansi,6,3.32,21,Reguler
+MHS-0746,Akuntansi,2,3.54,18,Reguler
+MHS-0747,Teknik Informatika,3,3.4,19,Reguler
+MHS-0748,Teknik Informatika,3,3.45,19,Reguler
+MHS-0749,Manajemen,5,3.44,40,Karyawan
+MHS-0750,Akuntansi,7,3.24,21,Reguler
+MHS-0751,Teknik Informatika,3,2.75,25,Karyawan
+MHS-0752,Teknik Informatika,4,2.62,21,Reguler
+MHS-0753,Teknik Informatika,4,3.72,18,Reguler
+MHS-0754,Teknik Informatika,3,3.53,20,Reguler
+MHS-0755,Teknik Informatika,1,2.87,19,Reguler
+MHS-0756,Teknik Industri,7,3.04,21,Reguler
+MHS-0757,Teknik Informatika,6,3.11,22,Reguler
+MHS-0758,Manajemen,2,3.46,33,Karyawan
+MHS-0759,Teknik Informatika,8,3.63,21,Reguler
+MHS-0760,Ilmu Komunikasi,8,3.14,21,Reguler
+MHS-0761,Teknik Industri,7,3.17,21,Reguler
+MHS-0762,Sistem Informasi,6,3.13,20,Reguler
+MHS-0763,Teknik Industri,5,2.9,20,Reguler
+MHS-0764,Manajemen,3,3.74,19,Reguler
+MHS-0765,Sistem Informasi,3,3.35,19,Reguler
+MHS-0766,Ilmu Komunikasi,8,3.63,22,Reguler
+MHS-0767,Akuntansi,4,3.26,20,Reguler
+MHS-0768,Manajemen,4,3.73,35,Karyawan
+MHS-0769,Manajemen,2,3.36,24,Karyawan
+MHS-0770,Sistem Informasi,1,3.47,18,Reguler
+MHS-0771,Sistem Informasi,7,3.24,21,Reguler
+MHS-0772,Teknik Informatika,4,3.66,20,Reguler
+MHS-0773,Akuntansi,5,2.82,36,Karyawan
+MHS-0774,Akuntansi,1,3.15,18,Reguler
+MHS-0775,Manajemen,5,3.73,21,Reguler
+MHS-0776,Akuntansi,5,3.26,19,Reguler
+MHS-0777,Manajemen,1,2.8,18,Reguler
+MHS-0778,Sistem Informasi,3,3.13,18,Reguler
+MHS-0779,Akuntansi,3,3.71,19,Reguler
+MHS-0780,Akuntansi,2,3.55,17,Reguler
+MHS-0781,Teknik Informatika,5,3.19,20,Reguler
+MHS-0782,Teknik Informatika,5,3.21,20,Reguler
+MHS-0783,Ilmu Komunikasi,6,4.0,37,Karyawan
+MHS-0784,Teknik Informatika,2,3.92,18,Reguler
+MHS-0785,Akuntansi,7,3.65,21,Reguler
+MHS-0786,Teknik Informatika,5,3.65,19,Reguler
+MHS-0787,Akuntansi,7,3.25,21,Reguler
+MHS-0788,Sistem Informasi,1,2.7,17,Reguler
+MHS-0789,Sistem Informasi,2,3.51,19,Reguler
+MHS-0790,Teknik Industri,4,3.57,19,Reguler
+MHS-0791,Ilmu Komunikasi,1,3.31,19,Reguler
+MHS-0792,Manajemen,6,3.02,21,Reguler
+MHS-0793,Teknik Informatika,2,3.25,20,Reguler
+MHS-0794,Manajemen,7,3.45,21,Reguler
+MHS-0795,Sistem Informasi,3,3.37,19,Reguler
+MHS-0796,Sistem Informasi,6,3.63,21,Reguler
+MHS-0797,Ilmu Komunikasi,2,3.14,18,Reguler
+MHS-0798,Teknik Informatika,5,3.45,20,Reguler
+MHS-0799,Akuntansi,1,3.5,19,Reguler
+MHS-0800,Teknik Industri,3,3.57,19,Reguler
+MHS-0801,Akuntansi,3,3.37,19,Reguler
+MHS-0802,Teknik Informatika,7,3.49,21,Reguler
+MHS-0803,Teknik Informatika,5,2.59,20,Reguler
+MHS-0804,Sistem Informasi,1,3.6,19,Reguler
+MHS-0805,Akuntansi,4,3.9,18,Reguler
+MHS-0806,Teknik Industri,3,3.31,19,Reguler
+MHS-0807,Ilmu Komunikasi,1,3.55,18,Reguler
+MHS-0808,Teknik Informatika,2,3.39,18,Reguler
+MHS-0809,Teknik Industri,3,3.2,20,Reguler
+MHS-0810,Teknik Industri,3,2.4,19,Reguler
+MHS-0811,Ilmu Komunikasi,2,2.93,19,Reguler
+MHS-0812,Ilmu Komunikasi,5,3.08,21,Reguler
+MHS-0813,Manajemen,1,3.65,18,Reguler
+MHS-0814,Manajemen,1,2.99,18,Reguler
+MHS-0815,Manajemen,7,3.43,22,Reguler
+MHS-0816,Teknik Informatika,2,3.22,19,Reguler
+MHS-0817,Ilmu Komunikasi,5,3.42,20,Reguler
+MHS-0818,Sistem Informasi,6,3.36,19,Reguler
+MHS-0819,Teknik Informatika,5,3.26,22,Reguler
+MHS-0820,Ilmu Komunikasi,2,3.07,18,Reguler
+MHS-0821,Sistem Informasi,5,3.12,21,Reguler
+MHS-0822,Sistem Informasi,4,3.81,20,Reguler
+MHS-0823,Akuntansi,7,2.77,22,Reguler
+MHS-0824,Teknik Informatika,1,3.54,18,Reguler
+MHS-0825,Teknik Informatika,3,3.11,19,Reguler
+MHS-0826,Akuntansi,8,3.63,22,Reguler
+MHS-0827,Teknik Informatika,3,3.29,38,Karyawan
+MHS-0828,Sistem Informasi,8,3.59,22,Reguler
+MHS-0829,Manajemen,5,3.17,20,Reguler
+MHS-0830,Ilmu Komunikasi,2,3.51,28,Karyawan
+MHS-0831,Ilmu Komunikasi,8,3.61,39,Karyawan
+MHS-0832,Akuntansi,4,3.7,20,Reguler
+MHS-0833,Sistem Informasi,1,3.44,18,Reguler
+MHS-0834,Manajemen,7,3.46,39,Karyawan
+MHS-0835,Manajemen,3,3.1,19,Reguler
+MHS-0836,Teknik Informatika,5,3.08,20,Reguler
+MHS-0837,Sistem Informasi,4,3.42,19,Reguler
+MHS-0838,Teknik Informatika,5,3.6,20,Reguler
+MHS-0839,Sistem Informasi,6,3.75,19,Reguler
+MHS-0840,Sistem Informasi,8,3.62,36,Karyawan
+MHS-0841,Ilmu Komunikasi,5,3.25,27,Karyawan
+MHS-0842,Ilmu Komunikasi,8,3.6,27,Karyawan
+MHS-0843,Sistem Informasi,1,3.45,17,Reguler
+MHS-0844,Manajemen,6,3.53,21,Reguler
+MHS-0845,Akuntansi,7,3.66,21,Reguler
+MHS-0846,Teknik Informatika,3,2.82,19,Reguler
+MHS-0847,Teknik Informatika,4,3.19,19,Reguler
+MHS-0848,Akuntansi,1,3.27,19,Reguler
+MHS-0849,Teknik Industri,2,3.69,19,Reguler
+MHS-0850,Akuntansi,2,3.17,19,Reguler
+MHS-0851,Akuntansi,6,3.71,20,Reguler
+MHS-0852,Sistem Informasi,6,3.08,21,Reguler
+MHS-0853,Manajemen,1,3.09,19,Reguler
+MHS-0854,Teknik Informatika,7,2.47,20,Reguler
+MHS-0855,Manajemen,8,3.27,22,Reguler
+MHS-0856,Teknik Informatika,8,3.28,22,Reguler
+MHS-0857,Manajemen,5,3.65,21,Reguler
+MHS-0858,Teknik Informatika,7,2.91,22,Reguler
+MHS-0859,Teknik Informatika,4,3.39,20,Reguler
+MHS-0860,Akuntansi,6,3.18,20,Reguler
+MHS-0861,Sistem Informasi,1,2.44,19,Reguler
+MHS-0862,Teknik Informatika,8,3.0,22,Reguler
+MHS-0863,Teknik Informatika,2,3.61,29,Karyawan
+MHS-0864,Sistem Informasi,6,3.43,21,Reguler
+MHS-0865,Sistem Informasi,1,3.22,32,Karyawan
+MHS-0866,Manajemen,5,3.37,20,Reguler
+MHS-0867,Manajemen,1,3.63,29,Karyawan
+MHS-0868,Sistem Informasi,3,3.34,33,Karyawan
+MHS-0869,Teknik Informatika,1,3.02,38,Karyawan
+MHS-0870,Manajemen,3,3.53,19,Reguler
+MHS-0871,Teknik Industri,2,2.37,19,Reguler
+MHS-0872,Manajemen,1,2.97,18,Reguler
+MHS-0873,Ilmu Komunikasi,3,3.27,18,Reguler
+MHS-0874,Sistem Informasi,6,3.32,21,Reguler
+MHS-0875,Manajemen,4,4.0,38,Karyawan
+MHS-0876,Teknik Informatika,6,3.89,20,Reguler
+MHS-0877,Teknik Industri,5,3.44,20,Reguler
+MHS-0878,Ilmu Komunikasi,1,3.16,19,Reguler
+MHS-0879,Manajemen,8,3.42,21,Reguler
+MHS-0880,Teknik Informatika,5,3.18,27,Karyawan
+MHS-0881,Akuntansi,6,3.56,20,Reguler
+MHS-0882,Sistem Informasi,4,3.07,37,Karyawan
+MHS-0883,Sistem Informasi,1,3.07,19,Reguler
+MHS-0884,Teknik Industri,6,3.36,20,Reguler
+MHS-0885,Akuntansi,3,3.1,19,Reguler
+MHS-0886,Teknik Informatika,5,3.41,19,Reguler
+MHS-0887,Manajemen,3,3.57,27,Karyawan
+MHS-0888,Sistem Informasi,3,3.25,17,Reguler
+MHS-0889,Teknik Informatika,4,2.92,21,Reguler
+MHS-0890,Manajemen,1,3.08,18,Reguler
+MHS-0891,Akuntansi,6,3.21,40,Karyawan
+MHS-0892,Manajemen,2,3.48,18,Reguler
+MHS-0893,Sistem Informasi,5,3.06,39,Karyawan
+MHS-0894,Ilmu Komunikasi,6,3.54,20,Reguler
+MHS-0895,Teknik Industri,5,3.06,20,Reguler
+MHS-0896,Sistem Informasi,5,3.38,21,Reguler
+MHS-0897,Teknik Informatika,8,3.25,21,Reguler
+MHS-0898,Ilmu Komunikasi,6,4.0,20,Reguler
+MHS-0899,Sistem Informasi,3,3.39,20,Reguler
+MHS-0900,Teknik Industri,4,2.46,19,Reguler
+MHS-0901,Ilmu Komunikasi,1,3.19,19,Reguler
+MHS-0902,Manajemen,1,3.2,18,Reguler
+MHS-0903,Ilmu Komunikasi,4,3.24,19,Reguler
+MHS-0904,Sistem Informasi,5,3.56,19,Reguler
+MHS-0905,Manajemen,4,3.26,27,Karyawan
+MHS-0906,Teknik Informatika,4,3.06,34,Karyawan
+MHS-0907,Manajemen,6,3.35,37,Karyawan
+MHS-0908,Teknik Industri,3,3.63,19,Reguler
+MHS-0909,Sistem Informasi,2,3.66,19,Reguler
+MHS-0910,Teknik Industri,1,3.21,17,Reguler
+MHS-0911,Manajemen,6,3.51,20,Reguler
+MHS-0912,Manajemen,8,3.44,22,Reguler
+MHS-0913,Sistem Informasi,2,3.33,34,Karyawan
+MHS-0914,Teknik Informatika,5,3.18,19,Reguler
+MHS-0915,Teknik Industri,2,3.28,19,Reguler
+MHS-0916,Sistem Informasi,2,3.61,18,Reguler
+MHS-0917,Sistem Informasi,2,3.33,37,Karyawan
+MHS-0918,Sistem Informasi,4,3.01,20,Reguler
+MHS-0919,Manajemen,1,3.63,28,Karyawan
+MHS-0920,Akuntansi,6,2.91,21,Reguler
+MHS-0921,Sistem Informasi,3,3.42,20,Reguler
+MHS-0922,Akuntansi,6,3.35,20,Reguler
+MHS-0923,Akuntansi,7,3.34,21,Reguler
+MHS-0924,Sistem Informasi,4,3.52,20,Reguler
+MHS-0925,Teknik Industri,6,3.49,20,Reguler
+MHS-0926,Manajemen,1,3.03,19,Reguler
+MHS-0927,Sistem Informasi,3,2.7,19,Reguler
+MHS-0928,Teknik Informatika,1,3.42,28,Karyawan
+MHS-0929,Akuntansi,2,3.07,26,Karyawan
+MHS-0930,Manajemen,6,3.59,19,Reguler
+MHS-0931,Akuntansi,2,3.28,19,Reguler
+MHS-0932,Sistem Informasi,4,3.49,19,Reguler
+MHS-0933,Teknik Industri,8,2.74,21,Reguler
+MHS-0934,Akuntansi,8,3.43,23,Reguler
+MHS-0935,Akuntansi,2,3.25,19,Reguler
+MHS-0936,Teknik Industri,7,2.98,21,Reguler
+MHS-0937,Teknik Informatika,6,2.97,21,Reguler
+MHS-0938,Manajemen,3,3.31,20,Reguler
+MHS-0939,Sistem Informasi,6,3.05,22,Reguler
+MHS-0940,Sistem Informasi,3,3.17,19,Reguler
+MHS-0941,Akuntansi,5,3.25,21,Reguler
+MHS-0942,Manajemen,1,3.39,18,Reguler
+MHS-0943,Teknik Informatika,5,2.71,36,Karyawan
+MHS-0944,Manajemen,1,3.04,19,Reguler
+MHS-0945,Akuntansi,4,3.57,21,Reguler
+MHS-0946,Akuntansi,7,3.52,20,Reguler
+MHS-0947,Manajemen,1,3.19,18,Reguler
+MHS-0948,Manajemen,5,3.31,20,Reguler
+MHS-0949,Ilmu Komunikasi,4,3.32,21,Reguler
+MHS-0950,Sistem Informasi,3,3.69,19,Reguler
+MHS-0951,Akuntansi,4,3.02,19,Reguler
+MHS-0952,Teknik Industri,6,3.2,28,Karyawan
+MHS-0953,Ilmu Komunikasi,5,3.35,20,Reguler
+MHS-0954,Teknik Informatika,3,3.68,19,Reguler
+MHS-0955,Manajemen,2,3.68,19,Reguler
+MHS-0956,Akuntansi,3,3.35,19,Reguler
+MHS-0957,Manajemen,3,3.69,19,Reguler
+MHS-0958,Ilmu Komunikasi,2,3.7,18,Reguler
+MHS-0959,Teknik Informatika,1,3.23,17,Reguler
+MHS-0960,Sistem Informasi,7,3.8,27,Karyawan
+MHS-0961,Akuntansi,4,3.31,20,Reguler
+MHS-0962,Ilmu Komunikasi,2,3.54,19,Reguler
+MHS-0963,Ilmu Komunikasi,2,3.62,31,Karyawan
+MHS-0964,Sistem Informasi,4,2.99,20,Reguler
+MHS-0965,Sistem Informasi,3,3.42,19,Reguler
+MHS-0966,Teknik Informatika,6,3.39,20,Reguler
+MHS-0967,Manajemen,6,3.03,21,Reguler
+MHS-0968,Teknik Informatika,3,3.19,19,Reguler
+MHS-0969,Sistem Informasi,2,2.85,19,Reguler
+MHS-0970,Akuntansi,7,3.53,21,Reguler
+MHS-0971,Teknik Informatika,5,2.98,19,Reguler
+MHS-0972,Akuntansi,5,3.34,20,Reguler
+MHS-0973,Sistem Informasi,2,2.85,18,Reguler
+MHS-0974,Akuntansi,1,3.63,17,Reguler
+MHS-0975,Akuntansi,5,3.37,40,Karyawan
+MHS-0976,Teknik Industri,7,3.45,20,Reguler
+MHS-0977,Teknik Industri,5,3.02,21,Reguler
+MHS-0978,Sistem Informasi,2,3.8,36,Karyawan
+MHS-0979,Teknik Informatika,3,2.83,19,Reguler
+MHS-0980,Teknik Industri,2,2.69,19,Reguler
+MHS-0981,Manajemen,1,3.46,18,Reguler
+MHS-0982,Sistem Informasi,6,3.61,19,Reguler
+MHS-0983,Manajemen,2,3.11,19,Reguler
+MHS-0984,Akuntansi,6,3.26,20,Reguler
+MHS-0985,Manajemen,6,3.98,21,Reguler
+MHS-0986,Teknik Industri,1,3.29,17,Reguler
+MHS-0987,Manajemen,3,3.4,32,Karyawan
+MHS-0988,Akuntansi,7,3.33,21,Reguler
+MHS-0989,Akuntansi,3,3.23,19,Reguler
+MHS-0990,Teknik Informatika,2,3.24,20,Reguler
+MHS-0991,Teknik Informatika,1,3.03,19,Reguler
+MHS-0992,Teknik Informatika,8,3.51,23,Reguler
+MHS-0993,Manajemen,5,3.25,19,Reguler
+MHS-0994,Ilmu Komunikasi,8,3.93,22,Reguler
+MHS-0995,Akuntansi,6,3.4,21,Reguler
+MHS-0996,Teknik Industri,3,3.38,19,Reguler
+MHS-0997,Sistem Informasi,6,3.85,21,Reguler
+MHS-0998,Ilmu Komunikasi,5,3.32,20,Reguler
+MHS-0999,Sistem Informasi,6,3.62,19,Reguler
+MHS-1000,Sistem Informasi,7,3.19,21,Reguler

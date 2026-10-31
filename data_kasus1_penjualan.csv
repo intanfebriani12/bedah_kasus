@@ -1,0 +1,1001 @@
+ID Transaksi,Produk,Kategori,Harga (Rp),Jumlah Terjual,Tanggal,Promo
+TRX-0001,Laptop,Elektronik,8500000,45,2024-01-01,False
+TRX-0002,Dispenser,Rumah Tangga,512000,52,2024-01-01,True
+TRX-0003,Rice Cooker,Rumah Tangga,510000,62,2024-01-01,False
+TRX-0004,Kalkulator,Pendidikan,201000,86,2024-01-01,False
+TRX-0005,Buku,Pendidikan,75000,120,2024-01-02,False
+TRX-0006,Alat Tulis Set,Pendidikan,48000,186,2024-01-02,False
+TRX-0007,Tablet,Elektronik,4975000,40,2024-01-02,False
+TRX-0008,Kopi Bubuk,Makanan & Minuman,52000,219,2024-01-03,False
+TRX-0009,Kamus,Pendidikan,120000,72,2024-01-04,False
+TRX-0010,Teh Celup,Makanan & Minuman,14000,361,2024-01-05,True
+TRX-0011,Headphone,Elektronik,503000,135,2024-01-05,True
+TRX-0012,Sepatu,Fashion,412000,76,2024-01-07,False
+TRX-0013,Kamus,Pendidikan,129000,84,2024-01-08,False
+TRX-0014,Sepatu,Fashion,466000,73,2024-01-08,False
+TRX-0015,Tas Sekolah,Pendidikan,207000,118,2024-01-09,True
+TRX-0016,Teh Celup,Makanan & Minuman,15000,266,2024-01-09,False
+TRX-0017,Kemeja,Fashion,202000,99,2024-01-09,False
+TRX-0018,Smartwatch,Elektronik,1761000,49,2024-01-10,False
+TRX-0019,Dispenser,Rumah Tangga,800000,33,2024-01-10,False
+TRX-0020,Tablet,Elektronik,5170000,51,2024-01-11,True
+TRX-0021,Biskuit Kaleng,Makanan & Minuman,68000,129,2024-01-11,False
+TRX-0022,Laptop,Elektronik,8104000,43,2024-01-11,False
+TRX-0023,Sepatu,Fashion,455000,54,2024-01-12,False
+TRX-0024,Alat Tulis Set,Pendidikan,49000,268,2024-01-13,False
+TRX-0025,Sepatu,Fashion,485000,81,2024-01-14,False
+TRX-0026,Buku,Pendidikan,77000,141,2024-01-15,False
+TRX-0027,Kemeja,Fashion,175000,113,2024-01-15,False
+TRX-0028,Laptop,Elektronik,8807000,50,2024-01-15,False
+TRX-0029,Teh Celup,Makanan & Minuman,17000,287,2024-01-15,False
+TRX-0030,Tas Sekolah,Pendidikan,288000,77,2024-01-16,False
+TRX-0031,Kemeja,Fashion,182000,107,2024-01-16,False
+TRX-0032,Setrika,Rumah Tangga,221000,54,2024-01-17,False
+TRX-0033,Kalkulator,Pendidikan,197000,61,2024-01-17,False
+TRX-0034,Biskuit Kaleng,Makanan & Minuman,65000,176,2024-01-17,False
+TRX-0035,Kopi Bubuk,Makanan & Minuman,56000,181,2024-01-18,False
+TRX-0036,Alat Tulis Set,Pendidikan,37000,234,2024-01-19,True
+TRX-0037,Tablet,Elektronik,4132000,41,2024-01-19,True
+TRX-0038,Kopi Bubuk,Makanan & Minuman,56000,257,2024-01-19,False
+TRX-0039,Rice Cooker,Rumah Tangga,550000,50,2024-01-21,False
+TRX-0040,Smartwatch,Elektronik,1719000,64,2024-01-21,False
+TRX-0041,Buku,Pendidikan,80000,210,2024-01-21,False
+TRX-0042,Headphone,Elektronik,720000,99,2024-01-21,False
+TRX-0043,Tas Sekolah,Pendidikan,176000,156,2024-01-21,True
+TRX-0044,Kemeja,Fashion,161000,159,2024-01-22,True
+TRX-0045,Setrika,Rumah Tangga,202000,100,2024-01-22,True
+TRX-0046,Kemeja,Fashion,209000,112,2024-01-22,False
+TRX-0047,Teh Celup,Makanan & Minuman,14000,220,2024-01-23,True
+TRX-0048,Smartphone,Elektronik,4362000,64,2024-01-23,False
+TRX-0049,Buku,Pendidikan,66000,134,2024-01-23,False
+TRX-0050,Celana Jeans,Fashion,276000,112,2024-01-24,False
+TRX-0051,Kalkulator,Pendidikan,179000,77,2024-01-25,False
+TRX-0052,Kemeja,Fashion,168000,96,2024-01-25,False
+TRX-0053,Rice Cooker,Rumah Tangga,576000,38,2024-01-25,False
+TRX-0054,Kopi Bubuk,Makanan & Minuman,52000,206,2024-01-26,False
+TRX-0055,Tablet,Elektronik,5448000,62,2024-01-27,False
+TRX-0056,Blender,Rumah Tangga,448000,51,2024-01-27,False
+TRX-0057,Kemeja,Fashion,202000,115,2024-01-27,False
+TRX-0058,Rice Cooker,Rumah Tangga,525000,69,2024-01-28,False
+TRX-0059,Kemeja,Fashion,192000,124,2024-01-28,False
+TRX-0060,Alat Tulis Set,Pendidikan,40000,215,2024-01-28,False
+TRX-0061,Blender,Rumah Tangga,426000,50,2024-01-29,False
+TRX-0062,Sepatu,Fashion,451000,63,2024-01-29,False
+TRX-0063,Laptop,Elektronik,6737000,57,2024-01-30,False
+TRX-0064,Buku,Pendidikan,70000,169,2024-01-30,False
+TRX-0065,Kamus,Pendidikan,129000,44,2024-01-30,False
+TRX-0066,Kalkulator,Pendidikan,176000,71,2024-01-30,False
+TRX-0067,Celana Jeans,Fashion,245000,101,2024-01-31,False
+TRX-0068,Sepatu,Fashion,408000,79,2024-01-31,False
+TRX-0069,Headphone,Elektronik,585000,109,2024-01-31,False
+TRX-0070,Kopi Bubuk,Makanan & Minuman,39000,215,2024-02-01,True
+TRX-0071,Kalkulator,Pendidikan,170000,56,2024-02-02,False
+TRX-0072,Sepatu,Fashion,457000,61,2024-02-02,False
+TRX-0073,Kalkulator,Pendidikan,176000,56,2024-02-03,False
+TRX-0074,Tas Sekolah,Pendidikan,226000,89,2024-02-03,False
+TRX-0075,Dispenser,Rumah Tangga,571000,60,2024-02-05,True
+TRX-0076,Laptop,Elektronik,9167000,42,2024-02-06,False
+TRX-0077,Dispenser,Rumah Tangga,876000,41,2024-02-06,False
+TRX-0078,Smartphone,Elektronik,3974000,57,2024-02-07,False
+TRX-0079,Kemeja,Fashion,170000,86,2024-02-07,False
+TRX-0080,Kalkulator,Pendidikan,215000,70,2024-02-07,False
+TRX-0081,Laptop,Elektronik,8741000,49,2024-02-07,False
+TRX-0082,Blender,Rumah Tangga,410000,49,2024-02-08,False
+TRX-0083,Sepatu,Fashion,402000,53,2024-02-08,False
+TRX-0084,Celana Jeans,Fashion,266000,79,2024-02-09,False
+TRX-0085,Dispenser,Rumah Tangga,525000,48,2024-02-09,True
+TRX-0086,Biskuit Kaleng,Makanan & Minuman,64000,202,2024-02-09,False
+TRX-0087,Kalkulator,Pendidikan,187000,70,2024-02-09,False
+TRX-0088,Biskuit Kaleng,Makanan & Minuman,64000,216,2024-02-09,False
+TRX-0089,Tablet,Elektronik,5020000,34,2024-02-10,False
+TRX-0090,Tas Sekolah,Pendidikan,276000,95,2024-02-10,False
+TRX-0091,Buku,Pendidikan,79000,118,2024-02-10,False
+TRX-0092,Dispenser,Rumah Tangga,556000,86,2024-02-11,True
+TRX-0093,Kemeja,Fashion,189000,98,2024-02-11,False
+TRX-0094,Kopi Bubuk,Makanan & Minuman,56000,183,2024-02-12,False
+TRX-0095,Kopi Bubuk,Makanan & Minuman,58000,191,2024-02-13,False
+TRX-0096,Tablet,Elektronik,5076000,34,2024-02-13,False
+TRX-0097,Kamus,Pendidikan,130000,40,2024-02-14,False
+TRX-0098,Buku,Pendidikan,74000,116,2024-02-15,False
+TRX-0099,Teh Celup,Makanan & Minuman,15000,244,2024-02-15,False
+TRX-0100,Kalkulator,Pendidikan,170000,47,2024-02-16,False
+TRX-0101,Laptop,Elektronik,9081000,38,2024-02-16,False
+TRX-0102,Tablet,Elektronik,5209000,18,2024-02-18,False
+TRX-0103,Buku,Pendidikan,58000,215,2024-02-18,True
+TRX-0104,Headphone,Elektronik,611000,61,2024-02-19,False
+TRX-0105,Laptop,Elektronik,9085000,51,2024-02-19,False
+TRX-0106,Kalkulator,Pendidikan,186000,75,2024-02-19,False
+TRX-0107,Alat Tulis Set,Pendidikan,50000,130,2024-02-20,False
+TRX-0108,Smartwatch,Elektronik,1644000,38,2024-02-20,False
+TRX-0109,Kopi Bubuk,Makanan & Minuman,47000,171,2024-02-21,False
+TRX-0110,Kopi Bubuk,Makanan & Minuman,42000,210,2024-02-23,True
+TRX-0111,Headphone,Elektronik,667000,75,2024-02-23,False
+TRX-0112,Rice Cooker,Rumah Tangga,502000,41,2024-02-23,False
+TRX-0113,Headphone,Elektronik,648000,102,2024-02-23,False
+TRX-0114,Tablet,Elektronik,4732000,31,2024-02-24,False
+TRX-0115,Rice Cooker,Rumah Tangga,571000,48,2024-02-24,False
+TRX-0116,Alat Tulis Set,Pendidikan,37000,173,2024-02-24,True
+TRX-0117,Tas Sekolah,Pendidikan,253000,111,2024-02-24,False
+TRX-0118,Smartphone,Elektronik,4092000,52,2024-02-25,False
+TRX-0119,Smartwatch,Elektronik,1877000,50,2024-02-25,False
+TRX-0120,Buku,Pendidikan,76000,91,2024-02-25,False
+TRX-0121,Dispenser,Rumah Tangga,840000,33,2024-02-26,False
+TRX-0122,Alat Tulis Set,Pendidikan,34000,178,2024-02-27,True
+TRX-0123,Tablet,Elektronik,5025000,24,2024-02-27,False
+TRX-0124,Dispenser,Rumah Tangga,857000,36,2024-02-28,False
+TRX-0125,Kemeja,Fashion,171000,137,2024-02-28,False
+TRX-0126,Kalkulator,Pendidikan,204000,69,2024-02-28,False
+TRX-0127,Biskuit Kaleng,Makanan & Minuman,66000,187,2024-02-28,False
+TRX-0128,Teh Celup,Makanan & Minuman,17000,204,2024-02-29,False
+TRX-0129,Setrika,Rumah Tangga,223000,57,2024-02-29,False
+TRX-0130,Smartphone,Elektronik,3460000,63,2024-02-29,False
+TRX-0131,Headphone,Elektronik,680000,96,2024-03-01,False
+TRX-0132,Kopi Bubuk,Makanan & Minuman,52000,360,2024-03-02,False
+TRX-0133,Blender,Rumah Tangga,483000,210,2024-03-02,False
+TRX-0134,Smartphone,Elektronik,4154000,60,2024-03-03,False
+TRX-0135,Setrika,Rumah Tangga,182000,125,2024-03-03,True
+TRX-0136,Biskuit Kaleng,Makanan & Minuman,68000,275,2024-03-04,False
+TRX-0137,Rice Cooker,Rumah Tangga,550000,64,2024-03-04,False
+TRX-0138,Tas Sekolah,Pendidikan,292000,85,2024-03-04,False
+TRX-0139,Kemeja,Fashion,186000,136,2024-03-04,False
+TRX-0140,Kamus,Pendidikan,120000,39,2024-03-05,False
+TRX-0141,Kamus,Pendidikan,128000,55,2024-03-05,False
+TRX-0142,Kamus,Pendidikan,109000,53,2024-03-05,False
+TRX-0143,Kopi Bubuk,Makanan & Minuman,60000,232,2024-03-05,False
+TRX-0144,Tablet,Elektronik,3360000,48,2024-03-05,True
+TRX-0145,Rice Cooker,Rumah Tangga,530000,69,2024-03-05,False
+TRX-0146,Smartwatch,Elektronik,1655000,70,2024-03-06,True
+TRX-0147,Smartwatch,Elektronik,1891000,74,2024-03-07,False
+TRX-0148,Smartwatch,Elektronik,1684000,47,2024-03-07,False
+TRX-0149,Tablet,Elektronik,4655000,25,2024-03-08,False
+TRX-0150,Blender,Rumah Tangga,338000,102,2024-03-09,True
+TRX-0151,Tas Sekolah,Pendidikan,262000,89,2024-03-09,False
+TRX-0152,Rice Cooker,Rumah Tangga,498000,73,2024-03-09,False
+TRX-0153,Tas Sekolah,Pendidikan,249000,68,2024-03-09,False
+TRX-0154,Tablet,Elektronik,5090000,44,2024-03-10,False
+TRX-0155,Kemeja,Fashion,189000,148,2024-03-10,False
+TRX-0156,Kemeja,Fashion,177000,87,2024-03-10,False
+TRX-0157,Headphone,Elektronik,684000,106,2024-03-10,False
+TRX-0158,Kemeja,Fashion,205000,243,2024-03-10,False
+TRX-0159,Laptop,Elektronik,8968000,62,2024-03-11,False
+TRX-0160,Smartphone,Elektronik,4510000,83,2024-03-12,False
+TRX-0161,Sepatu,Fashion,450000,128,2024-03-12,False
+TRX-0162,Rice Cooker,Rumah Tangga,582000,64,2024-03-12,False
+TRX-0163,Tas Sekolah,Pendidikan,243000,119,2024-03-12,False
+TRX-0164,Kopi Bubuk,Makanan & Minuman,59000,308,2024-03-12,False
+TRX-0165,Biskuit Kaleng,Makanan & Minuman,68000,250,2024-03-12,False
+TRX-0166,Kemeja,Fashion,189000,177,2024-03-12,False
+TRX-0167,Celana Jeans,Fashion,275000,118,2024-03-12,False
+TRX-0168,Smartwatch,Elektronik,2055000,41,2024-03-12,False
+TRX-0169,Buku,Pendidikan,78000,96,2024-03-12,False
+TRX-0170,Kemeja,Fashion,168000,192,2024-03-12,False
+TRX-0171,Biskuit Kaleng,Makanan & Minuman,63000,422,2024-03-13,True
+TRX-0172,Jaket,Fashion,378000,100,2024-03-14,False
+TRX-0173,Jaket,Fashion,275000,77,2024-03-14,False
+TRX-0174,Laptop,Elektronik,7596000,54,2024-03-15,False
+TRX-0175,Smartphone,Elektronik,3882000,96,2024-03-16,False
+TRX-0176,Dispenser,Rumah Tangga,929000,49,2024-03-16,False
+TRX-0177,Headphone,Elektronik,560000,84,2024-03-16,False
+TRX-0178,Kopi Bubuk,Makanan & Minuman,61000,323,2024-03-16,False
+TRX-0179,Rice Cooker,Rumah Tangga,588000,56,2024-03-16,False
+TRX-0180,Blender,Rumah Tangga,435000,61,2024-03-16,False
+TRX-0181,Kamus,Pendidikan,121000,73,2024-03-17,False
+TRX-0182,Biskuit Kaleng,Makanan & Minuman,62000,245,2024-03-17,False
+TRX-0183,Smartwatch,Elektronik,1566000,53,2024-03-18,False
+TRX-0184,Teh Celup,Makanan & Minuman,16000,529,2024-03-18,False
+TRX-0185,Teh Celup,Makanan & Minuman,17000,300,2024-03-18,False
+TRX-0186,Blender,Rumah Tangga,440000,71,2024-03-19,False
+TRX-0187,Teh Celup,Makanan & Minuman,13000,436,2024-03-19,False
+TRX-0188,Biskuit Kaleng,Makanan & Minuman,67000,226,2024-03-19,False
+TRX-0189,Tas Sekolah,Pendidikan,287000,63,2024-03-19,False
+TRX-0190,Kamus,Pendidikan,121000,73,2024-03-19,False
+TRX-0191,Teh Celup,Makanan & Minuman,16000,314,2024-03-19,False
+TRX-0192,Kamus,Pendidikan,117000,77,2024-03-20,False
+TRX-0193,Kopi Bubuk,Makanan & Minuman,52000,257,2024-03-20,False
+TRX-0194,Tablet,Elektronik,4292000,29,2024-03-21,False
+TRX-0195,Teh Celup,Makanan & Minuman,14000,339,2024-03-21,False
+TRX-0196,Kemeja,Fashion,137000,170,2024-03-21,False
+TRX-0197,Smartwatch,Elektronik,1710000,38,2024-03-21,False
+TRX-0198,Headphone,Elektronik,650000,109,2024-03-21,False
+TRX-0199,Teh Celup,Makanan & Minuman,13000,559,2024-03-21,False
+TRX-0200,Kalkulator,Pendidikan,192000,57,2024-03-22,False
+TRX-0201,Tablet,Elektronik,5410000,40,2024-03-22,False
+TRX-0202,Teh Celup,Makanan & Minuman,15000,350,2024-03-23,False
+TRX-0203,Laptop,Elektronik,9004000,65,2024-03-23,False
+TRX-0204,Biskuit Kaleng,Makanan & Minuman,60000,291,2024-03-23,False
+TRX-0205,Biskuit Kaleng,Makanan & Minuman,79000,253,2024-03-24,False
+TRX-0206,Blender,Rumah Tangga,346000,76,2024-03-24,False
+TRX-0207,Teh Celup,Makanan & Minuman,14000,361,2024-03-24,False
+TRX-0208,Biskuit Kaleng,Makanan & Minuman,67000,215,2024-03-25,False
+TRX-0209,Kemeja,Fashion,167000,119,2024-03-25,False
+TRX-0210,Sepatu,Fashion,523000,81,2024-03-25,False
+TRX-0211,Alat Tulis Set,Pendidikan,44000,106,2024-03-25,False
+TRX-0212,Smartphone,Elektronik,4492000,52,2024-03-25,False
+TRX-0213,Alat Tulis Set,Pendidikan,41000,137,2024-03-25,False
+TRX-0214,Kopi Bubuk,Makanan & Minuman,54000,300,2024-03-25,False
+TRX-0215,Setrika,Rumah Tangga,286000,67,2024-03-26,False
+TRX-0216,Kalkulator,Pendidikan,166000,35,2024-03-26,False
+TRX-0217,Laptop,Elektronik,8075000,58,2024-03-26,False
+TRX-0218,Setrika,Rumah Tangga,209000,87,2024-03-26,False
+TRX-0219,Tablet,Elektronik,5581000,45,2024-03-27,False
+TRX-0220,Teh Celup,Makanan & Minuman,13000,349,2024-03-27,False
+TRX-0221,Smartwatch,Elektronik,1942000,45,2024-03-27,False
+TRX-0222,Biskuit Kaleng,Makanan & Minuman,69000,284,2024-03-27,False
+TRX-0223,Kalkulator,Pendidikan,181000,45,2024-03-27,False
+TRX-0224,Celana Jeans,Fashion,277000,82,2024-03-28,False
+TRX-0225,Biskuit Kaleng,Makanan & Minuman,59000,279,2024-03-28,False
+TRX-0226,Tas Sekolah,Pendidikan,250000,55,2024-03-28,False
+TRX-0227,Headphone,Elektronik,517000,127,2024-03-28,True
+TRX-0228,Smartwatch,Elektronik,1814000,55,2024-03-28,False
+TRX-0229,Dispenser,Rumah Tangga,768000,38,2024-03-29,False
+TRX-0230,Jaket,Fashion,331000,102,2024-03-29,False
+TRX-0231,Kalkulator,Pendidikan,131000,117,2024-03-29,True
+TRX-0232,Sepatu,Fashion,401000,115,2024-03-30,False
+TRX-0233,Kalkulator,Pendidikan,204000,64,2024-03-30,False
+TRX-0234,Kopi Bubuk,Makanan & Minuman,56000,376,2024-03-30,False
+TRX-0235,Buku,Pendidikan,69000,98,2024-03-30,False
+TRX-0236,Laptop,Elektronik,9365000,32,2024-03-31,True
+TRX-0237,Setrika,Rumah Tangga,225000,61,2024-04-01,False
+TRX-0238,Kamus,Pendidikan,103000,56,2024-04-01,False
+TRX-0239,Teh Celup,Makanan & Minuman,15000,489,2024-04-01,False
+TRX-0240,Biskuit Kaleng,Makanan & Minuman,62000,240,2024-04-02,False
+TRX-0241,Teh Celup,Makanan & Minuman,14000,436,2024-04-02,False
+TRX-0242,Kemeja,Fashion,166000,184,2024-04-03,False
+TRX-0243,Biskuit Kaleng,Makanan & Minuman,66000,338,2024-04-03,False
+TRX-0244,Setrika,Rumah Tangga,239000,92,2024-04-03,False
+TRX-0245,Teh Celup,Makanan & Minuman,14000,314,2024-04-03,False
+TRX-0246,Kopi Bubuk,Makanan & Minuman,60000,282,2024-04-04,False
+TRX-0247,Setrika,Rumah Tangga,231000,73,2024-04-04,False
+TRX-0248,Kopi Bubuk,Makanan & Minuman,32000,519,2024-04-04,True
+TRX-0249,Kopi Bubuk,Makanan & Minuman,63000,298,2024-04-04,False
+TRX-0250,Kamus,Pendidikan,118000,31,2024-04-04,False
+TRX-0251,Laptop,Elektronik,8563000,51,2024-04-05,False
+TRX-0252,Teh Celup,Makanan & Minuman,14000,513,2024-04-05,False
+TRX-0253,Biskuit Kaleng,Makanan & Minuman,68000,245,2024-04-06,False
+TRX-0254,Setrika,Rumah Tangga,230000,83,2024-04-06,False
+TRX-0255,Celana Jeans,Fashion,283000,162,2024-04-07,False
+TRX-0256,Kopi Bubuk,Makanan & Minuman,61000,411,2024-04-07,False
+TRX-0257,Celana Jeans,Fashion,257000,127,2024-04-08,False
+TRX-0258,Headphone,Elektronik,525000,160,2024-04-08,True
+TRX-0259,Kemeja,Fashion,133000,253,2024-04-08,True
+TRX-0260,Blender,Rumah Tangga,478000,63,2024-04-08,False
+TRX-0261,Alat Tulis Set,Pendidikan,43000,122,2024-04-08,False
+TRX-0262,Blender,Rumah Tangga,359000,76,2024-04-09,True
+TRX-0263,Biskuit Kaleng,Makanan & Minuman,73000,298,2024-04-09,False
+TRX-0264,Kalkulator,Pendidikan,165000,62,2024-04-10,False
+TRX-0265,Dispenser,Rumah Tangga,743000,42,2024-04-10,False
+TRX-0266,Kemeja,Fashion,169000,184,2024-04-10,False
+TRX-0267,Rice Cooker,Rumah Tangga,533000,77,2024-04-10,False
+TRX-0268,Setrika,Rumah Tangga,241000,138,2024-04-10,False
+TRX-0269,Celana Jeans,Fashion,288000,134,2024-04-11,False
+TRX-0270,Celana Jeans,Fashion,209000,192,2024-04-11,True
+TRX-0271,Jaket,Fashion,359000,93,2024-04-12,False
+TRX-0272,Tablet,Elektronik,3765000,56,2024-04-12,True
+TRX-0273,Setrika,Rumah Tangga,218000,74,2024-04-12,False
+TRX-0274,Blender,Rumah Tangga,385000,81,2024-04-13,False
+TRX-0275,Setrika,Rumah Tangga,239000,84,2024-04-13,False
+TRX-0276,Blender,Rumah Tangga,367000,105,2024-04-13,True
+TRX-0277,Headphone,Elektronik,728000,144,2024-04-13,False
+TRX-0278,Buku,Pendidikan,80000,89,2024-04-13,False
+TRX-0279,Sepatu,Fashion,406000,141,2024-04-13,False
+TRX-0280,Tablet,Elektronik,5456000,56,2024-04-14,False
+TRX-0281,Kalkulator,Pendidikan,167000,53,2024-04-15,False
+TRX-0282,Kemeja,Fashion,171000,98,2024-04-16,False
+TRX-0283,Kemeja,Fashion,186000,200,2024-04-16,False
+TRX-0284,Rice Cooker,Rumah Tangga,548000,87,2024-04-16,False
+TRX-0285,Kopi Bubuk,Makanan & Minuman,49000,309,2024-04-17,True
+TRX-0286,Alat Tulis Set,Pendidikan,47000,172,2024-04-17,False
+TRX-0287,Sepatu,Fashion,452000,116,2024-04-17,False
+TRX-0288,Kamus,Pendidikan,127000,49,2024-04-18,False
+TRX-0289,Dispenser,Rumah Tangga,642000,84,2024-04-18,True
+TRX-0290,Headphone,Elektronik,606000,90,2024-04-18,False
+TRX-0291,Rice Cooker,Rumah Tangga,505000,59,2024-04-18,False
+TRX-0292,Blender,Rumah Tangga,376000,47,2024-04-18,False
+TRX-0293,Headphone,Elektronik,635000,95,2024-04-19,False
+TRX-0294,Teh Celup,Makanan & Minuman,15000,487,2024-04-20,False
+TRX-0295,Jaket,Fashion,334000,82,2024-04-21,False
+TRX-0296,Jaket,Fashion,369000,140,2024-04-21,False
+TRX-0297,Laptop,Elektronik,9057000,60,2024-04-22,False
+TRX-0298,Sepatu,Fashion,413000,96,2024-04-22,False
+TRX-0299,Kopi Bubuk,Makanan & Minuman,59000,292,2024-04-22,False
+TRX-0300,Smartphone,Elektronik,3946000,82,2024-04-22,False
+TRX-0301,Biskuit Kaleng,Makanan & Minuman,67000,249,2024-04-22,False
+TRX-0302,Biskuit Kaleng,Makanan & Minuman,67000,260,2024-04-23,False
+TRX-0303,Smartphone,Elektronik,3940000,95,2024-04-23,False
+TRX-0304,Teh Celup,Makanan & Minuman,15000,425,2024-04-24,False
+TRX-0305,Tas Sekolah,Pendidikan,245000,70,2024-04-24,False
+TRX-0306,Kemeja,Fashion,192000,153,2024-04-25,False
+TRX-0307,Kalkulator,Pendidikan,170000,49,2024-04-25,False
+TRX-0308,Tablet,Elektronik,5387000,37,2024-04-25,False
+TRX-0309,Teh Celup,Makanan & Minuman,15000,328,2024-04-26,False
+TRX-0310,Kamus,Pendidikan,116000,47,2024-04-26,False
+TRX-0311,Kemeja,Fashion,212000,169,2024-04-27,False
+TRX-0312,Jaket,Fashion,239000,152,2024-04-27,True
+TRX-0313,Kemeja,Fashion,170000,134,2024-04-27,False
+TRX-0314,Sepatu,Fashion,464000,83,2024-04-27,False
+TRX-0315,Teh Celup,Makanan & Minuman,17000,531,2024-04-27,False
+TRX-0316,Blender,Rumah Tangga,393000,87,2024-04-27,False
+TRX-0317,Jaket,Fashion,418000,64,2024-04-27,False
+TRX-0318,Rice Cooker,Rumah Tangga,619000,105,2024-04-28,False
+TRX-0319,Sepatu,Fashion,414000,175,2024-04-28,True
+TRX-0320,Teh Celup,Makanan & Minuman,10000,634,2024-04-28,True
+TRX-0321,Sepatu,Fashion,485000,103,2024-04-28,False
+TRX-0322,Kamus,Pendidikan,118000,43,2024-04-29,False
+TRX-0323,Headphone,Elektronik,766000,145,2024-04-29,False
+TRX-0324,Tablet,Elektronik,5451000,34,2024-04-30,False
+TRX-0325,Kopi Bubuk,Makanan & Minuman,51000,346,2024-04-30,False
+TRX-0326,Dispenser,Rumah Tangga,659000,60,2024-04-30,False
+TRX-0327,Tablet,Elektronik,4139000,49,2024-04-30,True
+TRX-0328,Smartphone,Elektronik,3230000,88,2024-05-01,True
+TRX-0329,Kalkulator,Pendidikan,177000,86,2024-05-02,False
+TRX-0330,Tas Sekolah,Pendidikan,240000,69,2024-05-02,False
+TRX-0331,Biskuit Kaleng,Makanan & Minuman,71000,257,2024-05-03,False
+TRX-0332,Rice Cooker,Rumah Tangga,569000,62,2024-05-03,False
+TRX-0333,Teh Celup,Makanan & Minuman,15000,330,2024-05-04,False
+TRX-0334,Jaket,Fashion,371000,56,2024-05-05,False
+TRX-0335,Buku,Pendidikan,70000,115,2024-05-05,False
+TRX-0336,Kamus,Pendidikan,101000,49,2024-05-06,False
+TRX-0337,Smartwatch,Elektronik,1726000,71,2024-05-06,False
+TRX-0338,Biskuit Kaleng,Makanan & Minuman,59000,197,2024-05-07,False
+TRX-0339,Setrika,Rumah Tangga,240000,60,2024-05-07,False
+TRX-0340,Buku,Pendidikan,72000,119,2024-05-07,False
+TRX-0341,Biskuit Kaleng,Makanan & Minuman,67000,231,2024-05-08,False
+TRX-0342,Kemeja,Fashion,187000,159,2024-05-08,False
+TRX-0343,Alat Tulis Set,Pendidikan,45000,97,2024-05-08,False
+TRX-0344,Kamus,Pendidikan,125000,77,2024-05-09,False
+TRX-0345,Jaket,Fashion,345000,64,2024-05-09,False
+TRX-0346,Biskuit Kaleng,Makanan & Minuman,66000,165,2024-05-10,False
+TRX-0347,Celana Jeans,Fashion,292000,90,2024-05-11,False
+TRX-0348,Buku,Pendidikan,67000,133,2024-05-12,False
+TRX-0349,Dispenser,Rumah Tangga,903000,38,2024-05-12,False
+TRX-0350,Buku,Pendidikan,74000,128,2024-05-12,False
+TRX-0351,Celana Jeans,Fashion,299000,83,2024-05-13,False
+TRX-0352,Buku,Pendidikan,46000,129,2024-05-13,True
+TRX-0353,Headphone,Elektronik,574000,72,2024-05-13,False
+TRX-0354,Blender,Rumah Tangga,446000,55,2024-05-15,False
+TRX-0355,Setrika,Rumah Tangga,264000,41,2024-05-16,False
+TRX-0356,Buku,Pendidikan,75000,111,2024-05-16,False
+TRX-0357,Celana Jeans,Fashion,208000,148,2024-05-16,True
+TRX-0358,Tablet,Elektronik,5263000,36,2024-05-17,False
+TRX-0359,Sepatu,Fashion,326000,78,2024-05-17,True
+TRX-0360,Jaket,Fashion,353000,47,2024-05-17,False
+TRX-0361,Celana Jeans,Fashion,229000,135,2024-05-18,True
+TRX-0362,Biskuit Kaleng,Makanan & Minuman,64000,243,2024-05-19,False
+TRX-0363,Smartphone,Elektronik,4040000,66,2024-05-19,False
+TRX-0364,Kopi Bubuk,Makanan & Minuman,54000,228,2024-05-20,False
+TRX-0365,Headphone,Elektronik,594000,93,2024-05-20,False
+TRX-0366,Setrika,Rumah Tangga,219000,76,2024-05-20,False
+TRX-0367,Kemeja,Fashion,146000,143,2024-05-20,True
+TRX-0368,Celana Jeans,Fashion,230000,110,2024-05-21,True
+TRX-0369,Teh Celup,Makanan & Minuman,14000,263,2024-05-22,False
+TRX-0370,Setrika,Rumah Tangga,244000,62,2024-05-23,False
+TRX-0371,Kopi Bubuk,Makanan & Minuman,57000,157,2024-05-23,False
+TRX-0372,Teh Celup,Makanan & Minuman,13000,367,2024-05-25,True
+TRX-0373,Headphone,Elektronik,684000,133,2024-05-25,False
+TRX-0374,Dispenser,Rumah Tangga,695000,63,2024-05-26,False
+TRX-0375,Kopi Bubuk,Makanan & Minuman,61000,241,2024-05-26,False
+TRX-0376,Sepatu,Fashion,413000,77,2024-05-26,False
+TRX-0377,Buku,Pendidikan,83000,151,2024-05-26,False
+TRX-0378,Kopi Bubuk,Makanan & Minuman,62000,229,2024-05-26,False
+TRX-0379,Smartphone,Elektronik,4464000,41,2024-05-26,False
+TRX-0380,Buku,Pendidikan,80000,102,2024-05-27,False
+TRX-0381,Dispenser,Rumah Tangga,805000,29,2024-05-27,False
+TRX-0382,Teh Celup,Makanan & Minuman,15000,251,2024-05-27,False
+TRX-0383,Setrika,Rumah Tangga,236000,52,2024-05-28,False
+TRX-0384,Blender,Rumah Tangga,438000,73,2024-05-28,False
+TRX-0385,Teh Celup,Makanan & Minuman,11000,337,2024-05-28,True
+TRX-0386,Smartphone,Elektronik,4463000,77,2024-05-28,False
+TRX-0387,Laptop,Elektronik,8678000,35,2024-05-29,False
+TRX-0388,Kalkulator,Pendidikan,150000,75,2024-05-29,False
+TRX-0389,Kamus,Pendidikan,105000,45,2024-05-29,False
+TRX-0390,Biskuit Kaleng,Makanan & Minuman,66000,191,2024-05-30,False
+TRX-0391,Headphone,Elektronik,570000,78,2024-05-30,False
+TRX-0392,Teh Celup,Makanan & Minuman,15000,218,2024-05-30,False
+TRX-0393,Kamus,Pendidikan,111000,48,2024-05-30,False
+TRX-0394,Dispenser,Rumah Tangga,853000,37,2024-05-30,False
+TRX-0395,Kamus,Pendidikan,113000,35,2024-05-30,False
+TRX-0396,Headphone,Elektronik,569000,92,2024-05-31,False
+TRX-0397,Rice Cooker,Rumah Tangga,514000,69,2024-06-01,False
+TRX-0398,Kemeja,Fashion,164000,118,2024-06-01,False
+TRX-0399,Smartwatch,Elektronik,1758000,54,2024-06-01,False
+TRX-0400,Smartphone,Elektronik,3801000,61,2024-06-02,False
+TRX-0401,Buku,Pendidikan,75000,140,2024-06-02,False
+TRX-0402,Kopi Bubuk,Makanan & Minuman,54000,199,2024-06-02,False
+TRX-0403,Laptop,Elektronik,8120000,41,2024-06-02,False
+TRX-0404,Blender,Rumah Tangga,430000,50,2024-06-03,False
+TRX-0405,Kemeja,Fashion,217000,102,2024-06-03,False
+TRX-0406,Smartwatch,Elektronik,1857000,42,2024-06-03,False
+TRX-0407,Kemeja,Fashion,177000,142,2024-06-04,True
+TRX-0408,Alat Tulis Set,Pendidikan,42000,134,2024-06-05,False
+TRX-0409,Jaket,Fashion,331000,57,2024-06-05,False
+TRX-0410,Celana Jeans,Fashion,273000,111,2024-06-05,False
+TRX-0411,Tablet,Elektronik,4973000,30,2024-06-05,False
+TRX-0412,Tablet,Elektronik,6446000,39,2024-06-06,False
+TRX-0413,Jaket,Fashion,364000,44,2024-06-07,False
+TRX-0414,Alat Tulis Set,Pendidikan,43000,191,2024-06-07,False
+TRX-0415,Tablet,Elektronik,4532000,50,2024-06-07,True
+TRX-0416,Jaket,Fashion,321000,82,2024-06-07,True
+TRX-0417,Smartphone,Elektronik,4366000,82,2024-06-08,False
+TRX-0418,Celana Jeans,Fashion,288000,112,2024-06-08,False
+TRX-0419,Dispenser,Rumah Tangga,798000,52,2024-06-08,False
+TRX-0420,Biskuit Kaleng,Makanan & Minuman,63000,213,2024-06-09,False
+TRX-0421,Kalkulator,Pendidikan,207000,98,2024-06-09,False
+TRX-0422,Jaket,Fashion,353000,51,2024-06-10,False
+TRX-0423,Dispenser,Rumah Tangga,796000,45,2024-06-10,False
+TRX-0424,Jaket,Fashion,373000,70,2024-06-10,False
+TRX-0425,Rice Cooker,Rumah Tangga,613000,80,2024-06-11,False
+TRX-0426,Sepatu,Fashion,338000,89,2024-06-11,True
+TRX-0427,Tablet,Elektronik,5145000,32,2024-06-12,False
+TRX-0428,Headphone,Elektronik,672000,76,2024-06-12,False
+TRX-0429,Celana Jeans,Fashion,302000,74,2024-06-12,False
+TRX-0430,Celana Jeans,Fashion,283000,89,2024-06-13,False
+TRX-0431,Teh Celup,Makanan & Minuman,16000,197,2024-06-13,False
+TRX-0432,Tas Sekolah,Pendidikan,262000,68,2024-06-13,False
+TRX-0433,Kalkulator,Pendidikan,136000,143,2024-06-14,True
+TRX-0434,Tas Sekolah,Pendidikan,204000,170,2024-06-14,True
+TRX-0435,Jaket,Fashion,301000,56,2024-06-14,False
+TRX-0436,Tas Sekolah,Pendidikan,239000,69,2024-06-14,False
+TRX-0437,Smartphone,Elektronik,3510000,68,2024-06-15,False
+TRX-0438,Buku,Pendidikan,60000,146,2024-06-15,False
+TRX-0439,Dispenser,Rumah Tangga,634000,68,2024-06-16,True
+TRX-0440,Dispenser,Rumah Tangga,868000,41,2024-06-16,False
+TRX-0441,Biskuit Kaleng,Makanan & Minuman,65000,164,2024-06-16,False
+TRX-0442,Biskuit Kaleng,Makanan & Minuman,68000,229,2024-06-16,False
+TRX-0443,Tablet,Elektronik,6295000,43,2024-06-16,False
+TRX-0444,Tablet,Elektronik,4740000,24,2024-06-17,False
+TRX-0445,Jaket,Fashion,376000,65,2024-06-17,False
+TRX-0446,Alat Tulis Set,Pendidikan,42000,119,2024-06-17,False
+TRX-0447,Kopi Bubuk,Makanan & Minuman,57000,234,2024-06-17,False
+TRX-0448,Tas Sekolah,Pendidikan,284000,92,2024-06-18,False
+TRX-0449,Kopi Bubuk,Makanan & Minuman,58000,160,2024-06-18,False
+TRX-0450,Setrika,Rumah Tangga,227000,79,2024-06-18,False
+TRX-0451,Blender,Rumah Tangga,423000,55,2024-06-20,False
+TRX-0452,Celana Jeans,Fashion,250000,82,2024-06-20,False
+TRX-0453,Kalkulator,Pendidikan,163000,75,2024-06-20,False
+TRX-0454,Blender,Rumah Tangga,447000,43,2024-06-21,False
+TRX-0455,Tablet,Elektronik,5062000,35,2024-06-21,False
+TRX-0456,Teh Celup,Makanan & Minuman,17000,291,2024-06-22,False
+TRX-0457,Dispenser,Rumah Tangga,565000,54,2024-06-22,True
+TRX-0458,Teh Celup,Makanan & Minuman,15000,324,2024-06-22,False
+TRX-0459,Dispenser,Rumah Tangga,827000,63,2024-06-22,False
+TRX-0460,Smartphone,Elektronik,4763000,189,2024-06-22,False
+TRX-0461,Teh Celup,Makanan & Minuman,15000,193,2024-06-23,False
+TRX-0462,Celana Jeans,Fashion,224000,76,2024-06-23,False
+TRX-0463,Sepatu,Fashion,497000,79,2024-06-23,False
+TRX-0464,Sepatu,Fashion,397000,77,2024-06-23,False
+TRX-0465,Sepatu,Fashion,425000,58,2024-06-24,False
+TRX-0466,Tas Sekolah,Pendidikan,251000,92,2024-06-24,False
+TRX-0467,Celana Jeans,Fashion,242000,78,2024-06-25,False
+TRX-0468,Jaket,Fashion,347000,61,2024-06-25,False
+TRX-0469,Celana Jeans,Fashion,325000,62,2024-06-25,False
+TRX-0470,Teh Celup,Makanan & Minuman,15000,234,2024-06-25,False
+TRX-0471,Kalkulator,Pendidikan,179000,77,2024-06-25,False
+TRX-0472,Kamus,Pendidikan,112000,53,2024-06-26,False
+TRX-0473,Buku,Pendidikan,84000,162,2024-06-26,False
+TRX-0474,Kemeja,Fashion,159000,127,2024-06-27,False
+TRX-0475,Dispenser,Rumah Tangga,768000,33,2024-06-27,False
+TRX-0476,Teh Celup,Makanan & Minuman,14000,277,2024-06-27,False
+TRX-0477,Tablet,Elektronik,3799000,42,2024-06-28,True
+TRX-0478,Rice Cooker,Rumah Tangga,526000,64,2024-06-28,False
+TRX-0479,Alat Tulis Set,Pendidikan,48000,123,2024-06-28,False
+TRX-0480,Buku,Pendidikan,72000,120,2024-06-28,False
+TRX-0481,Headphone,Elektronik,628000,85,2024-06-28,False
+TRX-0482,Celana Jeans,Fashion,282000,71,2024-06-28,False
+TRX-0483,Smartwatch,Elektronik,1893000,52,2024-06-29,False
+TRX-0484,Alat Tulis Set,Pendidikan,44000,194,2024-06-29,False
+TRX-0485,Laptop,Elektronik,8698000,62,2024-06-29,False
+TRX-0486,Headphone,Elektronik,649000,119,2024-06-30,False
+TRX-0487,Dispenser,Rumah Tangga,776000,54,2024-06-30,False
+TRX-0488,Headphone,Elektronik,638000,114,2024-06-30,False
+TRX-0489,Buku,Pendidikan,67000,178,2024-06-30,False
+TRX-0490,Smartphone,Elektronik,4401000,81,2024-07-01,False
+TRX-0491,Sepatu,Fashion,316000,99,2024-07-02,True
+TRX-0492,Kalkulator,Pendidikan,192000,113,2024-07-02,False
+TRX-0493,Dispenser,Rumah Tangga,773000,59,2024-07-03,False
+TRX-0494,Kopi Bubuk,Makanan & Minuman,48000,174,2024-07-03,False
+TRX-0495,Headphone,Elektronik,397000,156,2024-07-04,True
+TRX-0496,Rice Cooker,Rumah Tangga,631000,50,2024-07-04,False
+TRX-0497,Jaket,Fashion,323000,57,2024-07-04,False
+TRX-0498,Celana Jeans,Fashion,276000,88,2024-07-04,False
+TRX-0499,Alat Tulis Set,Pendidikan,50000,224,2024-07-05,False
+TRX-0500,Kopi Bubuk,Makanan & Minuman,53000,194,2024-07-05,False
+TRX-0501,Kopi Bubuk,Makanan & Minuman,53000,178,2024-07-05,True
+TRX-0502,Buku,Pendidikan,82000,214,2024-07-05,False
+TRX-0503,Smartphone,Elektronik,4761000,87,2024-07-06,False
+TRX-0504,Kamus,Pendidikan,107000,130,2024-07-06,True
+TRX-0505,Sepatu,Fashion,462000,71,2024-07-06,False
+TRX-0506,Smartphone,Elektronik,4319000,68,2024-07-06,False
+TRX-0507,Tablet,Elektronik,4882000,48,2024-07-07,False
+TRX-0508,Smartwatch,Elektronik,1758000,49,2024-07-07,False
+TRX-0509,Kalkulator,Pendidikan,200000,101,2024-07-08,False
+TRX-0510,Setrika,Rumah Tangga,233000,69,2024-07-08,False
+TRX-0511,Jaket,Fashion,378000,55,2024-07-08,False
+TRX-0512,Biskuit Kaleng,Makanan & Minuman,56000,186,2024-07-08,False
+TRX-0513,Celana Jeans,Fashion,254000,76,2024-07-09,False
+TRX-0514,Kopi Bubuk,Makanan & Minuman,53000,136,2024-07-09,False
+TRX-0515,Kemeja,Fashion,186000,128,2024-07-10,False
+TRX-0516,Laptop,Elektronik,8550000,47,2024-07-10,False
+TRX-0517,Alat Tulis Set,Pendidikan,42000,224,2024-07-12,False
+TRX-0518,Celana Jeans,Fashion,254000,71,2024-07-12,False
+TRX-0519,Teh Celup,Makanan & Minuman,17000,173,2024-07-12,False
+TRX-0520,Kalkulator,Pendidikan,138000,159,2024-07-13,True
+TRX-0521,Kemeja,Fashion,191000,170,2024-07-13,False
+TRX-0522,Tablet,Elektronik,4812000,52,2024-07-14,True
+TRX-0523,Sepatu,Fashion,435000,73,2024-07-14,False
+TRX-0524,Rice Cooker,Rumah Tangga,603000,65,2024-07-14,False
+TRX-0525,Headphone,Elektronik,717000,98,2024-07-14,False
+TRX-0526,Celana Jeans,Fashion,280000,93,2024-07-15,False
+TRX-0527,Headphone,Elektronik,509000,88,2024-07-16,False
+TRX-0528,Smartwatch,Elektronik,1895000,25,2024-07-16,False
+TRX-0529,Teh Celup,Makanan & Minuman,16000,254,2024-07-16,False
+TRX-0530,Celana Jeans,Fashion,302000,77,2024-07-17,False
+TRX-0531,Kopi Bubuk,Makanan & Minuman,63000,135,2024-07-17,False
+TRX-0532,Setrika,Rumah Tangga,261000,71,2024-07-17,False
+TRX-0533,Smartwatch,Elektronik,1823000,72,2024-07-18,False
+TRX-0534,Kamus,Pendidikan,119000,84,2024-07-18,False
+TRX-0535,Laptop,Elektronik,8029000,46,2024-07-18,False
+TRX-0536,Kopi Bubuk,Makanan & Minuman,44000,213,2024-07-18,False
+TRX-0537,Headphone,Elektronik,627000,99,2024-07-19,False
+TRX-0538,Tas Sekolah,Pendidikan,219000,104,2024-07-19,False
+TRX-0539,Kemeja,Fashion,169000,120,2024-07-19,False
+TRX-0540,Biskuit Kaleng,Makanan & Minuman,68000,269,2024-07-20,False
+TRX-0541,Celana Jeans,Fashion,318000,106,2024-07-20,False
+TRX-0542,Rice Cooker,Rumah Tangga,585000,72,2024-07-21,False
+TRX-0543,Kamus,Pendidikan,122000,118,2024-07-21,False
+TRX-0544,Jaket,Fashion,289000,74,2024-07-22,True
+TRX-0545,Teh Celup,Makanan & Minuman,15000,337,2024-07-22,False
+TRX-0546,Smartwatch,Elektronik,1751000,51,2024-07-23,False
+TRX-0547,Sepatu,Fashion,456000,64,2024-07-23,False
+TRX-0548,Kalkulator,Pendidikan,133000,152,2024-07-23,True
+TRX-0549,Laptop,Elektronik,7808000,45,2024-07-24,False
+TRX-0550,Biskuit Kaleng,Makanan & Minuman,49000,249,2024-07-24,True
+TRX-0551,Sepatu,Fashion,486000,74,2024-07-24,False
+TRX-0552,Headphone,Elektronik,720000,124,2024-07-25,False
+TRX-0553,Headphone,Elektronik,660000,79,2024-07-25,False
+TRX-0554,Kopi Bubuk,Makanan & Minuman,55000,186,2024-07-25,False
+TRX-0555,Kopi Bubuk,Makanan & Minuman,57000,193,2024-07-26,False
+TRX-0556,Setrika,Rumah Tangga,201000,134,2024-07-26,True
+TRX-0557,Setrika,Rumah Tangga,223000,69,2024-07-26,False
+TRX-0558,Laptop,Elektronik,6671000,77,2024-07-27,True
+TRX-0559,Alat Tulis Set,Pendidikan,46000,282,2024-07-28,False
+TRX-0560,Blender,Rumah Tangga,377000,34,2024-07-28,False
+TRX-0561,Celana Jeans,Fashion,272000,94,2024-07-28,False
+TRX-0562,Kalkulator,Pendidikan,201000,117,2024-07-29,False
+TRX-0563,Sepatu,Fashion,448000,84,2024-07-29,False
+TRX-0564,Kamus,Pendidikan,109000,63,2024-07-29,False
+TRX-0565,Dispenser,Rumah Tangga,857000,36,2024-07-29,False
+TRX-0566,Laptop,Elektronik,8313000,48,2024-07-29,False
+TRX-0567,Sepatu,Fashion,447000,85,2024-07-30,False
+TRX-0568,Kamus,Pendidikan,116000,92,2024-07-30,False
+TRX-0569,Kamus,Pendidikan,125000,76,2024-07-30,False
+TRX-0570,Smartphone,Elektronik,4329000,60,2024-07-31,False
+TRX-0571,Celana Jeans,Fashion,272000,90,2024-07-31,False
+TRX-0572,Dispenser,Rumah Tangga,647000,37,2024-07-31,False
+TRX-0573,Setrika,Rumah Tangga,228000,88,2024-07-31,False
+TRX-0574,Kalkulator,Pendidikan,223000,141,2024-07-31,False
+TRX-0575,Laptop,Elektronik,8730000,62,2024-08-01,False
+TRX-0576,Biskuit Kaleng,Makanan & Minuman,57000,201,2024-08-01,True
+TRX-0577,Kamus,Pendidikan,115000,101,2024-08-03,False
+TRX-0578,Tas Sekolah,Pendidikan,242000,138,2024-08-04,False
+TRX-0579,Teh Celup,Makanan & Minuman,13000,301,2024-08-04,False
+TRX-0580,Celana Jeans,Fashion,263000,139,2024-08-04,False
+TRX-0581,Kamus,Pendidikan,125000,55,2024-08-05,False
+TRX-0582,Dispenser,Rumah Tangga,736000,48,2024-08-05,False
+TRX-0583,Smartphone,Elektronik,3323000,131,2024-08-05,True
+TRX-0584,Tas Sekolah,Pendidikan,213000,71,2024-08-06,False
+TRX-0585,Celana Jeans,Fashion,274000,75,2024-08-06,False
+TRX-0586,Tas Sekolah,Pendidikan,237000,106,2024-08-06,False
+TRX-0587,Smartwatch,Elektronik,1935000,40,2024-08-08,False
+TRX-0588,Laptop,Elektronik,7889000,29,2024-08-09,False
+TRX-0589,Biskuit Kaleng,Makanan & Minuman,62000,192,2024-08-10,False
+TRX-0590,Kamus,Pendidikan,128000,86,2024-08-11,False
+TRX-0591,Kopi Bubuk,Makanan & Minuman,55000,159,2024-08-12,False
+TRX-0592,Tablet,Elektronik,4940000,41,2024-08-12,False
+TRX-0593,Tablet,Elektronik,4634000,47,2024-08-13,False
+TRX-0594,Laptop,Elektronik,9942000,42,2024-08-13,False
+TRX-0595,Tablet,Elektronik,4977000,36,2024-08-13,False
+TRX-0596,Smartwatch,Elektronik,2037000,56,2024-08-14,False
+TRX-0597,Biskuit Kaleng,Makanan & Minuman,48000,237,2024-08-14,True
+TRX-0598,Buku,Pendidikan,88000,140,2024-08-15,False
+TRX-0599,Sepatu,Fashion,398000,97,2024-08-15,True
+TRX-0600,Dispenser,Rumah Tangga,857000,45,2024-08-16,False
+TRX-0601,Buku,Pendidikan,67000,252,2024-08-16,True
+TRX-0602,Tas Sekolah,Pendidikan,256000,111,2024-08-16,False
+TRX-0603,Teh Celup,Makanan & Minuman,14000,253,2024-08-16,False
+TRX-0604,Dispenser,Rumah Tangga,678000,73,2024-08-16,True
+TRX-0605,Kopi Bubuk,Makanan & Minuman,53000,170,2024-08-17,False
+TRX-0606,Celana Jeans,Fashion,274000,73,2024-08-17,False
+TRX-0607,Kalkulator,Pendidikan,179000,75,2024-08-17,False
+TRX-0608,Tablet,Elektronik,5363000,35,2024-08-18,False
+TRX-0609,Rice Cooker,Rumah Tangga,521000,192,2024-08-19,False
+TRX-0610,Headphone,Elektronik,730000,89,2024-08-19,False
+TRX-0611,Blender,Rumah Tangga,436000,48,2024-08-19,False
+TRX-0612,Alat Tulis Set,Pendidikan,51000,164,2024-08-19,False
+TRX-0613,Smartwatch,Elektronik,1498000,66,2024-08-20,False
+TRX-0614,Setrika,Rumah Tangga,231000,56,2024-08-20,False
+TRX-0615,Alat Tulis Set,Pendidikan,52000,213,2024-08-20,False
+TRX-0616,Celana Jeans,Fashion,257000,115,2024-08-20,False
+TRX-0617,Celana Jeans,Fashion,250000,70,2024-08-21,False
+TRX-0618,Jaket,Fashion,331000,74,2024-08-22,True
+TRX-0619,Laptop,Elektronik,8241000,33,2024-08-22,False
+TRX-0620,Alat Tulis Set,Pendidikan,42000,222,2024-08-22,False
+TRX-0621,Blender,Rumah Tangga,424000,31,2024-08-22,False
+TRX-0622,Sepatu,Fashion,447000,66,2024-08-24,False
+TRX-0623,Laptop,Elektronik,8599000,46,2024-08-24,False
+TRX-0624,Dispenser,Rumah Tangga,731000,42,2024-08-25,False
+TRX-0625,Rice Cooker,Rumah Tangga,420000,95,2024-08-25,True
+TRX-0626,Kalkulator,Pendidikan,189000,121,2024-08-25,False
+TRX-0627,Jaket,Fashion,375000,68,2024-08-25,False
+TRX-0628,Kalkulator,Pendidikan,184000,106,2024-08-26,False
+TRX-0629,Kemeja,Fashion,160000,98,2024-08-26,True
+TRX-0630,Kemeja,Fashion,177000,95,2024-08-27,False
+TRX-0631,Celana Jeans,Fashion,257000,79,2024-08-27,False
+TRX-0632,Smartphone,Elektronik,4273000,57,2024-08-27,False
+TRX-0633,Jaket,Fashion,306000,74,2024-08-27,True
+TRX-0634,Celana Jeans,Fashion,269000,84,2024-08-27,False
+TRX-0635,Kopi Bubuk,Makanan & Minuman,41000,236,2024-08-27,True
+TRX-0636,Smartphone,Elektronik,3172000,104,2024-08-28,True
+TRX-0637,Buku,Pendidikan,67000,172,2024-08-28,False
+TRX-0638,Biskuit Kaleng,Makanan & Minuman,66000,205,2024-08-28,False
+TRX-0639,Tas Sekolah,Pendidikan,265000,117,2024-08-29,False
+TRX-0640,Smartphone,Elektronik,4050000,67,2024-08-29,False
+TRX-0641,Kalkulator,Pendidikan,182000,104,2024-08-29,False
+TRX-0642,Kemeja,Fashion,193000,94,2024-08-30,False
+TRX-0643,Teh Celup,Makanan & Minuman,14000,216,2024-08-30,False
+TRX-0644,Dispenser,Rumah Tangga,544000,36,2024-08-31,True
+TRX-0645,Laptop,Elektronik,9753000,58,2024-09-01,False
+TRX-0646,Tas Sekolah,Pendidikan,256000,76,2024-09-01,False
+TRX-0647,Headphone,Elektronik,645000,84,2024-09-02,False
+TRX-0648,Buku,Pendidikan,89000,96,2024-09-02,False
+TRX-0649,Rice Cooker,Rumah Tangga,520000,66,2024-09-02,False
+TRX-0650,Kopi Bubuk,Makanan & Minuman,47000,182,2024-09-03,False
+TRX-0651,Alat Tulis Set,Pendidikan,38000,117,2024-09-03,False
+TRX-0652,Smartwatch,Elektronik,1762000,44,2024-09-03,False
+TRX-0653,Tablet,Elektronik,5698000,31,2024-09-04,False
+TRX-0654,Sepatu,Fashion,431000,68,2024-09-04,False
+TRX-0655,Rice Cooker,Rumah Tangga,557000,43,2024-09-05,False
+TRX-0656,Kemeja,Fashion,171000,121,2024-09-05,False
+TRX-0657,Kamus,Pendidikan,116000,40,2024-09-05,False
+TRX-0658,Kopi Bubuk,Makanan & Minuman,53000,272,2024-09-06,False
+TRX-0659,Smartphone,Elektronik,3996000,80,2024-09-06,True
+TRX-0660,Teh Celup,Makanan & Minuman,14000,184,2024-09-06,False
+TRX-0661,Alat Tulis Set,Pendidikan,47000,185,2024-09-08,False
+TRX-0662,Dispenser,Rumah Tangga,795000,41,2024-09-08,False
+TRX-0663,Headphone,Elektronik,667000,101,2024-09-08,False
+TRX-0664,Tablet,Elektronik,4856000,30,2024-09-08,False
+TRX-0665,Teh Celup,Makanan & Minuman,14000,333,2024-09-09,True
+TRX-0666,Sepatu,Fashion,347000,71,2024-09-10,False
+TRX-0667,Biskuit Kaleng,Makanan & Minuman,66000,170,2024-09-10,False
+TRX-0668,Smartwatch,Elektronik,1772000,50,2024-09-10,False
+TRX-0669,Jaket,Fashion,321000,56,2024-09-11,False
+TRX-0670,Kamus,Pendidikan,112000,50,2024-09-11,False
+TRX-0671,Blender,Rumah Tangga,524000,49,2024-09-11,False
+TRX-0672,Kopi Bubuk,Makanan & Minuman,51000,214,2024-09-12,False
+TRX-0673,Biskuit Kaleng,Makanan & Minuman,63000,188,2024-09-12,False
+TRX-0674,Setrika,Rumah Tangga,163000,105,2024-09-12,True
+TRX-0675,Kopi Bubuk,Makanan & Minuman,55000,155,2024-09-13,False
+TRX-0676,Blender,Rumah Tangga,406000,53,2024-09-13,False
+TRX-0677,Celana Jeans,Fashion,320000,69,2024-09-13,False
+TRX-0678,Headphone,Elektronik,701000,89,2024-09-14,False
+TRX-0679,Kalkulator,Pendidikan,192000,74,2024-09-15,False
+TRX-0680,Jaket,Fashion,341000,74,2024-09-15,False
+TRX-0681,Celana Jeans,Fashion,270000,96,2024-09-15,False
+TRX-0682,Alat Tulis Set,Pendidikan,44000,135,2024-09-16,False
+TRX-0683,Teh Celup,Makanan & Minuman,17000,233,2024-09-17,False
+TRX-0684,Tablet,Elektronik,4328000,49,2024-09-17,True
+TRX-0685,Headphone,Elektronik,646000,86,2024-09-18,False
+TRX-0686,Dispenser,Rumah Tangga,822000,33,2024-09-18,False
+TRX-0687,Kemeja,Fashion,186000,99,2024-09-22,False
+TRX-0688,Tablet,Elektronik,5237000,33,2024-09-23,False
+TRX-0689,Laptop,Elektronik,9290000,34,2024-09-23,False
+TRX-0690,Smartwatch,Elektronik,1579000,36,2024-09-23,False
+TRX-0691,Rice Cooker,Rumah Tangga,511000,58,2024-09-24,False
+TRX-0692,Biskuit Kaleng,Makanan & Minuman,67000,165,2024-09-24,False
+TRX-0693,Buku,Pendidikan,72000,94,2024-09-25,False
+TRX-0694,Alat Tulis Set,Pendidikan,37000,232,2024-09-25,True
+TRX-0695,Tablet,Elektronik,5728000,30,2024-09-26,False
+TRX-0696,Dispenser,Rumah Tangga,605000,70,2024-09-26,True
+TRX-0697,Setrika,Rumah Tangga,237000,62,2024-09-26,False
+TRX-0698,Biskuit Kaleng,Makanan & Minuman,67000,176,2024-09-26,False
+TRX-0699,Tas Sekolah,Pendidikan,251000,76,2024-09-29,False
+TRX-0700,Kalkulator,Pendidikan,166000,70,2024-09-30,False
+TRX-0701,Alat Tulis Set,Pendidikan,40000,90,2024-09-30,False
+TRX-0702,Dispenser,Rumah Tangga,673000,55,2024-10-01,True
+TRX-0703,Jaket,Fashion,321000,55,2024-10-01,False
+TRX-0704,Tas Sekolah,Pendidikan,222000,96,2024-10-02,False
+TRX-0705,Laptop,Elektronik,8830000,44,2024-10-02,False
+TRX-0706,Kopi Bubuk,Makanan & Minuman,53000,237,2024-10-03,False
+TRX-0707,Headphone,Elektronik,639000,111,2024-10-03,False
+TRX-0708,Jaket,Fashion,351000,63,2024-10-03,False
+TRX-0709,Alat Tulis Set,Pendidikan,42000,165,2024-10-04,False
+TRX-0710,Biskuit Kaleng,Makanan & Minuman,59000,210,2024-10-05,False
+TRX-0711,Dispenser,Rumah Tangga,642000,67,2024-10-05,True
+TRX-0712,Biskuit Kaleng,Makanan & Minuman,66000,174,2024-10-05,False
+TRX-0713,Biskuit Kaleng,Makanan & Minuman,63000,190,2024-10-06,False
+TRX-0714,Sepatu,Fashion,465000,72,2024-10-06,False
+TRX-0715,Sepatu,Fashion,474000,125,2024-10-06,False
+TRX-0716,Celana Jeans,Fashion,236000,115,2024-10-06,False
+TRX-0717,Setrika,Rumah Tangga,215000,65,2024-10-07,False
+TRX-0718,Biskuit Kaleng,Makanan & Minuman,74000,200,2024-10-07,False
+TRX-0719,Tablet,Elektronik,4105000,63,2024-10-08,True
+TRX-0720,Kemeja,Fashion,159000,133,2024-10-09,False
+TRX-0721,Teh Celup,Makanan & Minuman,16000,235,2024-10-09,False
+TRX-0722,Kopi Bubuk,Makanan & Minuman,51000,195,2024-10-09,False
+TRX-0723,Laptop,Elektronik,5515000,47,2024-10-09,False
+TRX-0724,Dispenser,Rumah Tangga,733000,44,2024-10-09,False
+TRX-0725,Headphone,Elektronik,544000,112,2024-10-10,True
+TRX-0726,Kopi Bubuk,Makanan & Minuman,51000,181,2024-10-10,False
+TRX-0727,Smartphone,Elektronik,3954000,99,2024-10-10,True
+TRX-0728,Kamus,Pendidikan,125000,67,2024-10-10,False
+TRX-0729,Teh Celup,Makanan & Minuman,11000,287,2024-10-11,True
+TRX-0730,Kalkulator,Pendidikan,123000,93,2024-10-11,True
+TRX-0731,Biskuit Kaleng,Makanan & Minuman,65000,156,2024-10-11,False
+TRX-0732,Celana Jeans,Fashion,300000,101,2024-10-11,False
+TRX-0733,Smartphone,Elektronik,4353000,251,2024-10-11,False
+TRX-0734,Tas Sekolah,Pendidikan,285000,56,2024-10-11,False
+TRX-0735,Smartphone,Elektronik,4226000,66,2024-10-12,False
+TRX-0736,Sepatu,Fashion,492000,104,2024-10-12,False
+TRX-0737,Kalkulator,Pendidikan,159000,79,2024-10-12,False
+TRX-0738,Smartphone,Elektronik,4463000,68,2024-10-13,False
+TRX-0739,Kopi Bubuk,Makanan & Minuman,40000,304,2024-10-13,True
+TRX-0740,Smartphone,Elektronik,3793000,82,2024-10-13,False
+TRX-0741,Kemeja,Fashion,200000,106,2024-10-13,False
+TRX-0742,Laptop,Elektronik,8620000,48,2024-10-13,False
+TRX-0743,Smartwatch,Elektronik,1991000,49,2024-10-14,False
+TRX-0744,Tas Sekolah,Pendidikan,248000,81,2024-10-15,False
+TRX-0745,Celana Jeans,Fashion,263000,116,2024-10-15,False
+TRX-0746,Celana Jeans,Fashion,283000,75,2024-10-15,False
+TRX-0747,Smartwatch,Elektronik,1522000,35,2024-10-15,False
+TRX-0748,Tablet,Elektronik,5523000,33,2024-10-15,False
+TRX-0749,Sepatu,Fashion,434000,67,2024-10-16,False
+TRX-0750,Sepatu,Fashion,472000,67,2024-10-16,False
+TRX-0751,Biskuit Kaleng,Makanan & Minuman,60000,154,2024-10-16,False
+TRX-0752,Headphone,Elektronik,682000,73,2024-10-17,False
+TRX-0753,Alat Tulis Set,Pendidikan,46000,116,2024-10-17,False
+TRX-0754,Biskuit Kaleng,Makanan & Minuman,58000,208,2024-10-19,False
+TRX-0755,Tablet,Elektronik,5675000,29,2024-10-19,False
+TRX-0756,Laptop,Elektronik,9044000,62,2024-10-19,False
+TRX-0757,Kamus,Pendidikan,101000,67,2024-10-20,False
+TRX-0758,Kamus,Pendidikan,104000,61,2024-10-21,False
+TRX-0759,Teh Celup,Makanan & Minuman,13000,284,2024-10-21,False
+TRX-0760,Blender,Rumah Tangga,396000,56,2024-10-21,False
+TRX-0761,Biskuit Kaleng,Makanan & Minuman,58000,246,2024-10-21,True
+TRX-0762,Kopi Bubuk,Makanan & Minuman,66000,231,2024-10-21,False
+TRX-0763,Dispenser,Rumah Tangga,762000,57,2024-10-21,False
+TRX-0764,Headphone,Elektronik,682000,88,2024-10-22,False
+TRX-0765,Teh Celup,Makanan & Minuman,15000,293,2024-10-23,False
+TRX-0766,Jaket,Fashion,316000,48,2024-10-23,False
+TRX-0767,Teh Celup,Makanan & Minuman,15000,256,2024-10-23,False
+TRX-0768,Tablet,Elektronik,4099000,56,2024-10-23,True
+TRX-0769,Headphone,Elektronik,638000,70,2024-10-24,False
+TRX-0770,Alat Tulis Set,Pendidikan,45000,144,2024-10-24,False
+TRX-0771,Rice Cooker,Rumah Tangga,571000,55,2024-10-25,False
+TRX-0772,Buku,Pendidikan,80000,95,2024-10-25,False
+TRX-0773,Jaket,Fashion,386000,57,2024-10-26,False
+TRX-0774,Kopi Bubuk,Makanan & Minuman,61000,295,2024-10-26,False
+TRX-0775,Celana Jeans,Fashion,282000,104,2024-10-27,False
+TRX-0776,Dispenser,Rumah Tangga,677000,41,2024-10-27,False
+TRX-0777,Kopi Bubuk,Makanan & Minuman,54000,253,2024-10-28,False
+TRX-0778,Jaket,Fashion,318000,55,2024-10-29,False
+TRX-0779,Dispenser,Rumah Tangga,867000,30,2024-10-29,False
+TRX-0780,Laptop,Elektronik,8924000,53,2024-10-29,False
+TRX-0781,Kamus,Pendidikan,116000,65,2024-10-29,False
+TRX-0782,Celana Jeans,Fashion,297000,99,2024-10-29,False
+TRX-0783,Dispenser,Rumah Tangga,857000,39,2024-10-30,False
+TRX-0784,Alat Tulis Set,Pendidikan,42000,125,2024-10-30,False
+TRX-0785,Laptop,Elektronik,8934000,51,2024-10-31,False
+TRX-0786,Blender,Rumah Tangga,312000,46,2024-10-31,True
+TRX-0787,Teh Celup,Makanan & Minuman,15000,356,2024-11-01,False
+TRX-0788,Dispenser,Rumah Tangga,748000,54,2024-11-01,False
+TRX-0789,Headphone,Elektronik,680000,151,2024-11-02,False
+TRX-0790,Celana Jeans,Fashion,263000,116,2024-11-03,False
+TRX-0791,Headphone,Elektronik,665000,148,2024-11-03,False
+TRX-0792,Biskuit Kaleng,Makanan & Minuman,57000,204,2024-11-03,False
+TRX-0793,Smartwatch,Elektronik,2032000,57,2024-11-03,False
+TRX-0794,Alat Tulis Set,Pendidikan,48000,124,2024-11-04,False
+TRX-0795,Kemeja,Fashion,135000,220,2024-11-04,True
+TRX-0796,Buku,Pendidikan,49000,184,2024-11-04,True
+TRX-0797,Biskuit Kaleng,Makanan & Minuman,68000,178,2024-11-05,False
+TRX-0798,Biskuit Kaleng,Makanan & Minuman,66000,165,2024-11-05,False
+TRX-0799,Dispenser,Rumah Tangga,835000,37,2024-11-05,False
+TRX-0800,Kamus,Pendidikan,113000,40,2024-11-06,False
+TRX-0801,Celana Jeans,Fashion,287000,104,2024-11-06,False
+TRX-0802,Kamus,Pendidikan,108000,72,2024-11-07,False
+TRX-0803,Alat Tulis Set,Pendidikan,52000,135,2024-11-07,False
+TRX-0804,Kopi Bubuk,Makanan & Minuman,56000,166,2024-11-07,False
+TRX-0805,Kemeja,Fashion,140000,168,2024-11-07,False
+TRX-0806,Jaket,Fashion,347000,75,2024-11-08,False
+TRX-0807,Alat Tulis Set,Pendidikan,47000,116,2024-11-08,False
+TRX-0808,Tablet,Elektronik,5348000,53,2024-11-08,False
+TRX-0809,Blender,Rumah Tangga,459000,35,2024-11-08,False
+TRX-0810,Laptop,Elektronik,9468000,66,2024-11-09,False
+TRX-0811,Kopi Bubuk,Makanan & Minuman,60000,251,2024-11-09,False
+TRX-0812,Tas Sekolah,Pendidikan,279000,101,2024-11-09,False
+TRX-0813,Jaket,Fashion,326000,93,2024-11-09,False
+TRX-0814,Tablet,Elektronik,3612000,64,2024-11-10,True
+TRX-0815,Kalkulator,Pendidikan,123000,105,2024-11-10,True
+TRX-0816,Teh Celup,Makanan & Minuman,10000,499,2024-11-10,True
+TRX-0817,Laptop,Elektronik,9060000,49,2024-11-11,False
+TRX-0818,Kemeja,Fashion,167000,141,2024-11-11,False
+TRX-0819,Kopi Bubuk,Makanan & Minuman,45000,200,2024-11-11,True
+TRX-0820,Blender,Rumah Tangga,495000,71,2024-11-11,False
+TRX-0821,Laptop,Elektronik,8099000,64,2024-11-11,False
+TRX-0822,Jaket,Fashion,370000,46,2024-11-12,False
+TRX-0823,Blender,Rumah Tangga,340000,103,2024-11-12,True
+TRX-0824,Sepatu,Fashion,389000,113,2024-11-12,True
+TRX-0825,Setrika,Rumah Tangga,221000,76,2024-11-12,False
+TRX-0826,Blender,Rumah Tangga,350000,102,2024-11-13,True
+TRX-0827,Tablet,Elektronik,5544000,29,2024-11-14,False
+TRX-0828,Laptop,Elektronik,8005000,80,2024-11-14,False
+TRX-0829,Alat Tulis Set,Pendidikan,45000,99,2024-11-14,False
+TRX-0830,Celana Jeans,Fashion,300000,176,2024-11-15,False
+TRX-0831,Kalkulator,Pendidikan,191000,64,2024-11-15,False
+TRX-0832,Alat Tulis Set,Pendidikan,48000,139,2024-11-16,False
+TRX-0833,Kamus,Pendidikan,101000,85,2024-11-16,True
+TRX-0834,Setrika,Rumah Tangga,201000,83,2024-11-16,False
+TRX-0835,Biskuit Kaleng,Makanan & Minuman,68000,254,2024-11-16,False
+TRX-0836,Smartwatch,Elektronik,2058000,59,2024-11-16,False
+TRX-0837,Tablet,Elektronik,4068000,57,2024-11-17,True
+TRX-0838,Kemeja,Fashion,182000,154,2024-11-17,False
+TRX-0839,Biskuit Kaleng,Makanan & Minuman,70000,243,2024-11-17,False
+TRX-0840,Alat Tulis Set,Pendidikan,39000,179,2024-11-17,False
+TRX-0841,Sepatu,Fashion,456000,85,2024-11-17,False
+TRX-0842,Headphone,Elektronik,582000,149,2024-11-17,False
+TRX-0843,Kamus,Pendidikan,109000,40,2024-11-18,False
+TRX-0844,Setrika,Rumah Tangga,238000,77,2024-11-18,False
+TRX-0845,Tas Sekolah,Pendidikan,231000,89,2024-11-19,False
+TRX-0846,Smartwatch,Elektronik,1734000,60,2024-11-19,False
+TRX-0847,Smartwatch,Elektronik,1802000,63,2024-11-20,False
+TRX-0848,Teh Celup,Makanan & Minuman,16000,289,2024-11-20,False
+TRX-0849,Kopi Bubuk,Makanan & Minuman,61000,236,2024-11-20,False
+TRX-0850,Buku,Pendidikan,76000,92,2024-11-20,False
+TRX-0851,Dispenser,Rumah Tangga,859000,50,2024-11-20,False
+TRX-0852,Setrika,Rumah Tangga,252000,109,2024-11-20,False
+TRX-0853,Tablet,Elektronik,5276000,26,2024-11-21,False
+TRX-0854,Tas Sekolah,Pendidikan,286000,270,2024-11-21,False
+TRX-0855,Laptop,Elektronik,8834000,64,2024-11-22,False
+TRX-0856,Rice Cooker,Rumah Tangga,572000,82,2024-11-22,False
+TRX-0857,Buku,Pendidikan,71000,130,2024-11-22,False
+TRX-0858,Jaket,Fashion,340000,41,2024-11-22,False
+TRX-0859,Sepatu,Fashion,313000,135,2024-11-22,True
+TRX-0860,Smartwatch,Elektronik,1997000,51,2024-11-22,False
+TRX-0861,Celana Jeans,Fashion,269000,119,2024-11-24,False
+TRX-0862,Setrika,Rumah Tangga,215000,114,2024-11-24,True
+TRX-0863,Sepatu,Fashion,523000,105,2024-11-24,False
+TRX-0864,Kopi Bubuk,Makanan & Minuman,59000,181,2024-11-25,False
+TRX-0865,Headphone,Elektronik,625000,95,2024-11-25,False
+TRX-0866,Dispenser,Rumah Tangga,755000,31,2024-11-25,False
+TRX-0867,Biskuit Kaleng,Makanan & Minuman,62000,208,2024-11-25,False
+TRX-0868,Jaket,Fashion,366000,65,2024-11-26,False
+TRX-0869,Sepatu,Fashion,484000,90,2024-11-26,False
+TRX-0870,Headphone,Elektronik,682000,85,2024-11-26,False
+TRX-0871,Smartphone,Elektronik,4165000,72,2024-11-26,False
+TRX-0872,Kopi Bubuk,Makanan & Minuman,39000,301,2024-11-27,True
+TRX-0873,Rice Cooker,Rumah Tangga,514000,73,2024-11-28,False
+TRX-0874,Tablet,Elektronik,6140000,41,2024-11-28,False
+TRX-0875,Smartwatch,Elektronik,1961000,68,2024-11-28,False
+TRX-0876,Tas Sekolah,Pendidikan,244000,65,2024-11-29,False
+TRX-0877,Blender,Rumah Tangga,434000,44,2024-11-29,False
+TRX-0878,Jaket,Fashion,374000,85,2024-11-30,False
+TRX-0879,Rice Cooker,Rumah Tangga,641000,78,2024-11-30,False
+TRX-0880,Rice Cooker,Rumah Tangga,535000,82,2024-11-30,False
+TRX-0881,Tablet,Elektronik,5516000,39,2024-11-30,False
+TRX-0882,Biskuit Kaleng,Makanan & Minuman,70000,298,2024-12-01,False
+TRX-0883,Teh Celup,Makanan & Minuman,13000,502,2024-12-01,False
+TRX-0884,Kamus,Pendidikan,125000,64,2024-12-01,False
+TRX-0885,Alat Tulis Set,Pendidikan,41000,123,2024-12-01,False
+TRX-0886,Teh Celup,Makanan & Minuman,9000,330,2024-12-01,True
+TRX-0887,Blender,Rumah Tangga,405000,63,2024-12-02,False
+TRX-0888,Rice Cooker,Rumah Tangga,533000,85,2024-12-03,False
+TRX-0889,Celana Jeans,Fashion,266000,132,2024-12-04,False
+TRX-0890,Blender,Rumah Tangga,445000,76,2024-12-04,False
+TRX-0891,Biskuit Kaleng,Makanan & Minuman,49000,332,2024-12-04,True
+TRX-0892,Smartwatch,Elektronik,1922000,73,2024-12-05,False
+TRX-0893,Rice Cooker,Rumah Tangga,537000,61,2024-12-05,False
+TRX-0894,Kalkulator,Pendidikan,183000,52,2024-12-05,False
+TRX-0895,Teh Celup,Makanan & Minuman,12000,566,2024-12-05,True
+TRX-0896,Tas Sekolah,Pendidikan,229000,66,2024-12-05,False
+TRX-0897,Dispenser,Rumah Tangga,697000,40,2024-12-05,False
+TRX-0898,Headphone,Elektronik,589000,132,2024-12-06,False
+TRX-0899,Laptop,Elektronik,9510000,64,2024-12-06,False
+TRX-0900,Headphone,Elektronik,590000,135,2024-12-07,False
+TRX-0901,Kemeja,Fashion,156000,216,2024-12-07,True
+TRX-0902,Smartphone,Elektronik,4795000,128,2024-12-07,False
+TRX-0903,Teh Celup,Makanan & Minuman,14000,318,2024-12-07,False
+TRX-0904,Alat Tulis Set,Pendidikan,41000,108,2024-12-07,False
+TRX-0905,Kopi Bubuk,Makanan & Minuman,58000,262,2024-12-08,False
+TRX-0906,Headphone,Elektronik,633000,99,2024-12-08,False
+TRX-0907,Tablet,Elektronik,5337000,57,2024-12-09,False
+TRX-0908,Headphone,Elektronik,690000,116,2024-12-09,False
+TRX-0909,Celana Jeans,Fashion,301000,117,2024-12-09,False
+TRX-0910,Laptop,Elektronik,8197000,74,2024-12-10,False
+TRX-0911,Tas Sekolah,Pendidikan,248000,78,2024-12-10,False
+TRX-0912,Kopi Bubuk,Makanan & Minuman,49000,250,2024-12-10,False
+TRX-0913,Kopi Bubuk,Makanan & Minuman,58000,280,2024-12-10,False
+TRX-0914,Buku,Pendidikan,73000,121,2024-12-10,False
+TRX-0915,Teh Celup,Makanan & Minuman,16000,386,2024-12-11,False
+TRX-0916,Smartphone,Elektronik,3286000,140,2024-12-11,True
+TRX-0917,Celana Jeans,Fashion,262000,107,2024-12-11,False
+TRX-0918,Kamus,Pendidikan,128000,42,2024-12-11,False
+TRX-0919,Alat Tulis Set,Pendidikan,49000,124,2024-12-11,False
+TRX-0920,Smartphone,Elektronik,4598000,100,2024-12-11,False
+TRX-0921,Kopi Bubuk,Makanan & Minuman,55000,321,2024-12-12,False
+TRX-0922,Tas Sekolah,Pendidikan,253000,101,2024-12-12,False
+TRX-0923,Blender,Rumah Tangga,477000,47,2024-12-12,False
+TRX-0924,Jaket,Fashion,237000,118,2024-12-12,True
+TRX-0925,Tablet,Elektronik,5605000,39,2024-12-12,False
+TRX-0926,Kamus,Pendidikan,127000,67,2024-12-13,False
+TRX-0927,Headphone,Elektronik,654000,110,2024-12-13,False
+TRX-0928,Jaket,Fashion,327000,81,2024-12-13,False
+TRX-0929,Kopi Bubuk,Makanan & Minuman,47000,346,2024-12-13,False
+TRX-0930,Tablet,Elektronik,5339000,69,2024-12-13,False
+TRX-0931,Alat Tulis Set,Pendidikan,47000,158,2024-12-14,False
+TRX-0932,Sepatu,Fashion,498000,142,2024-12-14,False
+TRX-0933,Buku,Pendidikan,73000,129,2024-12-15,True
+TRX-0934,Kopi Bubuk,Makanan & Minuman,58000,279,2024-12-15,False
+TRX-0935,Teh Celup,Makanan & Minuman,13000,429,2024-12-15,True
+TRX-0936,Smartwatch,Elektronik,1894000,235,2024-12-15,False
+TRX-0937,Kalkulator,Pendidikan,175000,62,2024-12-16,False
+TRX-0938,Alat Tulis Set,Pendidikan,42000,123,2024-12-16,False
+TRX-0939,Jaket,Fashion,311000,61,2024-12-16,False
+TRX-0940,Tablet,Elektronik,5200000,52,2024-12-16,False
+TRX-0941,Buku,Pendidikan,83000,94,2024-12-17,False
+TRX-0942,Headphone,Elektronik,556000,172,2024-12-17,False
+TRX-0943,Headphone,Elektronik,748000,124,2024-12-17,False
+TRX-0944,Smartwatch,Elektronik,1692000,59,2024-12-17,False
+TRX-0945,Laptop,Elektronik,8837000,48,2024-12-17,False
+TRX-0946,Jaket,Fashion,264000,56,2024-12-18,False
+TRX-0947,Kopi Bubuk,Makanan & Minuman,50000,339,2024-12-18,False
+TRX-0948,Buku,Pendidikan,73000,110,2024-12-18,False
+TRX-0949,Kopi Bubuk,Makanan & Minuman,56000,336,2024-12-19,False
+TRX-0950,Blender,Rumah Tangga,425000,87,2024-12-20,False
+TRX-0951,Sepatu,Fashion,508000,97,2024-12-20,False
+TRX-0952,Buku,Pendidikan,75000,183,2024-12-20,False
+TRX-0953,Kemeja,Fashion,174000,112,2024-12-20,False
+TRX-0954,Tablet,Elektronik,5114000,41,2024-12-21,False
+TRX-0955,Tablet,Elektronik,5867000,83,2024-12-21,False
+TRX-0956,Setrika,Rumah Tangga,268000,85,2024-12-21,False
+TRX-0957,Rice Cooker,Rumah Tangga,590000,86,2024-12-21,False
+TRX-0958,Celana Jeans,Fashion,301000,167,2024-12-22,False
+TRX-0959,Smartphone,Elektronik,4239000,106,2024-12-23,False
+TRX-0960,Biskuit Kaleng,Makanan & Minuman,66000,186,2024-12-23,False
+TRX-0961,Laptop,Elektronik,7552000,87,2024-12-23,True
+TRX-0962,Teh Celup,Makanan & Minuman,11000,419,2024-12-23,True
+TRX-0963,Sepatu,Fashion,465000,112,2024-12-23,False
+TRX-0964,Teh Celup,Makanan & Minuman,14000,344,2024-12-23,False
+TRX-0965,Biskuit Kaleng,Makanan & Minuman,67000,232,2024-12-24,False
+TRX-0966,Kemeja,Fashion,176000,141,2024-12-24,False
+TRX-0967,Kamus,Pendidikan,124000,50,2024-12-25,False
+TRX-0968,Setrika,Rumah Tangga,186000,58,2024-12-25,False
+TRX-0969,Biskuit Kaleng,Makanan & Minuman,56000,234,2024-12-25,False
+TRX-0970,Smartwatch,Elektronik,1752000,91,2024-12-25,False
+TRX-0971,Laptop,Elektronik,7469000,55,2024-12-25,False
+TRX-0972,Teh Celup,Makanan & Minuman,18000,364,2024-12-25,False
+TRX-0973,Sepatu,Fashion,463000,95,2024-12-25,False
+TRX-0974,Headphone,Elektronik,680000,292,2024-12-25,False
+TRX-0975,Setrika,Rumah Tangga,197000,76,2024-12-26,False
+TRX-0976,Biskuit Kaleng,Makanan & Minuman,69000,239,2024-12-26,False
+TRX-0977,Jaket,Fashion,403000,87,2024-12-26,False
+TRX-0978,Dispenser,Rumah Tangga,732000,54,2024-12-26,False
+TRX-0979,Rice Cooker,Rumah Tangga,621000,48,2024-12-27,False
+TRX-0980,Teh Celup,Makanan & Minuman,16000,391,2024-12-27,False
+TRX-0981,Blender,Rumah Tangga,375000,72,2024-12-27,False
+TRX-0982,Teh Celup,Makanan & Minuman,16000,393,2024-12-27,False
+TRX-0983,Dispenser,Rumah Tangga,743000,82,2024-12-28,False
+TRX-0984,Celana Jeans,Fashion,323000,129,2024-12-28,False
+TRX-0985,Dispenser,Rumah Tangga,645000,37,2024-12-29,False
+TRX-0986,Teh Celup,Makanan & Minuman,17000,345,2024-12-29,False
+TRX-0987,Buku,Pendidikan,71000,174,2024-12-29,False
+TRX-0988,Tablet,Elektronik,4956000,46,2024-12-29,False
+TRX-0989,Tablet,Elektronik,5111000,50,2024-12-29,False
+TRX-0990,Dispenser,Rumah Tangga,669000,44,2024-12-30,False
+TRX-0991,Biskuit Kaleng,Makanan & Minuman,64000,242,2024-12-30,False
+TRX-0992,Kalkulator,Pendidikan,175000,65,2024-12-30,False
+TRX-0993,Sepatu,Fashion,423000,120,2024-12-30,True
+TRX-0994,Dispenser,Rumah Tangga,777000,55,2024-12-30,False
+TRX-0995,Jaket,Fashion,329000,74,2024-12-30,True
+TRX-0996,Kemeja,Fashion,182000,123,2024-12-31,False
+TRX-0997,Jaket,Fashion,386000,69,2024-12-31,False
+TRX-0998,Kopi Bubuk,Makanan & Minuman,55000,175,2024-12-31,False
+TRX-0999,Kopi Bubuk,Makanan & Minuman,57000,289,2024-12-31,False
+TRX-1000,Teh Celup,Makanan & Minuman,15000,357,2024-12-31,False

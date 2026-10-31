@@ -1,0 +1,24 @@
+TUGAS BEDAH KASUS DATASET (KASUS 1, 2, DAN 3)
+Visualisasi Data dengan Python dan Dashboard Streamlit
+
+Nama  : Intan Febriani
+NIM   : 241055001
+Kelas : F
+
+Link Google Drive:
+TEMPEL_LINK_GOOGLE_DRIVE_DI_SINI
+
+Isi folder Drive:
+1. generate_data.py           - pembuatan data sintetis 1.000 baris per kasus
+2. data_kasus1_penjualan.csv  - Kasus 1: Dataset Operasional Penjualan
+3. data_kasus2_mahasiswa.csv  - Kasus 2: Dataset Profil Mahasiswa
+4. data_kasus3_cuaca.csv      - Kasus 3: Dataset Pengamatan Cuaca
+5. analisis.py                - analisis data detail ketiga kasus
+6. laporan_analisis.txt       - hasil analisis
+7. output_analisis/           - grafik hasil analisis
+8. app.py                     - dashboard Streamlit (Kasus 1, 2, 3)
+9. requirements.txt, README.md
+
+Cara menjalankan dashboard:
+  python -m pip install -r requirements.txt
+  python -m streamlit run app.py

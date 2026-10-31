@@ -1,0 +1,1001 @@
+ID Pengamatan,Kota,Suhu (°C),Kelembaban (%),Kondisi,Tanggal
+OBS-0001,Jakarta,32.5,75,Cerah,2024-01-01
+OBS-0002,Bandung,24.0,85,Hujan,2024-01-01
+OBS-0003,Denpasar,26.9,85,Hujan Petir,2024-01-01
+OBS-0004,Medan,26.2,88,Hujan Petir,2024-01-01
+OBS-0005,Makassar,30.5,83,Cerah,2024-01-02
+OBS-0006,Denpasar,27.4,82,Hujan,2024-01-02
+OBS-0007,Makassar,28.3,86,Berawan,2024-01-02
+OBS-0008,Medan,28.6,85,Berawan,2024-01-03
+OBS-0009,Makassar,30.4,82,Berawan,2024-01-03
+OBS-0010,Yogyakarta,27.7,76,Cerah,2024-01-03
+OBS-0011,Yogyakarta,25.6,78,Cerah,2024-01-04
+OBS-0012,Denpasar,25.6,96,Hujan Petir,2024-01-05
+OBS-0013,Makassar,27.9,90,Hujan Petir,2024-01-05
+OBS-0014,Makassar,28.5,81,Hujan,2024-01-05
+OBS-0015,Makassar,25.7,95,Hujan,2024-01-06
+OBS-0016,Medan,28.0,83,Cerah,2024-01-06
+OBS-0017,Denpasar,30.9,76,Hujan,2024-01-06
+OBS-0018,Surabaya,30.6,88,Berawan,2024-01-06
+OBS-0019,Malang,24.5,89,Berawan,2024-01-06
+OBS-0020,Makassar,27.9,81,Hujan,2024-01-06
+OBS-0021,Malang,22.0,83,Hujan,2024-01-07
+OBS-0022,Denpasar,24.0,95,Hujan,2024-01-07
+OBS-0023,Denpasar,26.9,89,Hujan,2024-01-07
+OBS-0024,Yogyakarta,25.0,90,Hujan,2024-01-07
+OBS-0025,Makassar,28.4,77,Hujan,2024-01-08
+OBS-0026,Medan,26.0,88,Hujan,2024-01-08
+OBS-0027,Jakarta,32.8,70,Cerah,2024-01-08
+OBS-0028,Makassar,29.7,73,Cerah,2024-01-09
+OBS-0029,Medan,27.1,90,Hujan,2024-01-09
+OBS-0030,Jakarta,26.7,90,Hujan Petir,2024-01-09
+OBS-0031,Malang,23.7,88,Hujan Petir,2024-01-09
+OBS-0032,Medan,23.8,89,Hujan Petir,2024-01-10
+OBS-0033,Malang,21.5,84,Hujan,2024-01-10
+OBS-0034,Bandung,21.0,87,Hujan Petir,2024-01-10
+OBS-0035,Medan,26.0,76,Hujan,2024-01-10
+OBS-0036,Surabaya,26.1,89,Hujan,2024-01-11
+OBS-0037,Makassar,28.3,88,Berawan,2024-01-11
+OBS-0038,Yogyakarta,27.4,86,Hujan,2024-01-11
+OBS-0039,Surabaya,27.5,78,Hujan,2024-01-11
+OBS-0040,Makassar,26.5,83,Hujan,2024-01-11
+OBS-0041,Surabaya,31.0,67,Cerah,2024-01-11
+OBS-0042,Jakarta,32.2,81,Cerah,2024-01-12
+OBS-0043,Malang,22.3,92,Hujan,2024-01-12
+OBS-0044,Bandung,20.1,93,Hujan Petir,2024-01-13
+OBS-0045,Medan,27.2,93,Hujan,2024-01-13
+OBS-0046,Bandung,19.9,97,Hujan Petir,2024-01-13
+OBS-0047,Makassar,28.9,76,Cerah,2024-01-13
+OBS-0048,Surabaya,30.8,76,Berawan,2024-01-13
+OBS-0049,Makassar,28.8,78,Hujan,2024-01-14
+OBS-0050,Medan,26.1,91,Hujan,2024-01-14
+OBS-0051,Jakarta,28.4,90,Hujan,2024-01-14
+OBS-0052,Yogyakarta,25.2,91,Hujan Petir,2024-01-16
+OBS-0053,Surabaya,30.5,87,Hujan Petir,2024-01-17
+OBS-0054,Malang,21.7,89,Hujan,2024-01-18
+OBS-0055,Surabaya,27.8,87,Hujan Petir,2024-01-18
+OBS-0056,Makassar,26.0,92,Hujan Petir,2024-01-18
+OBS-0057,Jakarta,29.1,73,Berawan,2024-01-19
+OBS-0058,Yogyakarta,23.3,85,Hujan,2024-01-19
+OBS-0059,Denpasar,28.6,76,Cerah,2024-01-19
+OBS-0060,Surabaya,28.2,81,Berawan,2024-01-20
+OBS-0061,Yogyakarta,27.8,85,Hujan,2024-01-20
+OBS-0062,Bandung,22.6,90,Berawan,2024-01-21
+OBS-0063,Surabaya,30.9,79,Cerah,2024-01-21
+OBS-0064,Jakarta,27.0,83,Hujan,2024-01-23
+OBS-0065,Malang,21.6,85,Hujan Petir,2024-01-23
+OBS-0066,Makassar,28.4,90,Hujan,2024-01-23
+OBS-0067,Yogyakarta,27.5,79,Hujan,2024-01-24
+OBS-0068,Medan,29.3,82,Hujan,2024-01-24
+OBS-0069,Makassar,28.2,84,Hujan,2024-01-24
+OBS-0070,Makassar,27.5,80,Cerah,2024-01-24
+OBS-0071,Bandung,23.4,86,Berawan,2024-01-24
+OBS-0072,Makassar,27.4,84,Hujan,2024-01-26
+OBS-0073,Medan,25.8,85,Hujan,2024-01-26
+OBS-0074,Bandung,21.8,86,Hujan Petir,2024-01-27
+OBS-0075,Bandung,21.7,84,Hujan Petir,2024-01-27
+OBS-0076,Surabaya,31.3,71,Cerah,2024-01-27
+OBS-0077,Makassar,25.5,85,Hujan,2024-01-27
+OBS-0078,Malang,24.8,72,Cerah,2024-01-28
+OBS-0079,Medan,26.9,90,Hujan,2024-01-28
+OBS-0080,Yogyakarta,26.9,84,Cerah,2024-01-28
+OBS-0081,Makassar,29.1,83,Cerah,2024-01-28
+OBS-0082,Surabaya,33.4,63,Cerah,2024-01-28
+OBS-0083,Denpasar,27.7,86,Hujan,2024-01-29
+OBS-0084,Jakarta,31.5,70,Berawan,2024-01-29
+OBS-0085,Medan,23.2,96,Hujan Petir,2024-01-29
+OBS-0086,Medan,30.2,80,Hujan,2024-01-30
+OBS-0087,Malang,21.2,92,Hujan Petir,2024-01-30
+OBS-0088,Surabaya,31.2,76,Berawan,2024-01-30
+OBS-0089,Yogyakarta,27.0,93,Hujan,2024-01-31
+OBS-0090,Denpasar,26.7,80,Hujan Petir,2024-01-31
+OBS-0091,Medan,28.2,80,Cerah,2024-01-31
+OBS-0092,Malang,20.0,98,Hujan Petir,2024-01-31
+OBS-0093,Jakarta,30.0,72,Cerah,2024-02-01
+OBS-0094,Jakarta,30.0,75,Cerah,2024-02-01
+OBS-0095,Makassar,28.4,82,Hujan,2024-02-01
+OBS-0096,Yogyakarta,25.7,98,Hujan,2024-02-02
+OBS-0097,Jakarta,26.4,88,Hujan Petir,2024-02-02
+OBS-0098,Denpasar,25.9,88,Hujan,2024-02-02
+OBS-0099,Bandung,23.6,82,Berawan,2024-02-04
+OBS-0100,Surabaya,30.9,76,Cerah,2024-02-04
+OBS-0101,Surabaya,29.5,69,Cerah,2024-02-04
+OBS-0102,Surabaya,28.5,77,Cerah,2024-02-05
+OBS-0103,Surabaya,29.2,71,Cerah,2024-02-05
+OBS-0104,Makassar,28.8,85,Berawan,2024-02-05
+OBS-0105,Medan,27.1,90,Berawan,2024-02-05
+OBS-0106,Denpasar,27.9,75,Hujan,2024-02-06
+OBS-0107,Medan,25.2,90,Hujan,2024-02-06
+OBS-0108,Jakarta,26.5,87,Hujan,2024-02-06
+OBS-0109,Bandung,22.2,82,Hujan,2024-02-07
+OBS-0110,Makassar,29.7,82,Hujan Petir,2024-02-08
+OBS-0111,Bandung,19.8,85,Hujan,2024-02-08
+OBS-0112,Surabaya,28.1,90,Hujan,2024-02-08
+OBS-0113,Yogyakarta,26.0,93,Hujan,2024-02-08
+OBS-0114,Denpasar,27.7,87,Hujan Petir,2024-02-08
+OBS-0115,Makassar,30.3,73,Cerah,2024-02-09
+OBS-0116,Surabaya,31.7,64,Cerah,2024-02-09
+OBS-0117,Surabaya,29.7,83,Hujan,2024-02-09
+OBS-0118,Makassar,29.1,79,Berawan,2024-02-10
+OBS-0119,Surabaya,26.4,85,Berawan,2024-02-10
+OBS-0120,Makassar,27.4,91,Hujan,2024-02-11
+OBS-0121,Makassar,28.1,82,Berawan,2024-02-12
+OBS-0122,Makassar,28.2,88,Berawan,2024-02-12
+OBS-0123,Denpasar,26.8,78,Hujan,2024-02-12
+OBS-0124,Makassar,27.7,78,Cerah,2024-02-13
+OBS-0125,Jakarta,29.1,70,Cerah,2024-02-13
+OBS-0126,Medan,28.8,80,Berawan,2024-02-13
+OBS-0127,Surabaya,27.6,89,Hujan Petir,2024-02-13
+OBS-0128,Malang,21.7,95,Hujan,2024-02-14
+OBS-0129,Medan,29.6,78,Cerah,2024-02-14
+OBS-0130,Makassar,28.5,70,Cerah,2024-02-14
+OBS-0131,Jakarta,29.7,78,Cerah,2024-02-15
+OBS-0132,Medan,25.6,84,Hujan,2024-02-15
+OBS-0133,Yogyakarta,25.1,86,Berawan,2024-02-15
+OBS-0134,Jakarta,24.6,93,Hujan Petir,2024-02-15
+OBS-0135,Malang,21.3,97,Hujan Petir,2024-02-15
+OBS-0136,Medan,30.2,73,Cerah,2024-02-15
+OBS-0137,Malang,21.2,91,Hujan,2024-02-15
+OBS-0138,Medan,27.6,85,Berawan,2024-02-16
+OBS-0139,Surabaya,30.2,81,Berawan,2024-02-16
+OBS-0140,Makassar,29.1,81,Hujan,2024-02-16
+OBS-0141,Jakarta,26.9,96,Hujan Petir,2024-02-16
+OBS-0142,Denpasar,29.2,70,Cerah,2024-02-16
+OBS-0143,Bandung,19.1,93,Hujan,2024-02-17
+OBS-0144,Makassar,28.3,85,Hujan Petir,2024-02-17
+OBS-0145,Malang,22.6,86,Hujan,2024-02-17
+OBS-0146,Medan,28.3,87,Hujan,2024-02-18
+OBS-0147,Denpasar,28.4,88,Hujan,2024-02-18
+OBS-0148,Malang,24.1,91,Cerah,2024-02-18
+OBS-0149,Surabaya,32.1,71,Cerah,2024-02-18
+OBS-0150,Denpasar,25.3,76,Hujan,2024-02-18
+OBS-0151,Jakarta,25.6,95,Hujan Petir,2024-02-19
+OBS-0152,Bandung,19.9,96,Hujan Petir,2024-02-19
+OBS-0153,Yogyakarta,25.4,83,Hujan Petir,2024-02-19
+OBS-0154,Denpasar,27.4,92,Hujan Petir,2024-02-19
+OBS-0155,Malang,19.7,94,Hujan,2024-02-20
+OBS-0156,Surabaya,30.8,72,Cerah,2024-02-20
+OBS-0157,Surabaya,31.1,83,Cerah,2024-02-21
+OBS-0158,Jakarta,26.0,86,Hujan,2024-02-21
+OBS-0159,Medan,28.3,79,Berawan,2024-02-22
+OBS-0160,Yogyakarta,25.8,85,Berawan,2024-02-23
+OBS-0161,Medan,26.5,92,Hujan,2024-02-23
+OBS-0162,Malang,22.8,89,Hujan,2024-02-23
+OBS-0163,Makassar,31.2,78,Cerah,2024-02-23
+OBS-0164,Makassar,27.5,82,Cerah,2024-02-24
+OBS-0165,Makassar,26.3,91,Hujan,2024-02-25
+OBS-0166,Bandung,19.7,100,Hujan,2024-02-25
+OBS-0167,Makassar,26.1,82,Hujan,2024-02-26
+OBS-0168,Bandung,21.2,90,Hujan Petir,2024-02-27
+OBS-0169,Medan,27.3,83,Hujan,2024-02-27
+OBS-0170,Makassar,29.6,92,Hujan,2024-02-27
+OBS-0171,Surabaya,29.8,78,Cerah,2024-02-27
+OBS-0172,Surabaya,30.8,76,Cerah,2024-02-27
+OBS-0173,Bandung,20.6,84,Hujan,2024-02-27
+OBS-0174,Jakarta,27.0,80,Hujan,2024-02-27
+OBS-0175,Malang,24.3,89,Hujan,2024-02-27
+OBS-0176,Medan,28.9,82,Berawan,2024-02-27
+OBS-0177,Jakarta,30.0,82,Hujan,2024-02-29
+OBS-0178,Malang,21.2,86,Berawan,2024-02-29
+OBS-0179,Malang,18.9,89,Hujan,2024-02-29
+OBS-0180,Bandung,20.8,89,Hujan,2024-02-29
+OBS-0181,Yogyakarta,26.1,83,Hujan,2024-03-01
+OBS-0182,Malang,24.7,83,Berawan,2024-03-01
+OBS-0183,Medan,28.6,79,Hujan,2024-03-01
+OBS-0184,Makassar,27.8,80,Cerah,2024-03-01
+OBS-0185,Jakarta,29.1,72,Cerah,2024-03-02
+OBS-0186,Medan,27.2,83,Berawan,2024-03-02
+OBS-0187,Makassar,25.7,84,Berawan,2024-03-02
+OBS-0188,Denpasar,25.8,86,Hujan Petir,2024-03-03
+OBS-0189,Yogyakarta,27.3,82,Berawan,2024-03-03
+OBS-0190,Jakarta,31.3,68,Cerah,2024-03-03
+OBS-0191,Denpasar,25.5,91,Hujan,2024-03-03
+OBS-0192,Denpasar,29.3,72,Cerah,2024-03-04
+OBS-0193,Yogyakarta,26.3,84,Berawan,2024-03-04
+OBS-0194,Bandung,21.1,98,Hujan,2024-03-04
+OBS-0195,Medan,27.7,83,Hujan,2024-03-04
+OBS-0196,Surabaya,30.3,73,Cerah,2024-03-05
+OBS-0197,Malang,23.2,91,Hujan,2024-03-06
+OBS-0198,Yogyakarta,29.5,83,Berawan,2024-03-06
+OBS-0199,Bandung,21.6,95,Hujan,2024-03-06
+OBS-0200,Denpasar,26.2,80,Hujan,2024-03-06
+OBS-0201,Medan,26.8,85,Hujan,2024-03-06
+OBS-0202,Yogyakarta,24.9,96,Hujan Petir,2024-03-06
+OBS-0203,Surabaya,26.8,82,Hujan,2024-03-06
+OBS-0204,Makassar,26.9,79,Hujan Petir,2024-03-07
+OBS-0205,Yogyakarta,27.0,95,Hujan,2024-03-07
+OBS-0206,Malang,21.1,100,Hujan,2024-03-08
+OBS-0207,Makassar,26.2,84,Hujan,2024-03-08
+OBS-0208,Medan,29.4,73,Cerah,2024-03-08
+OBS-0209,Malang,21.3,84,Berawan,2024-03-08
+OBS-0210,Makassar,28.5,89,Berawan,2024-03-08
+OBS-0211,Malang,20.4,97,Hujan Petir,2024-03-08
+OBS-0212,Jakarta,30.2,80,Berawan,2024-03-08
+OBS-0213,Makassar,31.5,74,Cerah,2024-03-09
+OBS-0214,Yogyakarta,28.3,78,Berawan,2024-03-09
+OBS-0215,Malang,20.9,97,Hujan Petir,2024-03-10
+OBS-0216,Denpasar,26.8,85,Hujan,2024-03-10
+OBS-0217,Malang,21.4,85,Hujan,2024-03-10
+OBS-0218,Medan,28.7,86,Hujan,2024-03-11
+OBS-0219,Medan,25.8,89,Hujan Petir,2024-03-12
+OBS-0220,Medan,25.7,85,Hujan,2024-03-12
+OBS-0221,Bandung,20.5,92,Hujan,2024-03-13
+OBS-0222,Makassar,30.3,77,Cerah,2024-03-13
+OBS-0223,Makassar,27.8,82,Hujan Petir,2024-03-14
+OBS-0224,Yogyakarta,27.4,78,Berawan,2024-03-14
+OBS-0225,Bandung,21.6,84,Berawan,2024-03-14
+OBS-0226,Yogyakarta,25.4,90,Hujan,2024-03-14
+OBS-0227,Surabaya,28.8,77,Hujan,2024-03-14
+OBS-0228,Surabaya,32.2,75,Cerah,2024-03-15
+OBS-0229,Surabaya,30.4,66,Cerah,2024-03-15
+OBS-0230,Surabaya,29.6,78,Hujan,2024-03-15
+OBS-0231,Surabaya,30.9,72,Berawan,2024-03-15
+OBS-0232,Bandung,21.2,83,Hujan,2024-03-16
+OBS-0233,Medan,27.2,85,Berawan,2024-03-16
+OBS-0234,Makassar,30.0,76,Cerah,2024-03-17
+OBS-0235,Yogyakarta,27.5,82,Hujan,2024-03-17
+OBS-0236,Denpasar,29.2,78,Berawan,2024-03-17
+OBS-0237,Surabaya,30.3,78,Berawan,2024-03-18
+OBS-0238,Bandung,19.9,86,Hujan,2024-03-18
+OBS-0239,Yogyakarta,24.5,89,Hujan Petir,2024-03-18
+OBS-0240,Denpasar,28.7,82,Cerah,2024-03-19
+OBS-0241,Yogyakarta,26.6,80,Cerah,2024-03-19
+OBS-0242,Bandung,22.9,91,Hujan,2024-03-19
+OBS-0243,Denpasar,29.0,78,Berawan,2024-03-19
+OBS-0244,Makassar,28.2,77,Berawan,2024-03-20
+OBS-0245,Denpasar,24.4,87,Hujan Petir,2024-03-20
+OBS-0246,Bandung,20.8,92,Hujan,2024-03-21
+OBS-0247,Bandung,20.6,100,Hujan Petir,2024-03-21
+OBS-0248,Surabaya,29.1,85,Hujan,2024-03-21
+OBS-0249,Surabaya,28.4,81,Berawan,2024-03-21
+OBS-0250,Makassar,26.6,89,Hujan,2024-03-22
+OBS-0251,Surabaya,31.1,75,Cerah,2024-03-22
+OBS-0252,Denpasar,30.1,79,Cerah,2024-03-22
+OBS-0253,Malang,22.3,87,Cerah,2024-03-23
+OBS-0254,Malang,22.4,89,Hujan,2024-03-23
+OBS-0255,Medan,26.9,81,Hujan Petir,2024-03-23
+OBS-0256,Denpasar,28.9,77,Berawan,2024-03-23
+OBS-0257,Jakarta,28.6,76,Cerah,2024-03-23
+OBS-0258,Makassar,29.2,77,Cerah,2024-03-23
+OBS-0259,Bandung,21.6,93,Hujan Petir,2024-03-24
+OBS-0260,Surabaya,31.2,74,Berawan,2024-03-26
+OBS-0261,Malang,21.7,90,Hujan Petir,2024-03-26
+OBS-0262,Medan,29.2,74,Cerah,2024-03-26
+OBS-0263,Denpasar,28.7,73,Hujan,2024-03-27
+OBS-0264,Yogyakarta,24.8,86,Hujan,2024-03-27
+OBS-0265,Makassar,28.0,90,Hujan,2024-03-27
+OBS-0266,Bandung,20.6,88,Hujan,2024-03-28
+OBS-0267,Yogyakarta,27.6,82,Cerah,2024-03-28
+OBS-0268,Jakarta,29.6,77,Cerah,2024-03-28
+OBS-0269,Jakarta,32.6,84,Berawan,2024-03-28
+OBS-0270,Surabaya,30.3,73,Cerah,2024-03-28
+OBS-0271,Malang,22.3,87,Hujan Petir,2024-03-29
+OBS-0272,Bandung,21.4,88,Hujan Petir,2024-03-30
+OBS-0273,Denpasar,26.8,85,Hujan Petir,2024-03-30
+OBS-0274,Jakarta,31.1,76,Berawan,2024-03-30
+OBS-0275,Bandung,20.2,97,Hujan Petir,2024-03-31
+OBS-0276,Yogyakarta,26.1,83,Cerah,2024-03-31
+OBS-0277,Malang,24.3,78,Cerah,2024-04-01
+OBS-0278,Medan,30.9,72,Cerah,2024-04-02
+OBS-0279,Medan,29.6,73,Cerah,2024-04-02
+OBS-0280,Makassar,30.1,91,Hujan Petir,2024-04-03
+OBS-0281,Surabaya,30.0,80,Hujan Petir,2024-04-03
+OBS-0282,Bandung,21.3,89,Hujan,2024-04-03
+OBS-0283,Makassar,31.2,75,Cerah,2024-04-04
+OBS-0284,Surabaya,33.5,62,Cerah,2024-04-04
+OBS-0285,Jakarta,28.9,78,Cerah,2024-04-04
+OBS-0286,Denpasar,28.3,66,Cerah,2024-04-04
+OBS-0287,Denpasar,29.0,79,Berawan,2024-04-04
+OBS-0288,Denpasar,30.2,82,Berawan,2024-04-05
+OBS-0289,Denpasar,28.8,78,Hujan,2024-04-06
+OBS-0290,Malang,22.0,80,Cerah,2024-04-07
+OBS-0291,Surabaya,30.9,81,Hujan,2024-04-07
+OBS-0292,Denpasar,30.9,71,Cerah,2024-04-08
+OBS-0293,Malang,24.0,79,Hujan,2024-04-09
+OBS-0294,Bandung,20.5,85,Hujan Petir,2024-04-09
+OBS-0295,Surabaya,32.5,71,Cerah,2024-04-10
+OBS-0296,Denpasar,27.4,77,Hujan,2024-04-10
+OBS-0297,Denpasar,30.9,68,Cerah,2024-04-10
+OBS-0298,Surabaya,31.9,64,Cerah,2024-04-11
+OBS-0299,Yogyakarta,27.4,83,Hujan Petir,2024-04-12
+OBS-0300,Medan,29.0,78,Cerah,2024-04-12
+OBS-0301,Bandung,23.3,84,Berawan,2024-04-12
+OBS-0302,Medan,27.0,86,Hujan,2024-04-12
+OBS-0303,Bandung,24.3,79,Hujan,2024-04-13
+OBS-0304,Bandung,19.2,86,Hujan,2024-04-14
+OBS-0305,Yogyakarta,26.6,77,Hujan,2024-04-16
+OBS-0306,Yogyakarta,26.7,77,Hujan,2024-04-16
+OBS-0307,Denpasar,31.1,72,Berawan,2024-04-16
+OBS-0308,Jakarta,29.1,81,Berawan,2024-04-16
+OBS-0309,Yogyakarta,28.2,85,Hujan Petir,2024-04-17
+OBS-0310,Malang,22.7,91,Hujan Petir,2024-04-18
+OBS-0311,Medan,27.7,81,Hujan,2024-04-18
+OBS-0312,Denpasar,26.9,89,Hujan,2024-04-18
+OBS-0313,Surabaya,30.9,73,Cerah,2024-04-19
+OBS-0314,Malang,23.1,79,Berawan,2024-04-20
+OBS-0315,Bandung,21.1,89,Hujan,2024-04-20
+OBS-0316,Malang,23.9,83,Hujan,2024-04-20
+OBS-0317,Yogyakarta,25.6,77,Cerah,2024-04-20
+OBS-0318,Bandung,21.0,94,Hujan,2024-04-21
+OBS-0319,Medan,29.2,81,Berawan,2024-04-23
+OBS-0320,Denpasar,30.0,69,Cerah,2024-04-23
+OBS-0321,Malang,24.5,75,Cerah,2024-04-23
+OBS-0322,Denpasar,26.8,89,Hujan,2024-04-23
+OBS-0323,Jakarta,30.4,79,Berawan,2024-04-23
+OBS-0324,Medan,27.9,80,Cerah,2024-04-23
+OBS-0325,Bandung,21.6,88,Hujan Petir,2024-04-23
+OBS-0326,Makassar,31.1,77,Berawan,2024-04-23
+OBS-0327,Denpasar,27.0,90,Hujan,2024-04-24
+OBS-0328,Medan,26.9,85,Hujan,2024-04-24
+OBS-0329,Medan,27.5,81,Hujan Petir,2024-04-24
+OBS-0330,Denpasar,29.8,82,Berawan,2024-04-25
+OBS-0331,Bandung,23.6,86,Hujan,2024-04-25
+OBS-0332,Medan,30.5,73,Berawan,2024-04-25
+OBS-0333,Denpasar,26.3,90,Hujan Petir,2024-04-25
+OBS-0334,Yogyakarta,26.4,76,Cerah,2024-04-26
+OBS-0335,Surabaya,30.2,74,Berawan,2024-04-26
+OBS-0336,Surabaya,32.3,62,Cerah,2024-04-26
+OBS-0337,Yogyakarta,27.0,85,Hujan,2024-04-27
+OBS-0338,Medan,28.2,82,Berawan,2024-04-27
+OBS-0339,Malang,22.5,82,Hujan,2024-04-27
+OBS-0340,Surabaya,30.6,67,Cerah,2024-04-28
+OBS-0341,Denpasar,29.3,75,Berawan,2024-04-28
+OBS-0342,Jakarta,28.3,79,Hujan,2024-04-28
+OBS-0343,Makassar,30.7,67,Cerah,2024-04-28
+OBS-0344,Medan,27.7,84,Berawan,2024-04-28
+OBS-0345,Makassar,27.0,88,Hujan Petir,2024-04-29
+OBS-0346,Jakarta,29.4,79,Hujan Petir,2024-04-30
+OBS-0347,Medan,30.0,77,Cerah,2024-04-30
+OBS-0348,Medan,28.9,87,Hujan,2024-04-30
+OBS-0349,Jakarta,27.2,84,Hujan,2024-05-01
+OBS-0350,Yogyakarta,29.1,70,Cerah,2024-05-01
+OBS-0351,Malang,24.6,82,Berawan,2024-05-01
+OBS-0352,Denpasar,30.8,68,Cerah,2024-05-02
+OBS-0353,Surabaya,30.3,69,Cerah,2024-05-02
+OBS-0354,Bandung,22.6,85,Hujan,2024-05-03
+OBS-0355,Malang,24.7,86,Berawan,2024-05-03
+OBS-0356,Jakarta,30.2,70,Cerah,2024-05-04
+OBS-0357,Jakarta,29.8,83,Berawan,2024-05-04
+OBS-0358,Jakarta,31.5,72,Cerah,2024-05-04
+OBS-0359,Surabaya,30.5,69,Cerah,2024-05-05
+OBS-0360,Medan,28.4,78,Cerah,2024-05-05
+OBS-0361,Surabaya,29.4,73,Berawan,2024-05-05
+OBS-0362,Yogyakarta,27.0,83,Berawan,2024-05-05
+OBS-0363,Jakarta,29.5,75,Hujan,2024-05-05
+OBS-0364,Makassar,31.3,70,Berawan,2024-05-06
+OBS-0365,Bandung,22.1,86,Hujan,2024-05-06
+OBS-0366,Bandung,21.3,84,Hujan,2024-05-06
+OBS-0367,Yogyakarta,27.1,78,Hujan,2024-05-07
+OBS-0368,Denpasar,29.0,76,Hujan,2024-05-07
+OBS-0369,Jakarta,29.0,80,Cerah,2024-05-07
+OBS-0370,Surabaya,30.1,77,Cerah,2024-05-08
+OBS-0371,Malang,22.9,79,Cerah,2024-05-08
+OBS-0372,Bandung,20.5,89,Hujan Petir,2024-05-09
+OBS-0373,Medan,28.5,84,Berawan,2024-05-10
+OBS-0374,Yogyakarta,29.7,88,Berawan,2024-05-11
+OBS-0375,Malang,24.7,75,Berawan,2024-05-11
+OBS-0376,Yogyakarta,26.6,78,Berawan,2024-05-12
+OBS-0377,Jakarta,29.9,71,Cerah,2024-05-12
+OBS-0378,Makassar,33.0,74,Cerah,2024-05-13
+OBS-0379,Denpasar,31.8,68,Cerah,2024-05-13
+OBS-0380,Jakarta,30.1,82,Cerah,2024-05-13
+OBS-0381,Jakarta,30.4,76,Berawan,2024-05-13
+OBS-0382,Denpasar,29.8,78,Hujan,2024-05-14
+OBS-0383,Malang,23.9,85,Hujan,2024-05-14
+OBS-0384,Bandung,24.6,79,Cerah,2024-05-15
+OBS-0385,Jakarta,30.6,71,Cerah,2024-05-16
+OBS-0386,Jakarta,32.2,72,Berawan,2024-05-17
+OBS-0387,Malang,24.7,75,Berawan,2024-05-18
+OBS-0388,Malang,22.4,82,Hujan Petir,2024-05-18
+OBS-0389,Medan,29.4,76,Cerah,2024-05-19
+OBS-0390,Makassar,29.2,71,Cerah,2024-05-19
+OBS-0391,Medan,28.7,77,Cerah,2024-05-19
+OBS-0392,Malang,24.3,75,Berawan,2024-05-19
+OBS-0393,Denpasar,27.3,85,Hujan,2024-05-19
+OBS-0394,Medan,31.6,70,Berawan,2024-05-19
+OBS-0395,Malang,25.2,71,Cerah,2024-05-19
+OBS-0396,Surabaya,32.2,75,Cerah,2024-05-19
+OBS-0397,Makassar,29.5,72,Hujan,2024-05-19
+OBS-0398,Makassar,30.2,74,Cerah,2024-05-20
+OBS-0399,Medan,32.0,84,Hujan,2024-05-20
+OBS-0400,Yogyakarta,27.5,80,Berawan,2024-05-20
+OBS-0401,Surabaya,30.2,79,Cerah,2024-05-20
+OBS-0402,Yogyakarta,27.6,85,Hujan Petir,2024-05-20
+OBS-0403,Jakarta,28.3,82,Hujan,2024-05-21
+OBS-0404,Jakarta,31.6,76,Cerah,2024-05-22
+OBS-0405,Medan,28.4,76,Berawan,2024-05-22
+OBS-0406,Denpasar,31.3,76,Berawan,2024-05-22
+OBS-0407,Malang,26.5,82,Cerah,2024-05-23
+OBS-0408,Malang,24.0,78,Berawan,2024-05-23
+OBS-0409,Bandung,23.5,89,Hujan,2024-05-23
+OBS-0410,Makassar,31.0,77,Berawan,2024-05-24
+OBS-0411,Surabaya,31.2,76,Berawan,2024-05-24
+OBS-0412,Malang,26.9,66,Cerah,2024-05-25
+OBS-0413,Bandung,23.9,75,Berawan,2024-05-26
+OBS-0414,Bandung,22.1,85,Hujan Petir,2024-05-26
+OBS-0415,Bandung,23.2,70,Cerah,2024-05-26
+OBS-0416,Makassar,28.2,84,Hujan Petir,2024-05-26
+OBS-0417,Yogyakarta,29.7,76,Cerah,2024-05-26
+OBS-0418,Malang,24.8,78,Hujan,2024-05-28
+OBS-0419,Medan,29.3,82,Cerah,2024-05-28
+OBS-0420,Makassar,29.3,68,Cerah,2024-05-28
+OBS-0421,Denpasar,28.5,91,Hujan Petir,2024-05-29
+OBS-0422,Denpasar,26.5,87,Hujan Petir,2024-05-29
+OBS-0423,Denpasar,29.7,74,Berawan,2024-05-30
+OBS-0424,Malang,24.6,80,Hujan Petir,2024-05-31
+OBS-0425,Bandung,23.4,80,Berawan,2024-06-01
+OBS-0426,Yogyakarta,29.0,80,Berawan,2024-06-01
+OBS-0427,Denpasar,31.8,68,Cerah,2024-06-01
+OBS-0428,Bandung,22.2,92,Hujan,2024-06-01
+OBS-0429,Medan,29.5,74,Berawan,2024-06-02
+OBS-0430,Yogyakarta,27.9,76,Cerah,2024-06-02
+OBS-0431,Surabaya,30.3,73,Berawan,2024-06-02
+OBS-0432,Denpasar,30.5,74,Cerah,2024-06-02
+OBS-0433,Bandung,24.3,80,Cerah,2024-06-03
+OBS-0434,Malang,23.4,87,Hujan Petir,2024-06-03
+OBS-0435,Makassar,28.7,81,Hujan,2024-06-03
+OBS-0436,Malang,24.7,78,Cerah,2024-06-03
+OBS-0437,Surabaya,31.9,65,Cerah,2024-06-04
+OBS-0438,Malang,25.2,76,Cerah,2024-06-04
+OBS-0439,Jakarta,31.3,76,Berawan,2024-06-04
+OBS-0440,Yogyakarta,25.9,88,Hujan,2024-06-05
+OBS-0441,Denpasar,29.2,87,Berawan,2024-06-05
+OBS-0442,Jakarta,29.6,78,Berawan,2024-06-05
+OBS-0443,Denpasar,30.0,73,Cerah,2024-06-06
+OBS-0444,Denpasar,29.1,73,Cerah,2024-06-07
+OBS-0445,Jakarta,30.1,71,Cerah,2024-06-08
+OBS-0446,Denpasar,31.6,71,Cerah,2024-06-08
+OBS-0447,Bandung,24.6,74,Cerah,2024-06-08
+OBS-0448,Malang,24.0,86,Hujan,2024-06-09
+OBS-0449,Medan,28.0,73,Hujan Petir,2024-06-09
+OBS-0450,Makassar,32.2,69,Cerah,2024-06-09
+OBS-0451,Bandung,25.7,76,Cerah,2024-06-09
+OBS-0452,Denpasar,26.4,78,Hujan,2024-06-10
+OBS-0453,Medan,30.1,78,Cerah,2024-06-11
+OBS-0454,Malang,24.5,71,Berawan,2024-06-11
+OBS-0455,Medan,29.7,77,Cerah,2024-06-12
+OBS-0456,Bandung,21.3,87,Hujan,2024-06-12
+OBS-0457,Surabaya,31.7,68,Cerah,2024-06-13
+OBS-0458,Makassar,30.3,68,Cerah,2024-06-13
+OBS-0459,Malang,23.0,80,Hujan,2024-06-14
+OBS-0460,Yogyakarta,28.7,72,Cerah,2024-06-14
+OBS-0461,Bandung,19.6,81,Hujan Petir,2024-06-14
+OBS-0462,Yogyakarta,26.2,75,Cerah,2024-06-14
+OBS-0463,Yogyakarta,26.9,82,Hujan,2024-06-14
+OBS-0464,Medan,28.8,85,Berawan,2024-06-14
+OBS-0465,Yogyakarta,29.3,79,Berawan,2024-06-14
+OBS-0466,Jakarta,29.0,73,Berawan,2024-06-15
+OBS-0467,Yogyakarta,28.3,85,Hujan,2024-06-15
+OBS-0468,Makassar,30.1,68,Cerah,2024-06-16
+OBS-0469,Yogyakarta,29.6,69,Cerah,2024-06-16
+OBS-0470,Surabaya,31.6,62,Cerah,2024-06-16
+OBS-0471,Makassar,29.4,72,Cerah,2024-06-16
+OBS-0472,Denpasar,27.6,89,Hujan,2024-06-16
+OBS-0473,Denpasar,28.8,74,Berawan,2024-06-17
+OBS-0474,Medan,30.8,78,Cerah,2024-06-17
+OBS-0475,Bandung,22.7,87,Hujan,2024-06-17
+OBS-0476,Makassar,30.1,72,Berawan,2024-06-18
+OBS-0477,Medan,29.1,71,Cerah,2024-06-18
+OBS-0478,Makassar,31.0,71,Cerah,2024-06-18
+OBS-0479,Surabaya,28.9,78,Cerah,2024-06-18
+OBS-0480,Surabaya,33.8,60,Cerah,2024-06-19
+OBS-0481,Malang,25.2,74,Cerah,2024-06-19
+OBS-0482,Yogyakarta,27.2,80,Hujan Petir,2024-06-19
+OBS-0483,Makassar,32.2,64,Cerah,2024-06-20
+OBS-0484,Surabaya,32.0,62,Cerah,2024-06-20
+OBS-0485,Surabaya,31.8,70,Cerah,2024-06-20
+OBS-0486,Jakarta,31.2,79,Hujan,2024-06-21
+OBS-0487,Yogyakarta,27.4,79,Hujan,2024-06-21
+OBS-0488,Medan,28.3,77,Berawan,2024-06-21
+OBS-0489,Surabaya,29.2,74,Hujan,2024-06-22
+OBS-0490,Malang,23.8,82,Berawan,2024-06-22
+OBS-0491,Medan,27.0,86,Hujan Petir,2024-06-22
+OBS-0492,Malang,23.3,84,Hujan Petir,2024-06-23
+OBS-0493,Surabaya,30.2,75,Cerah,2024-06-23
+OBS-0494,Medan,30.2,68,Berawan,2024-06-23
+OBS-0495,Denpasar,31.2,73,Cerah,2024-06-23
+OBS-0496,Jakarta,30.3,74,Berawan,2024-06-24
+OBS-0497,Surabaya,30.0,72,Cerah,2024-06-24
+OBS-0498,Surabaya,30.2,77,Berawan,2024-06-24
+OBS-0499,Yogyakarta,30.3,84,Cerah,2024-06-25
+OBS-0500,Bandung,24.1,82,Cerah,2024-06-25
+OBS-0501,Bandung,22.3,93,Hujan,2024-06-28
+OBS-0502,Bandung,22.6,82,Hujan,2024-06-28
+OBS-0503,Jakarta,32.8,76,Berawan,2024-06-28
+OBS-0504,Jakarta,31.7,73,Cerah,2024-06-29
+OBS-0505,Jakarta,30.0,80,Hujan,2024-06-29
+OBS-0506,Malang,23.1,76,Hujan Petir,2024-06-29
+OBS-0507,Bandung,23.2,83,Hujan,2024-06-30
+OBS-0508,Bandung,24.7,66,Cerah,2024-06-30
+OBS-0509,Bandung,21.5,87,Hujan,2024-06-30
+OBS-0510,Medan,32.1,66,Cerah,2024-07-01
+OBS-0511,Medan,30.3,79,Berawan,2024-07-01
+OBS-0512,Bandung,26.2,75,Berawan,2024-07-01
+OBS-0513,Surabaya,30.9,63,Cerah,2024-07-02
+OBS-0514,Makassar,31.8,73,Cerah,2024-07-02
+OBS-0515,Denpasar,28.7,69,Hujan,2024-07-03
+OBS-0516,Yogyakarta,28.0,81,Hujan,2024-07-03
+OBS-0517,Surabaya,30.8,71,Cerah,2024-07-03
+OBS-0518,Malang,24.1,87,Hujan Petir,2024-07-04
+OBS-0519,Denpasar,29.9,71,Cerah,2024-07-04
+OBS-0520,Makassar,33.8,71,Cerah,2024-07-04
+OBS-0521,Denpasar,31.5,72,Berawan,2024-07-04
+OBS-0522,Medan,30.2,80,Berawan,2024-07-04
+OBS-0523,Makassar,31.7,73,Berawan,2024-07-04
+OBS-0524,Jakarta,33.7,71,Berawan,2024-07-05
+OBS-0525,Bandung,21.4,85,Hujan,2024-07-05
+OBS-0526,Medan,28.8,78,Cerah,2024-07-06
+OBS-0527,Surabaya,31.4,61,Cerah,2024-07-06
+OBS-0528,Makassar,31.7,72,Berawan,2024-07-07
+OBS-0529,Malang,22.4,80,Hujan,2024-07-07
+OBS-0530,Bandung,21.2,75,Hujan,2024-07-08
+OBS-0531,Medan,31.8,75,Berawan,2024-07-08
+OBS-0532,Malang,20.7,81,Hujan,2024-07-08
+OBS-0533,Surabaya,33.4,66,Cerah,2024-07-08
+OBS-0534,Jakarta,32.7,73,Cerah,2024-07-09
+OBS-0535,Makassar,28.6,75,Hujan,2024-07-09
+OBS-0536,Yogyakarta,27.1,77,Cerah,2024-07-09
+OBS-0537,Surabaya,31.7,68,Cerah,2024-07-10
+OBS-0538,Surabaya,31.1,81,Cerah,2024-07-10
+OBS-0539,Medan,31.9,75,Cerah,2024-07-12
+OBS-0540,Surabaya,30.1,73,Hujan,2024-07-12
+OBS-0541,Jakarta,28.7,78,Hujan,2024-07-12
+OBS-0542,Surabaya,31.8,82,Hujan,2024-07-12
+OBS-0543,Makassar,30.6,72,Berawan,2024-07-13
+OBS-0544,Bandung,24.1,79,Berawan,2024-07-13
+OBS-0545,Makassar,30.8,81,Cerah,2024-07-13
+OBS-0546,Bandung,25.9,72,Cerah,2024-07-13
+OBS-0547,Bandung,22.7,87,Hujan,2024-07-14
+OBS-0548,Surabaya,31.5,64,Berawan,2024-07-15
+OBS-0549,Malang,24.8,87,Hujan,2024-07-15
+OBS-0550,Bandung,22.5,78,Hujan,2024-07-16
+OBS-0551,Denpasar,30.1,73,Cerah,2024-07-16
+OBS-0552,Jakarta,30.9,78,Berawan,2024-07-16
+OBS-0553,Malang,25.5,74,Cerah,2024-07-17
+OBS-0554,Bandung,25.3,79,Cerah,2024-07-17
+OBS-0555,Yogyakarta,30.9,71,Cerah,2024-07-17
+OBS-0556,Surabaya,29.9,75,Berawan,2024-07-18
+OBS-0557,Makassar,26.7,83,Hujan,2024-07-18
+OBS-0558,Denpasar,29.3,84,Hujan,2024-07-18
+OBS-0559,Medan,30.1,80,Berawan,2024-07-19
+OBS-0560,Yogyakarta,30.2,78,Hujan,2024-07-19
+OBS-0561,Jakarta,29.8,69,Cerah,2024-07-19
+OBS-0562,Denpasar,27.5,77,Berawan,2024-07-20
+OBS-0563,Jakarta,28.8,72,Hujan,2024-07-20
+OBS-0564,Makassar,31.7,65,Cerah,2024-07-20
+OBS-0565,Jakarta,29.8,69,Cerah,2024-07-21
+OBS-0566,Medan,31.6,74,Cerah,2024-07-22
+OBS-0567,Surabaya,32.4,61,Cerah,2024-07-22
+OBS-0568,Bandung,23.3,91,Hujan Petir,2024-07-22
+OBS-0569,Denpasar,28.7,88,Hujan,2024-07-22
+OBS-0570,Jakarta,35.1,63,Cerah,2024-07-22
+OBS-0571,Bandung,22.9,84,Berawan,2024-07-23
+OBS-0572,Yogyakarta,27.2,71,Berawan,2024-07-23
+OBS-0573,Yogyakarta,28.2,87,Berawan,2024-07-23
+OBS-0574,Denpasar,31.0,82,Berawan,2024-07-23
+OBS-0575,Surabaya,30.8,79,Berawan,2024-07-24
+OBS-0576,Yogyakarta,27.6,76,Hujan,2024-07-25
+OBS-0577,Surabaya,30.5,71,Cerah,2024-07-26
+OBS-0578,Malang,24.4,85,Cerah,2024-07-26
+OBS-0579,Surabaya,31.8,66,Berawan,2024-07-26
+OBS-0580,Surabaya,31.0,73,Cerah,2024-07-27
+OBS-0581,Denpasar,30.2,83,Cerah,2024-07-27
+OBS-0582,Yogyakarta,29.3,85,Berawan,2024-07-27
+OBS-0583,Surabaya,34.5,63,Cerah,2024-07-28
+OBS-0584,Jakarta,31.8,77,Cerah,2024-07-29
+OBS-0585,Denpasar,31.9,69,Cerah,2024-07-30
+OBS-0586,Malang,25.2,77,Cerah,2024-07-30
+OBS-0587,Medan,31.4,74,Berawan,2024-07-31
+OBS-0588,Yogyakarta,27.5,75,Cerah,2024-08-01
+OBS-0589,Yogyakarta,27.6,87,Hujan Petir,2024-08-01
+OBS-0590,Jakarta,29.6,71,Hujan,2024-08-01
+OBS-0591,Denpasar,30.0,73,Cerah,2024-08-01
+OBS-0592,Makassar,31.7,64,Cerah,2024-08-02
+OBS-0593,Surabaya,30.3,69,Hujan,2024-08-02
+OBS-0594,Malang,21.5,90,Hujan,2024-08-02
+OBS-0595,Bandung,25.0,83,Berawan,2024-08-03
+OBS-0596,Medan,29.6,80,Berawan,2024-08-03
+OBS-0597,Bandung,24.2,74,Cerah,2024-08-03
+OBS-0598,Malang,24.8,71,Cerah,2024-08-04
+OBS-0599,Surabaya,31.6,71,Cerah,2024-08-04
+OBS-0600,Bandung,25.7,77,Berawan,2024-08-05
+OBS-0601,Malang,24.6,81,Hujan,2024-08-05
+OBS-0602,Makassar,30.6,73,Cerah,2024-08-05
+OBS-0603,Makassar,30.4,74,Cerah,2024-08-05
+OBS-0604,Malang,24.8,79,Hujan,2024-08-05
+OBS-0605,Surabaya,31.8,70,Cerah,2024-08-06
+OBS-0606,Malang,21.7,83,Hujan Petir,2024-08-06
+OBS-0607,Medan,30.1,76,Berawan,2024-08-07
+OBS-0608,Makassar,30.6,71,Cerah,2024-08-08
+OBS-0609,Bandung,21.1,80,Hujan Petir,2024-08-10
+OBS-0610,Jakarta,29.8,69,Cerah,2024-08-10
+OBS-0611,Surabaya,32.0,77,Cerah,2024-08-10
+OBS-0612,Medan,29.3,84,Hujan,2024-08-11
+OBS-0613,Makassar,31.3,74,Berawan,2024-08-12
+OBS-0614,Bandung,25.3,71,Cerah,2024-08-12
+OBS-0615,Yogyakarta,28.5,79,Berawan,2024-08-12
+OBS-0616,Bandung,23.2,78,Cerah,2024-08-13
+OBS-0617,Makassar,30.2,71,Cerah,2024-08-14
+OBS-0618,Jakarta,33.1,71,Cerah,2024-08-14
+OBS-0619,Denpasar,31.2,74,Cerah,2024-08-16
+OBS-0620,Yogyakarta,27.2,78,Hujan,2024-08-17
+OBS-0621,Malang,23.4,87,Cerah,2024-08-17
+OBS-0622,Jakarta,29.4,82,Hujan,2024-08-17
+OBS-0623,Malang,26.3,78,Berawan,2024-08-17
+OBS-0624,Jakarta,31.6,74,Cerah,2024-08-18
+OBS-0625,Jakarta,29.1,80,Cerah,2024-08-19
+OBS-0626,Denpasar,28.4,82,Hujan,2024-08-20
+OBS-0627,Bandung,22.3,81,Hujan,2024-08-20
+OBS-0628,Bandung,25.0,72,Berawan,2024-08-20
+OBS-0629,Bandung,26.9,73,Cerah,2024-08-20
+OBS-0630,Makassar,30.8,75,Cerah,2024-08-21
+OBS-0631,Surabaya,31.8,64,Cerah,2024-08-21
+OBS-0632,Bandung,24.9,74,Cerah,2024-08-21
+OBS-0633,Medan,31.3,79,Berawan,2024-08-22
+OBS-0634,Surabaya,30.6,75,Cerah,2024-08-22
+OBS-0635,Yogyakarta,29.5,80,Hujan,2024-08-24
+OBS-0636,Surabaya,30.8,70,Cerah,2024-08-24
+OBS-0637,Medan,28.3,83,Hujan,2024-08-24
+OBS-0638,Bandung,24.0,88,Hujan Petir,2024-08-24
+OBS-0639,Malang,24.0,79,Hujan Petir,2024-08-25
+OBS-0640,Malang,23.9,69,Cerah,2024-08-26
+OBS-0641,Surabaya,31.3,70,Cerah,2024-08-28
+OBS-0642,Makassar,29.4,82,Hujan,2024-08-29
+OBS-0643,Denpasar,30.1,73,Hujan,2024-08-29
+OBS-0644,Malang,25.2,78,Cerah,2024-08-29
+OBS-0645,Denpasar,29.7,76,Berawan,2024-08-30
+OBS-0646,Makassar,30.1,74,Cerah,2024-08-30
+OBS-0647,Surabaya,30.6,69,Cerah,2024-08-30
+OBS-0648,Medan,30.7,73,Cerah,2024-08-30
+OBS-0649,Bandung,22.1,84,Hujan,2024-08-30
+OBS-0650,Yogyakarta,30.5,67,Cerah,2024-08-30
+OBS-0651,Bandung,26.4,76,Berawan,2024-08-31
+OBS-0652,Jakarta,29.5,85,Hujan Petir,2024-08-31
+OBS-0653,Medan,30.4,77,Berawan,2024-08-31
+OBS-0654,Medan,28.0,85,Berawan,2024-08-31
+OBS-0655,Surabaya,32.8,66,Cerah,2024-09-02
+OBS-0656,Jakarta,27.1,72,Hujan Petir,2024-09-02
+OBS-0657,Yogyakarta,29.5,78,Berawan,2024-09-02
+OBS-0658,Makassar,28.4,81,Hujan Petir,2024-09-03
+OBS-0659,Yogyakarta,28.4,71,Cerah,2024-09-04
+OBS-0660,Yogyakarta,28.2,79,Cerah,2024-09-04
+OBS-0661,Malang,25.8,68,Cerah,2024-09-05
+OBS-0662,Malang,24.2,79,Hujan,2024-09-05
+OBS-0663,Makassar,29.8,76,Hujan,2024-09-05
+OBS-0664,Yogyakarta,27.9,76,Hujan Petir,2024-09-06
+OBS-0665,Surabaya,31.4,69,Cerah,2024-09-06
+OBS-0666,Denpasar,30.7,80,Cerah,2024-09-07
+OBS-0667,Surabaya,31.2,67,Cerah,2024-09-08
+OBS-0668,Denpasar,29.4,72,Berawan,2024-09-08
+OBS-0669,Bandung,24.9,90,Berawan,2024-09-08
+OBS-0670,Malang,22.7,86,Hujan,2024-09-08
+OBS-0671,Surabaya,30.8,71,Berawan,2024-09-08
+OBS-0672,Jakarta,33.6,73,Cerah,2024-09-10
+OBS-0673,Jakarta,32.7,69,Cerah,2024-09-10
+OBS-0674,Medan,27.8,83,Hujan,2024-09-11
+OBS-0675,Yogyakarta,28.8,61,Cerah,2024-09-11
+OBS-0676,Medan,28.7,78,Cerah,2024-09-11
+OBS-0677,Medan,29.7,89,Hujan,2024-09-12
+OBS-0678,Malang,23.5,73,Cerah,2024-09-12
+OBS-0679,Jakarta,29.7,83,Cerah,2024-09-13
+OBS-0680,Bandung,23.8,82,Hujan Petir,2024-09-13
+OBS-0681,Medan,29.5,72,Berawan,2024-09-14
+OBS-0682,Medan,28.4,86,Berawan,2024-09-14
+OBS-0683,Malang,21.9,82,Hujan,2024-09-14
+OBS-0684,Makassar,29.2,85,Berawan,2024-09-15
+OBS-0685,Makassar,28.2,82,Hujan,2024-09-15
+OBS-0686,Jakarta,32.5,74,Cerah,2024-09-16
+OBS-0687,Makassar,32.3,72,Berawan,2024-09-16
+OBS-0688,Bandung,24.1,76,Cerah,2024-09-16
+OBS-0689,Yogyakarta,28.9,72,Cerah,2024-09-16
+OBS-0690,Jakarta,32.0,79,Hujan,2024-09-16
+OBS-0691,Malang,23.0,89,Hujan Petir,2024-09-17
+OBS-0692,Jakarta,33.6,62,Cerah,2024-09-17
+OBS-0693,Yogyakarta,26.8,89,Berawan,2024-09-18
+OBS-0694,Jakarta,32.9,57,Cerah,2024-09-18
+OBS-0695,Malang,24.8,85,Berawan,2024-09-18
+OBS-0696,Denpasar,28.4,81,Cerah,2024-09-18
+OBS-0697,Makassar,30.6,64,Berawan,2024-09-18
+OBS-0698,Medan,30.6,76,Berawan,2024-09-19
+OBS-0699,Jakarta,29.8,78,Hujan,2024-09-19
+OBS-0700,Jakarta,29.2,87,Berawan,2024-09-19
+OBS-0701,Jakarta,31.1,70,Cerah,2024-09-19
+OBS-0702,Yogyakarta,26.2,82,Hujan,2024-09-20
+OBS-0703,Malang,23.9,74,Cerah,2024-09-20
+OBS-0704,Yogyakarta,28.1,77,Cerah,2024-09-20
+OBS-0705,Medan,29.8,77,Cerah,2024-09-20
+OBS-0706,Bandung,22.4,81,Hujan,2024-09-20
+OBS-0707,Surabaya,31.5,69,Cerah,2024-09-20
+OBS-0708,Makassar,30.7,73,Cerah,2024-09-21
+OBS-0709,Yogyakarta,28.4,79,Berawan,2024-09-21
+OBS-0710,Surabaya,31.9,67,Cerah,2024-09-21
+OBS-0711,Malang,25.1,75,Berawan,2024-09-21
+OBS-0712,Jakarta,29.0,90,Hujan Petir,2024-09-21
+OBS-0713,Makassar,32.5,67,Cerah,2024-09-22
+OBS-0714,Denpasar,28.9,73,Hujan,2024-09-22
+OBS-0715,Jakarta,28.9,76,Berawan,2024-09-22
+OBS-0716,Malang,23.8,73,Berawan,2024-09-23
+OBS-0717,Yogyakarta,30.8,76,Berawan,2024-09-24
+OBS-0718,Medan,30.3,84,Hujan,2024-09-24
+OBS-0719,Jakarta,27.9,83,Hujan Petir,2024-09-24
+OBS-0720,Yogyakarta,30.3,71,Berawan,2024-09-25
+OBS-0721,Jakarta,32.0,71,Cerah,2024-09-25
+OBS-0722,Jakarta,28.8,79,Hujan,2024-09-25
+OBS-0723,Malang,26.4,78,Berawan,2024-09-25
+OBS-0724,Medan,27.8,77,Berawan,2024-09-25
+OBS-0725,Medan,27.6,85,Hujan Petir,2024-09-26
+OBS-0726,Bandung,24.4,75,Berawan,2024-09-26
+OBS-0727,Makassar,32.7,71,Cerah,2024-09-26
+OBS-0728,Bandung,25.4,74,Berawan,2024-09-26
+OBS-0729,Bandung,23.0,87,Hujan,2024-09-26
+OBS-0730,Surabaya,32.7,64,Cerah,2024-09-26
+OBS-0731,Jakarta,30.9,70,Cerah,2024-09-27
+OBS-0732,Bandung,22.6,80,Hujan,2024-09-27
+OBS-0733,Bandung,25.8,70,Cerah,2024-09-27
+OBS-0734,Makassar,29.7,76,Berawan,2024-09-28
+OBS-0735,Malang,24.2,83,Hujan,2024-09-28
+OBS-0736,Denpasar,29.5,78,Berawan,2024-09-28
+OBS-0737,Medan,30.2,80,Berawan,2024-09-28
+OBS-0738,Malang,24.0,78,Hujan,2024-09-28
+OBS-0739,Malang,22.0,91,Hujan,2024-09-29
+OBS-0740,Medan,31.6,65,Berawan,2024-09-29
+OBS-0741,Malang,23.7,80,Hujan,2024-09-29
+OBS-0742,Makassar,28.7,81,Hujan,2024-09-30
+OBS-0743,Surabaya,31.3,68,Berawan,2024-09-30
+OBS-0744,Denpasar,30.4,78,Cerah,2024-09-30
+OBS-0745,Medan,28.1,77,Cerah,2024-10-01
+OBS-0746,Jakarta,27.2,87,Hujan Petir,2024-10-01
+OBS-0747,Denpasar,27.1,85,Hujan Petir,2024-10-02
+OBS-0748,Yogyakarta,27.3,83,Hujan,2024-10-02
+OBS-0749,Malang,22.0,89,Berawan,2024-10-02
+OBS-0750,Surabaya,29.8,81,Berawan,2024-10-03
+OBS-0751,Jakarta,29.2,84,Hujan Petir,2024-10-03
+OBS-0752,Jakarta,28.8,66,Cerah,2024-10-03
+OBS-0753,Bandung,21.0,88,Hujan,2024-10-03
+OBS-0754,Medan,29.4,84,Berawan,2024-10-04
+OBS-0755,Jakarta,28.1,87,Hujan,2024-10-05
+OBS-0756,Medan,28.9,86,Berawan,2024-10-05
+OBS-0757,Jakarta,30.7,78,Cerah,2024-10-05
+OBS-0758,Malang,24.5,79,Berawan,2024-10-05
+OBS-0759,Malang,24.6,84,Berawan,2024-10-05
+OBS-0760,Makassar,28.5,79,Hujan Petir,2024-10-05
+OBS-0761,Jakarta,28.0,80,Berawan,2024-10-05
+OBS-0762,Surabaya,30.1,73,Cerah,2024-10-06
+OBS-0763,Denpasar,30.9,68,Berawan,2024-10-06
+OBS-0764,Makassar,29.9,84,Hujan,2024-10-07
+OBS-0765,Denpasar,28.5,71,Cerah,2024-10-07
+OBS-0766,Makassar,30.7,77,Berawan,2024-10-07
+OBS-0767,Denpasar,32.0,58,Cerah,2024-10-07
+OBS-0768,Bandung,21.0,83,Hujan,2024-10-07
+OBS-0769,Denpasar,29.4,77,Cerah,2024-10-08
+OBS-0770,Medan,29.8,74,Cerah,2024-10-08
+OBS-0771,Bandung,23.0,80,Cerah,2024-10-09
+OBS-0772,Malang,17.9,91,Hujan Petir,2024-10-10
+OBS-0773,Jakarta,29.8,82,Berawan,2024-10-10
+OBS-0774,Yogyakarta,28.0,87,Hujan,2024-10-10
+OBS-0775,Jakarta,30.8,74,Cerah,2024-10-10
+OBS-0776,Bandung,20.3,93,Hujan,2024-10-10
+OBS-0777,Bandung,23.0,84,Berawan,2024-10-10
+OBS-0778,Makassar,29.1,85,Hujan Petir,2024-10-11
+OBS-0779,Makassar,29.7,82,Berawan,2024-10-11
+OBS-0780,Malang,22.8,87,Hujan Petir,2024-10-12
+OBS-0781,Denpasar,30.2,67,Cerah,2024-10-12
+OBS-0782,Denpasar,27.4,75,Cerah,2024-10-12
+OBS-0783,Malang,22.1,80,Berawan,2024-10-12
+OBS-0784,Malang,23.7,77,Hujan,2024-10-12
+OBS-0785,Jakarta,30.4,78,Cerah,2024-10-12
+OBS-0786,Surabaya,30.1,80,Berawan,2024-10-12
+OBS-0787,Jakarta,31.4,68,Cerah,2024-10-13
+OBS-0788,Surabaya,31.0,73,Cerah,2024-10-13
+OBS-0789,Denpasar,29.5,88,Berawan,2024-10-13
+OBS-0790,Bandung,21.9,86,Hujan,2024-10-14
+OBS-0791,Surabaya,31.8,71,Cerah,2024-10-14
+OBS-0792,Bandung,25.7,80,Hujan,2024-10-14
+OBS-0793,Denpasar,27.5,80,Hujan,2024-10-15
+OBS-0794,Bandung,20.3,86,Hujan Petir,2024-10-15
+OBS-0795,Denpasar,29.0,74,Cerah,2024-10-15
+OBS-0796,Jakarta,30.3,77,Berawan,2024-10-15
+OBS-0797,Bandung,21.4,95,Hujan,2024-10-16
+OBS-0798,Surabaya,31.4,70,Cerah,2024-10-16
+OBS-0799,Malang,24.4,85,Berawan,2024-10-18
+OBS-0800,Medan,28.4,95,Hujan Petir,2024-10-18
+OBS-0801,Malang,24.6,74,Cerah,2024-10-18
+OBS-0802,Surabaya,30.5,75,Cerah,2024-10-19
+OBS-0803,Denpasar,30.4,68,Cerah,2024-10-19
+OBS-0804,Jakarta,30.8,73,Berawan,2024-10-19
+OBS-0805,Surabaya,29.3,77,Berawan,2024-10-20
+OBS-0806,Jakarta,27.7,84,Hujan Petir,2024-10-20
+OBS-0807,Surabaya,30.5,85,Hujan,2024-10-21
+OBS-0808,Yogyakarta,28.1,75,Cerah,2024-10-22
+OBS-0809,Medan,29.9,75,Cerah,2024-10-23
+OBS-0810,Jakarta,30.2,77,Cerah,2024-10-23
+OBS-0811,Medan,26.2,81,Hujan,2024-10-23
+OBS-0812,Denpasar,29.2,78,Berawan,2024-10-23
+OBS-0813,Yogyakarta,26.9,83,Cerah,2024-10-23
+OBS-0814,Denpasar,30.0,72,Berawan,2024-10-23
+OBS-0815,Bandung,22.5,90,Berawan,2024-10-23
+OBS-0816,Medan,25.8,86,Hujan,2024-10-24
+OBS-0817,Bandung,21.5,87,Hujan Petir,2024-10-25
+OBS-0818,Makassar,32.6,71,Cerah,2024-10-25
+OBS-0819,Jakarta,28.8,72,Cerah,2024-10-26
+OBS-0820,Bandung,22.3,84,Hujan,2024-10-26
+OBS-0821,Surabaya,32.4,73,Hujan,2024-10-27
+OBS-0822,Bandung,20.9,84,Cerah,2024-10-27
+OBS-0823,Denpasar,27.2,78,Cerah,2024-10-27
+OBS-0824,Jakarta,30.0,77,Cerah,2024-10-28
+OBS-0825,Medan,30.9,71,Cerah,2024-10-28
+OBS-0826,Yogyakarta,25.6,87,Hujan,2024-10-29
+OBS-0827,Malang,23.4,89,Hujan,2024-10-30
+OBS-0828,Bandung,19.3,92,Hujan Petir,2024-10-31
+OBS-0829,Makassar,28.8,83,Hujan,2024-10-31
+OBS-0830,Medan,30.7,74,Cerah,2024-10-31
+OBS-0831,Makassar,28.5,80,Cerah,2024-10-31
+OBS-0832,Jakarta,30.0,73,Cerah,2024-10-31
+OBS-0833,Malang,23.8,80,Berawan,2024-10-31
+OBS-0834,Bandung,23.1,83,Hujan,2024-10-31
+OBS-0835,Malang,23.7,91,Hujan,2024-10-31
+OBS-0836,Denpasar,28.1,90,Cerah,2024-11-01
+OBS-0837,Surabaya,28.0,81,Berawan,2024-11-01
+OBS-0838,Surabaya,29.2,78,Berawan,2024-11-01
+OBS-0839,Makassar,29.5,68,Cerah,2024-11-01
+OBS-0840,Denpasar,27.2,84,Hujan Petir,2024-11-01
+OBS-0841,Surabaya,29.4,77,Hujan,2024-11-02
+OBS-0842,Makassar,26.9,90,Hujan Petir,2024-11-02
+OBS-0843,Denpasar,28.6,82,Hujan,2024-11-02
+OBS-0844,Surabaya,31.3,63,Cerah,2024-11-02
+OBS-0845,Surabaya,29.4,89,Hujan,2024-11-02
+OBS-0846,Malang,22.6,77,Cerah,2024-11-02
+OBS-0847,Yogyakarta,27.1,81,Cerah,2024-11-03
+OBS-0848,Jakarta,26.6,85,Cerah,2024-11-03
+OBS-0849,Yogyakarta,26.2,87,Hujan,2024-11-04
+OBS-0850,Denpasar,27.0,84,Hujan,2024-11-04
+OBS-0851,Denpasar,28.9,82,Berawan,2024-11-04
+OBS-0852,Malang,21.5,84,Hujan,2024-11-04
+OBS-0853,Jakarta,28.4,92,Hujan,2024-11-05
+OBS-0854,Denpasar,26.2,88,Hujan,2024-11-06
+OBS-0855,Surabaya,30.4,75,Cerah,2024-11-07
+OBS-0856,Surabaya,29.8,75,Berawan,2024-11-08
+OBS-0857,Bandung,19.1,90,Hujan,2024-11-08
+OBS-0858,Yogyakarta,26.0,84,Hujan,2024-11-09
+OBS-0859,Medan,27.6,85,Berawan,2024-11-09
+OBS-0860,Medan,27.3,92,Hujan Petir,2024-11-09
+OBS-0861,Denpasar,28.2,91,Hujan Petir,2024-11-09
+OBS-0862,Denpasar,27.2,87,Hujan,2024-11-10
+OBS-0863,Surabaya,30.6,69,Cerah,2024-11-10
+OBS-0864,Surabaya,28.9,82,Berawan,2024-11-10
+OBS-0865,Surabaya,31.1,77,Berawan,2024-11-10
+OBS-0866,Denpasar,27.4,80,Hujan,2024-11-11
+OBS-0867,Bandung,21.5,87,Hujan Petir,2024-11-12
+OBS-0868,Denpasar,28.9,79,Berawan,2024-11-12
+OBS-0869,Malang,21.7,86,Hujan Petir,2024-11-13
+OBS-0870,Denpasar,26.7,78,Hujan,2024-11-13
+OBS-0871,Jakarta,29.0,88,Hujan Petir,2024-11-13
+OBS-0872,Medan,26.9,91,Berawan,2024-11-14
+OBS-0873,Denpasar,27.9,83,Hujan,2024-11-14
+OBS-0874,Makassar,29.0,84,Berawan,2024-11-14
+OBS-0875,Bandung,18.8,85,Hujan,2024-11-15
+OBS-0876,Jakarta,26.9,83,Hujan,2024-11-15
+OBS-0877,Denpasar,29.7,76,Cerah,2024-11-15
+OBS-0878,Jakarta,28.4,80,Hujan,2024-11-15
+OBS-0879,Surabaya,33.0,77,Berawan,2024-11-15
+OBS-0880,Malang,21.8,91,Hujan Petir,2024-11-16
+OBS-0881,Medan,26.3,81,Hujan,2024-11-16
+OBS-0882,Yogyakarta,26.2,96,Hujan,2024-11-16
+OBS-0883,Malang,24.0,84,Cerah,2024-11-17
+OBS-0884,Makassar,31.1,84,Cerah,2024-11-17
+OBS-0885,Malang,22.2,87,Hujan Petir,2024-11-18
+OBS-0886,Jakarta,30.1,74,Cerah,2024-11-19
+OBS-0887,Yogyakarta,28.9,80,Berawan,2024-11-19
+OBS-0888,Makassar,28.0,69,Cerah,2024-11-19
+OBS-0889,Surabaya,31.2,72,Cerah,2024-11-19
+OBS-0890,Bandung,22.4,76,Cerah,2024-11-19
+OBS-0891,Surabaya,30.5,73,Cerah,2024-11-19
+OBS-0892,Yogyakarta,25.6,85,Hujan,2024-11-20
+OBS-0893,Jakarta,31.4,88,Berawan,2024-11-20
+OBS-0894,Denpasar,27.6,87,Hujan Petir,2024-11-20
+OBS-0895,Makassar,28.1,79,Hujan Petir,2024-11-21
+OBS-0896,Makassar,30.1,78,Cerah,2024-11-21
+OBS-0897,Malang,21.4,82,Hujan Petir,2024-11-21
+OBS-0898,Malang,24.4,81,Cerah,2024-11-21
+OBS-0899,Bandung,20.1,94,Hujan Petir,2024-11-21
+OBS-0900,Surabaya,29.6,87,Hujan,2024-11-22
+OBS-0901,Yogyakarta,27.5,85,Berawan,2024-11-22
+OBS-0902,Surabaya,27.8,78,Hujan Petir,2024-11-23
+OBS-0903,Yogyakarta,24.8,98,Hujan Petir,2024-11-23
+OBS-0904,Jakarta,31.6,78,Berawan,2024-11-23
+OBS-0905,Surabaya,30.5,81,Cerah,2024-11-24
+OBS-0906,Jakarta,27.7,89,Hujan Petir,2024-11-24
+OBS-0907,Bandung,22.5,81,Berawan,2024-11-24
+OBS-0908,Surabaya,30.3,74,Berawan,2024-11-26
+OBS-0909,Denpasar,28.4,81,Hujan,2024-11-26
+OBS-0910,Yogyakarta,27.2,78,Berawan,2024-11-27
+OBS-0911,Medan,29.1,83,Cerah,2024-11-27
+OBS-0912,Jakarta,28.6,85,Hujan,2024-11-27
+OBS-0913,Surabaya,31.1,76,Cerah,2024-11-28
+OBS-0914,Yogyakarta,25.8,85,Hujan,2024-11-28
+OBS-0915,Jakarta,27.2,83,Hujan,2024-11-28
+OBS-0916,Bandung,22.9,91,Hujan,2024-11-28
+OBS-0917,Yogyakarta,26.7,79,Berawan,2024-11-28
+OBS-0918,Surabaya,30.2,77,Berawan,2024-11-28
+OBS-0919,Bandung,23.2,80,Berawan,2024-11-29
+OBS-0920,Jakarta,27.7,100,Berawan,2024-11-29
+OBS-0921,Yogyakarta,26.3,81,Cerah,2024-11-30
+OBS-0922,Surabaya,30.1,71,Cerah,2024-12-01
+OBS-0923,Denpasar,27.7,79,Hujan,2024-12-01
+OBS-0924,Denpasar,25.7,83,Hujan,2024-12-02
+OBS-0925,Medan,27.2,83,Cerah,2024-12-02
+OBS-0926,Denpasar,29.4,79,Berawan,2024-12-02
+OBS-0927,Surabaya,29.0,78,Berawan,2024-12-03
+OBS-0928,Yogyakarta,24.2,89,Hujan,2024-12-03
+OBS-0929,Medan,27.0,84,Hujan,2024-12-03
+OBS-0930,Surabaya,31.8,67,Cerah,2024-12-03
+OBS-0931,Denpasar,26.3,93,Hujan Petir,2024-12-03
+OBS-0932,Malang,21.3,88,Hujan,2024-12-03
+OBS-0933,Surabaya,29.6,83,Berawan,2024-12-04
+OBS-0934,Makassar,28.3,88,Berawan,2024-12-04
+OBS-0935,Medan,26.9,80,Berawan,2024-12-04
+OBS-0936,Medan,25.7,87,Hujan,2024-12-05
+OBS-0937,Yogyakarta,25.5,89,Hujan Petir,2024-12-05
+OBS-0938,Surabaya,29.5,81,Berawan,2024-12-05
+OBS-0939,Surabaya,25.5,82,Hujan,2024-12-06
+OBS-0940,Jakarta,29.1,80,Hujan,2024-12-06
+OBS-0941,Medan,26.2,90,Hujan,2024-12-07
+OBS-0942,Makassar,30.4,76,Cerah,2024-12-07
+OBS-0943,Malang,22.1,93,Hujan Petir,2024-12-07
+OBS-0944,Denpasar,29.2,79,Cerah,2024-12-07
+OBS-0945,Surabaya,26.6,82,Hujan,2024-12-08
+OBS-0946,Medan,27.3,83,Hujan,2024-12-08
+OBS-0947,Surabaya,29.8,83,Berawan,2024-12-08
+OBS-0948,Malang,23.6,75,Hujan Petir,2024-12-08
+OBS-0949,Jakarta,27.9,92,Hujan,2024-12-10
+OBS-0950,Bandung,19.1,99,Hujan Petir,2024-12-10
+OBS-0951,Jakarta,27.8,91,Hujan Petir,2024-12-10
+OBS-0952,Malang,23.4,89,Hujan Petir,2024-12-10
+OBS-0953,Denpasar,27.6,84,Hujan Petir,2024-12-12
+OBS-0954,Medan,25.3,95,Hujan,2024-12-12
+OBS-0955,Medan,24.8,94,Hujan Petir,2024-12-12
+OBS-0956,Denpasar,26.7,81,Hujan,2024-12-13
+OBS-0957,Malang,21.1,86,Hujan,2024-12-13
+OBS-0958,Bandung,21.9,89,Hujan Petir,2024-12-14
+OBS-0959,Denpasar,27.2,88,Hujan,2024-12-14
+OBS-0960,Surabaya,30.8,68,Cerah,2024-12-14
+OBS-0961,Surabaya,31.0,77,Hujan,2024-12-14
+OBS-0962,Medan,26.5,91,Hujan,2024-12-14
+OBS-0963,Surabaya,30.0,72,Cerah,2024-12-14
+OBS-0964,Denpasar,27.9,82,Hujan,2024-12-15
+OBS-0965,Denpasar,27.8,83,Berawan,2024-12-15
+OBS-0966,Denpasar,23.3,91,Hujan Petir,2024-12-15
+OBS-0967,Jakarta,28.2,94,Hujan,2024-12-16
+OBS-0968,Denpasar,28.1,83,Berawan,2024-12-16
+OBS-0969,Surabaya,27.9,80,Hujan Petir,2024-12-17
+OBS-0970,Medan,24.8,87,Hujan,2024-12-17
+OBS-0971,Surabaya,29.1,83,Hujan,2024-12-18
+OBS-0972,Malang,22.3,88,Hujan,2024-12-18
+OBS-0973,Makassar,26.9,80,Hujan,2024-12-19
+OBS-0974,Surabaya,27.0,83,Hujan,2024-12-19
+OBS-0975,Jakarta,29.1,89,Hujan Petir,2024-12-20
+OBS-0976,Jakarta,30.0,77,Cerah,2024-12-21
+OBS-0977,Denpasar,24.8,87,Hujan,2024-12-22
+OBS-0978,Bandung,22.1,85,Hujan,2024-12-22
+OBS-0979,Bandung,23.5,80,Cerah,2024-12-22
+OBS-0980,Bandung,20.7,96,Hujan,2024-12-23
+OBS-0981,Bandung,23.0,83,Berawan,2024-12-23
+OBS-0982,Bandung,20.9,96,Hujan Petir,2024-12-23
+OBS-0983,Denpasar,25.9,83,Hujan,2024-12-26
+OBS-0984,Bandung,19.6,93,Hujan Petir,2024-12-27
+OBS-0985,Malang,21.8,82,Hujan,2024-12-27
+OBS-0986,Medan,25.6,86,Hujan,2024-12-27
+OBS-0987,Malang,19.4,96,Hujan Petir,2024-12-28
+OBS-0988,Yogyakarta,27.4,80,Cerah,2024-12-28
+OBS-0989,Denpasar,26.5,84,Hujan,2024-12-28
+OBS-0990,Jakarta,29.5,73,Cerah,2024-12-29
+OBS-0991,Jakarta,29.3,79,Hujan,2024-12-29
+OBS-0992,Jakarta,29.4,83,Hujan Petir,2024-12-29
+OBS-0993,Malang,23.8,89,Berawan,2024-12-30
+OBS-0994,Medan,24.7,98,Hujan Petir,2024-12-30
+OBS-0995,Denpasar,28.7,78,Berawan,2024-12-30
+OBS-0996,Denpasar,27.9,86,Berawan,2024-12-30
+OBS-0997,Malang,24.7,79,Cerah,2024-12-30
+OBS-0998,Bandung,19.7,89,Hujan Petir,2024-12-31
+OBS-0999,Bandung,19.7,89,Hujan,2024-12-31
+OBS-1000,Makassar,29.5,78,Berawan,2024-12-31
